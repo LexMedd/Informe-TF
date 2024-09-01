@@ -18,6 +18,7 @@ Relación de Integrantes:
 - Vasquez Requejo, Augusto Mathias Leonardo - U20221A955
 - Ticona Panduro, Estrella del Pilar - U202210659
 - Morales Sosa, Arnold Gabriel - U201822516
+- Becerra llempen, Fabiola Becerra -u20171a518
 
 ## Historial de Versiones
 
