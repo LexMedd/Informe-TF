@@ -1,6 +1,6 @@
 ﻿# INFORME DEL TRABAJO FINAL
 
-![alt text](assets/imgs/upc.png)
+![alt text](assets/image1/upc.png)
 
 ### UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
