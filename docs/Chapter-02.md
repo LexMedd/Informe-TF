@@ -107,7 +107,7 @@ a entrevistas.
 
 User persona Medico 
 
-![](/assets/imgs/Chapter%2002/Medic%20UX%20Persona.png)
+![](assets/imgs/Chapter%2002/Medic%20UX%20Persona.png)
 
 
 ### 2.3.5. As-is Scenario Mapping
