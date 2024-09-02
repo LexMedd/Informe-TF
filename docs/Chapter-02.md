@@ -47,7 +47,63 @@ Teniendo en cuenta el análisis SWOT previamente presentado para LexMedd, propon
 - **Táctica 5.1:** Incorporar nuevas tecnologías, como inteligencia artificial, para mejorar la predicción de resultados de casos, el análisis de tendencias en demandas de negligencia médica, y la automatización de procesos legales.
 - **Táctica 5.2:** Mantener un ciclo constante de desarrollo y actualización de la plataforma para asegurar que LexMedd se mantenga a la vanguardia en el mercado legal.
 
+### 2.2 Entrevistas
+La sección abarca el proceso de investigación de nuestros segmentos objetivos mediante la recolección de información en base
+a entrevistas.
 
+### 2.2.1. Diseño de entrevistas.
+
+
+### Entrevista para LexMedd
+
+### Entrevista para Médicos
+
+#### Preguntas Principales:
+
+1. **¿Podría proporcionarnos su nombre completo y su especialidad médica?**
+2. **¿Cuánto tiempo de experiencia posee en su especialidad y cuál es su rol actual en su práctica médica?**
+3. **¿Qué actividades desempeña relacionadas con la documentación y reporte de casos de posibles negligencias médicas?**
+4. **¿Cómo interactúa con su equipo para asegurar que los informes médicos sean precisos y completos en casos de negligencia médica?**
+5. **¿Podría describir el proceso de documentación de un caso de negligencia médica desde la perspectiva médica?**
+6. **¿Con qué frecuencia documenta los procesos relacionados con la atención médica de los pacientes?**
+7. **¿Considera tedioso el registro de procesos médicos? ¿Cómo cree que podría agilizarse u optimizarse este proceso?**
+8. **¿Han habido casos de confusiones o imprecisiones en la documentación médica que hayan afectado casos de negligencia médica? ¿Cómo se han abordado estos problemas?**
+9. **¿Cuál es la importancia de la documentación precisa en la gestión de casos de negligencia médica?**
+10. **¿Qué desafíos enfrenta en la recopilación y presentación de pruebas médicas en casos de negligencia?**
+11. **¿Qué factores son los más importantes a considerar para asegurar la precisión en la documentación médica relacionada con negligencia?**
+12. **¿Cómo evalúa la efectividad de la documentación médica en casos de negligencia? ¿Qué indicadores utiliza para medir su éxito?**
+13. **¿Qué funcionalidades considera que debe tener una aplicación web para ayudar en la documentación de casos médicos relacionados con negligencia?**
+14. **¿Cuál de estas características cree que es más importante en una aplicación web: velocidad, facilidad de uso o una interfaz amplia?**
+15. **¿Qué problemas cree que podrían surgir del uso de dicha aplicación en la gestión de casos de negligencia médica?**
+
+### Entrevista para Abogados
+
+#### Preguntas Principales:
+
+1. **¿Podría proporcionarnos su nombre completo y su especialidad legal?**
+2. **¿Cuánto tiempo de experiencia posee en el campo del derecho y en la gestión de casos de negligencia médica?**
+3. **¿Qué actividades desempeña en la gestión de casos de negligencia médica dentro de su práctica legal?**
+4. **¿Cómo interactúa con su equipo para asegurar que los casos de negligencia médica se gestionen de manera eficiente y efectiva?**
+5. **¿Podría proporcionar una descripción general del proceso legal de un caso de negligencia médica, desde la evaluación inicial hasta su resolución?**
+6. **¿Con qué frecuencia documenta y registra los procesos legales relacionados con los casos de negligencia médica?**
+7. **¿Considera tedioso el registro de procesos legales? ¿Cómo cree que podría agilizarse u optimizarse este proceso?**
+8. **¿Han habido casos de confusiones, imprecisiones o fallos en la comunicación al reportar el estado o progreso de los casos de negligencia médica? ¿Cómo han intentado solucionar estos inconvenientes?**
+9. **¿Cuál es la importancia de la documentación precisa y detallada en la gestión legal de casos de negligencia médica?**
+10. **¿Cuáles son los procesos clave que supervisa durante la gestión de un caso de negligencia médica?**
+11. **¿Qué factores son los más importantes a tomar en cuenta para asegurar una gestión legal exitosa de los casos de negligencia médica?**
+12. **¿Cómo evalúa la efectividad de la gestión legal de un caso de negligencia médica? ¿Qué indicadores utiliza para medir el éxito?**
+13. **¿Cómo se comunica la información sobre el estado y progreso de un caso de negligencia médica con otros departamentos o equipos?**
+14. **¿Qué funcionalidades considera que debe tener una aplicación web para ayudar en la gestión legal de casos de negligencia médica?**
+15. **¿Cuál de estas características cree que es más importante en una aplicación web: velocidad, facilidad de uso o una interfaz amplia?**
+16. **¿Qué problemas cree que podrían surgir del uso de dicha aplicación en la gestión legal de casos de negligencia médica?**
+
+### 2.2.2 Registro de Entrevistas.
+
+### 2.2.3 Análisis de Entrevistas
+
+##  2.3 Needfinding.
+
+### 2.3.1 User personas
 
 
 ### 2.3.5. As-is Scenario Mapping
