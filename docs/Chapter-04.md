@@ -130,10 +130,10 @@ Las etiquetas de SEO y meta tags son esenciales para asegurar que el contenido d
 Title :LexMed
 Para el Landing Page:
 Description: LexMed - Servicios de Abogados Especializados en Temas Legales Relacionados con Medicina - Landig Page
-Keywords: 
+Keywords: Asistencia Legal, Mala Praxis, Abogados, Especializados en Medicina, Asesoría Legal, Servicios Legales, Expertos Médicos, Recursos Legales, Casos Médicos.
 ## Title: LexMed
 Description: LexMed - Servicios de Abogados Especializados en Temas Legales Relacionados con Medicina - Web Site
-
+Keywords: Asistencia Legal, Mala Praxis, Abogados, Especializados en Medicina, Asesoría Legal, Servicios Legales, Expertos Médicos, Recursos Legales, Casos Médicos.
  
 
 ## <a name="_w8zo1ak9e4vn"></a>4.2.4. Searching Systems. 
