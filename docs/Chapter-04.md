@@ -127,13 +127,15 @@ LEXMed utiliza un sistema de etiquetado claro y consistente para garantizar que 
 ## <a name="_cs9pf7l7sm2e"></a> 4.2.3. SEO Tags and Meta Tags 
 Las etiquetas de SEO y meta tags son esenciales para asegurar que el contenido de LEXMed sea fácilmente descubierto por los motores de búsqueda, mejorando la visibilidad y el tráfico al sitio.
 
-Title :LexMed
+
 Para el Landing Page:
-Description: LexMed - Servicios de Abogados Especializados en Temas Legales Relacionados con Medicina - Landig Page
-Keywords: Asistencia Legal, Mala Praxis, Abogados, Especializados en Medicina, Asesoría Legal, Servicios Legales, Expertos Médicos, Recursos Legales, Casos Médicos.
-Title: LexMed
-Description: LexMed - Servicios de Abogados Especializados en Temas Legales Relacionados con Medicina - Web Site
-Keywords: Asistencia Legal, Mala Praxis, Abogados, Especializados en Medicina, Asesoría Legal, Servicios Legales, Expertos Médicos, Recursos Legales, Casos Médicos.
+- **Title:** LexMed
+- **Description:** LexMed - Servicios de Abogados Especializados en Temas Legales Relacionados con Medicina - Landig Page
+- **Keywords:** Asistencia Legal, Mala Praxis, Abogados, Especializados en Medicina, Asesoría Legal, Servicios Legales, Expertos Médicos, Recursos Legales, Casos Médicos.
+Para el Sitio Web:
+- **Title:** LexMed
+- **Description:** LexMed - Servicios de Abogados Especializados en Temas Legales Relacionados con Medicina - Web Site
+- **Keywords:** Asistencia Legal, Mala Praxis, Abogados, Especializados en Medicina, Asesoría Legal, Servicios Legales, Expertos Médicos, Recursos Legales, Casos Médicos.
  
 
 ## <a name="_w8zo1ak9e4vn"></a>4.2.4. Searching Systems. 
