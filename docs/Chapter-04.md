@@ -131,7 +131,7 @@ Title :LexMed
 Para el Landing Page:
 Description: LexMed - Servicios de Abogados Especializados en Temas Legales Relacionados con Medicina - Landig Page
 Keywords: Asistencia Legal, Mala Praxis, Abogados, Especializados en Medicina, Asesoría Legal, Servicios Legales, Expertos Médicos, Recursos Legales, Casos Médicos.
-## Title: LexMed
+Title: LexMed
 Description: LexMed - Servicios de Abogados Especializados en Temas Legales Relacionados con Medicina - Web Site
 Keywords: Asistencia Legal, Mala Praxis, Abogados, Especializados en Medicina, Asesoría Legal, Servicios Legales, Expertos Médicos, Recursos Legales, Casos Médicos.
  
