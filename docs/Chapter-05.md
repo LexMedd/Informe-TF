@@ -50,9 +50,10 @@ Los miembros del equipo accederán a través de la línea de comandos en sus sis
 Nuestro proyecto seguirá los lineamientos del modelo GitFlow para controlar las versiones, donde utilizaremos GitHub como plataforma y sistema para el control de dichas versiones. Links del repositorio de GitHub:
 
 - Link de la organización: https://github.com/LexMedd
+- Repositorio landing page: https://github.com/LexMedd/Landing-Page
 - Link del informe del proyecto: https://github.com/LexMedd/Informe-TF
 
-Estructura de las ramas:
+**Estructura de las ramas:**
 
 - Main Branch: Rama principal de la aplicación. Se encuentran las versiones más actualizadas y estables de desarrollo, por medio de un proceso de admisión se agregan cambios de otras ramas derivadas.
 - Develop Branch: Esta rama es donde se reunen de las demás ramas los avances del proyecto y desarollo. Se evalúan todos los cambios para ser registradas posteriormente en nuestra rama main.
@@ -61,6 +62,19 @@ Estructura de las ramas:
 - Chapter-03 Branch: En esta rama se actualizará toda la información y documentación del capítulo 3 del producto presentado.
 - Chapter-04 Branch: En esta rama se actualizará toda la información y documentación del capítulo 4 del producto presentado.
 - Chapter-05 Branch: En esta rama se actualizará toda la información y documentación del capítulo 5 del producto presentado.
+  
+**Commit Conventions**
+Para los commits en Github se han utilizado los estándares convencionales versión 1.1.0 (https://www.conventionalcommits.org/en/v1.0.0/) según la estructura:
+<type>[optional scope]: <description>
+●	Type: representa el tipo de commit, sea tipo feature (feat), fix (fix) o docs (docs).
+●	Optional scope: es opcional y representa el alcance del commit.
+●	Description: descripción detallada del commit y acciones realizadas.
+
+**Semantic Versioning**
+Los releases se realizan según los estándares de Semantinc Versioning 2.0 (https://semver.org/), según el formato MAJOR.MINOR.PATCH.
+●	MAJOR: versión mayor cuando se implementa cambios de APIs incompatibles.
+●	MINOR: versión menor cuando se añaden features y funcionalidades nuevas.
+●	PATCH versión de parche de bug fixes y hotfixes.
 
 ### 5.1.3 Source Code Style Guide & Conventions
 
