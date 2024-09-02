@@ -128,10 +128,11 @@ LEXMed utiliza un sistema de etiquetado claro y consistente para garantizar que 
 Las etiquetas de SEO y meta tags son esenciales para asegurar que el contenido de LEXMed sea fácilmente descubierto por los motores de búsqueda, mejorando la visibilidad y el tráfico al sitio.
 
 Titulo: 
+Para el Landing Page:
 
-Lading page:
-
-Web Aplication: 
+Title: LexMed
+Description: LexMed - 
+ 
 
 ## <a name="_w8zo1ak9e4vn"></a>4.2.4. Searching Systems. 
 En el Searching Systems de la plataforma LexMed, se prioriza la facilidad de uso y la precisión en la búsqueda de información relevante para los usuarios. El sistema de búsqueda está diseñado para que los abogados  puedan localizar rápidamente casos, perfiles profesionales, y documentos importantes. La búsqueda se realiza a través de un motor avanzado que permite filtrar resultados por categorías como especialidad médica, gravedad del caso, prioridad, y fecha de reciente actividad.
