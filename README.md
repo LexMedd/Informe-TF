@@ -6,12 +6,12 @@
 
 ### INGENIERÍA DE SISTEMAS DE INFORMACIÓN Y SOFTWARE
 
-### CICLO 2024-01
+### CICLO 2024-02
 
 Nombre del curso: Desarrollo de Aplicaciones Open-Source  
  Sección: SW56 
  Nombre del Profesor: Efraín Ricardo Bautista Ubillús   
- Nombre del StartUp: Testigos de Jehova  
+ Nombre del StartUp: Abogados especialiados en Medicina 
  Nombre del Producto: LexMed 
 Relación de Integrantes:
 
@@ -30,14 +30,14 @@ Relación de Integrantes:
     <th colspan="5">Descripción de Modificaciones</td>
   <tr>
     <td colspan="3">1era</td>
-    <td colspan="3">29/03/2024</td>
+    <td colspan="3">20/08/2024</td>
     <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Estrella del Pilar Ticona Panduro</td>
     <td colspan="5">Carátula, CapítuloI, Capítulo II</td>
   </tr>
   <tr>
     <td colspan="3">2da</td>
-    <td colspan="3">5/04/2024</td>
-    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo </td>
+    <td colspan="3">27/08/2024</td>
+    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Fabiola Dayane Becerra Llempen </td>
     <td colspan="5">CapítuloIII, Capítulo IV</td>
   </tr>
   <tr>
