@@ -23,6 +23,31 @@ El objetivo del siguiente análisis competitivo es identificar las fortalezas y 
 |                     | **Oportunidades** | Expansión en el mercado internacional. | Ampliación de servicios legales personalizados. | Crecimiento en nuevas áreas de la ley médica. | Integración con otras herramientas legales y médicas. |
 |                     | **Amenazas** | Competencia con plataformas más grandes y despachos tradicionales. | Cambios en la regulación legal o en la demanda de servicios legales. | Aumento de competencia con bufetes emergentes. | Competencia de soluciones más asequibles. |
 
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+Teniendo en cuenta el análisis SWOT previamente presentado para LexMedd, proponemos las siguientes estrategias y tácticas competitivas:
+
+#### Estrategia 1: Diferenciación a través de la especialización en negligencia médica
+- **Táctica 1.1:** Desarrollar funcionalidades específicas que aborden los desafíos únicos de la negligencia médica, como herramientas para la gestión de registros médicos, análisis de pruebas, y plantillas personalizadas para la redacción de demandas.
+- **Táctica 1.2:** Crear una base de datos integrada de expertos médicos y legales que sea accesible desde la plataforma, estableciendo acuerdos con asociaciones médicas y bufetes especializados.
+
+#### Estrategia 2: Enfoque en la facilidad de uso y la eficiencia
+- **Táctica 2.1:** Simplificar la interfaz de usuario y optimizar el flujo de trabajo para que los abogados puedan gestionar casos complejos de manera más eficiente.
+- **Táctica 2.2:** Implementar opciones de personalización que permitan a los usuarios adaptar la plataforma a sus necesidades específicas, y automatizar procesos repetitivos.
+
+#### Estrategia 3: Liderazgo en costos para pequeños despachos especializados
+- **Táctica 3.1:** Ofrecer planes de precios competitivos, diseñados específicamente para despachos pequeños o abogados individuales que se especializan en negligencia médica.
+- **Táctica 3.2:** Introducir modelos de pago flexibles, como planes de suscripción escalonados o descuentos para nuevos usuarios, que atraigan a clientes con recursos limitados.
+
+#### Estrategia 4: Alianzas estratégicas con asociaciones médicas y legales
+- **Táctica 4.1:** Establecer alianzas con asociaciones médicas, hospitales, y organizaciones legales especializadas en negligencia médica para aumentar la visibilidad y credibilidad de LexMedd.
+- **Táctica 4.2:** Colaborar en la organización de eventos, seminarios, y conferencias dirigidos a abogados especializados en negligencia médica, para fortalecer la red de contactos y promover la plataforma.
+
+#### Estrategia 5: Innovación continua y actualización tecnológica
+- **Táctica 5.1:** Incorporar nuevas tecnologías, como inteligencia artificial, para mejorar la predicción de resultados de casos, el análisis de tendencias en demandas de negligencia médica, y la automatización de procesos legales.
+- **Táctica 5.2:** Mantener un ciclo constante de desarrollo y actualización de la plataforma para asegurar que LexMedd se mantenga a la vanguardia en el mercado legal.
+
+
 
 
 ### 2.3.5. As-is Scenario Mapping
