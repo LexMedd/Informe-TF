@@ -180,15 +180,19 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 </p>
 
 <div align="center">
+  
 ## <a name="_7e2enm1mgr6i"></a> 4.4. Web Applications UX/UI Design. 
 ## <a name="_5zi3tdd6ruhc"></a>4.4.1. Web Applications Wireframes. 
 ## <a name="_o8oaouyyyrnh"></a>4.4.2. Web Applications Wireflow Diagrams. 
 ## <a name="_rvsmsee9togy"></a>4.4.2. Web Applications Mock-ups. 
 ## <a name="_cjjnua53arvh"></a>4.4.3. Web Applications User Flow Diagrams. 
 ## <a name="_lyzx2drr86gc"></a>4.5. Web Applications Prototyping. 
-##4.6. Domain-Driven Software Architecture. 
-##4.6.1. Software Architecture Context Diagram. 
-##4.6.2. Software Architecture Container Diagrams.
+
+
+
+## <a name="_mu9vw6k7b4rn"></a>4.6. Domain-Driven Software Architecture. 
+## <a name="_mu9vw6k7b4rn"></a> 4.6.1. Software Architecture Context Diagram. 
+## <a name="_mu9vw6k7b4rn"></a> 4.6.2. Software Architecture Container Diagrams.
 ## 4.6.3. Software Architecture Components Diagrams. 
 ## 4.7. Software Object-Oriented Design. 
 ## 4.7.1. Class Diagrams. 
