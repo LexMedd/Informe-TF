@@ -142,13 +142,13 @@ Este sistema también integra sugerencias automáticas y resultados en tiempo re
 ## <a name="_fbk91s7hjyxz"></a>4.2.5. Navigation Systems. 
 Los sistemas de navegación en LEXMed están diseñados para ser intuitivos y permitir a los usuarios moverse fácilmente entre las diferentes secciones del sitio.
 
-- **Menú Principal:**
+ **Menú Principal:**
   - Un menú de navegación claro y accesible en la parte superior de cada página.
   - Ejemplo: "Inicio", "Servicios", "Casos", "Contacto", "Testimonios", "Mi Cuenta".
-- **Breadcrumbs (Migas de Pan):**
+-**Breadcrumbs (Migas de Pan):**
   - Indica la ubicación del usuario dentro del sitio y permite retroceder fácilmente.
   - Ejemplo: "Inicio > Servicios > Asesoría Legal > Mala Praxis".
-- **Enlaces Internos:**
+ **Enlaces Internos:**
   - Enlaces dentro del contenido que faciliten la navegación entre secciones relacionadas.
   - Ejemplo: En una página sobre "Mala Praxis", incluir un enlace directo a "Contactar a un Abogado".
 
