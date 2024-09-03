@@ -20,57 +20,15 @@ Relación de Integrantes:
 - Morales Sosa, Arnold Gabriel - U201822516
 - Becerra llempen, Fabiola Becerra -u20171a518
 
-## Historial de Versiones
+## Registro de Versiones del Informe
 
-<table>
-<tr>
-    <th colspan="3">Version</th>
-    <th colspan="3">Fecha</th>
-    <th colspan="10">Autores</td>
-    <th colspan="5">Descripción de Modificaciones</td>
-  <tr>
-    <td colspan="3">1era</td>
-    <td colspan="3">20/08/2024</td>
-    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Estrella del Pilar Ticona Panduro</td>
-    <td colspan="5">Carátula, CapítuloI, Capítulo II</td>
-  </tr>
-  <tr>
-    <td colspan="3">2da</td>
-    <td colspan="3">27/08/2024</td>
-    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Fabiola Dayane Becerra Llempen </td>
-    <td colspan="5">CapítuloIII, Capítulo IV</td>
-  </tr>
-  <tr>
-    <td colspan="3">3ra</td>
-    <td colspan="3">12/04/2024</td>
-    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo,</td>
-    <td colspan="5">Capítulo V, Desarrollo Landing Page</td>
-  </tr>
-  <tr>
-    <td colspan="3">4ta</td>
-    <td colspan="3">20/04/2024</td>
-    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Gabriel Stefano Garcia Rodriguez, Anatoly Andrey Noriega Suschenko, Diego Flores Avalos, Fabricio Apaza Morales.</td>
-    <td colspan="5">Correccion CapítuloI, Capítulo II, CapítuloIII, Capítulo IV, Capítulo V</td>
-  </tr>
-  <tr>
-    <td colspan="3">5ta</td>
-    <td colspan="3">29/04/2024</td>
-    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Gabriel Stefano Garcia Rodriguez, Anatoly Andrey Noriega Suschenko, Diego Flores Avalos, Fabricio Apaza Morales.</td>
-    <td colspan="5">Capítulo V, Desarrollo Frontend</td>
-  </tr>
-  <tr>
-    <td colspan="3">6ta</td>
-    <td colspan="3">06/06/2024</td>
-    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Gabriel Stefano Garcia Rodriguez, Anatoly Andrey Noriega Suschenko, Diego Flores Avalos, Fabricio Apaza Morales, Carlos Avellaneda.</td>
-    <td colspan="5">Capítulo V, Desarrollo Backend</td>
-  </tr>
-  <tr>
-    <td colspan="3">7ma</td>
-    <td colspan="3">24/06/2024</td>
-    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Gabriel Stefano Garcia Rodriguez, Anatoly Andrey Noriega Suschenko, Diego Flores Avalos, Fabricio Apaza Morales, Carlos Avellaneda.</td>
-    <td colspan="5">Capítulo V, Desarrollo Backend Y Frontend - Integracion</td>
-  </tr>
-  </table>
+| Versión | Fecha       | Autor                   | Descripción de modificación                          |
+|---------|-------------|-------------------------|------------------------------------------------------|
+| TB1       | 14-08-2024| LexMedd  |●	Capítulo I: Introducción <br>●	Capítulo II: Requirements Elicitation & Analysis,<br>●	Capítulo III: Requirements Specification<br>●	Capítulo IV: Product Design<br>●	Capítulo V: Product Implementation, Validation & Deployment<br>●Avance de Conclusiones, Bibliografía y Anexos|
+| TP1      | [--2024]| [Todos los integrantes]  |       |
+| TP1      | [--2024]| [Todos los integrantes]  |                           |
+| TB2      | [--2024]| [Todos los integrantes]  |               |
+| TF      | [--2024]| [Todos los integrantes]  |                  |
 
 ## Project Report Collaboration Insights
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
