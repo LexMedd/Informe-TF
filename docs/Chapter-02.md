@@ -109,7 +109,7 @@ User persona Medico
 
 ![Medic UX Persona](../assets/imgs/Medic%20UX%20Persona.png)
 
-
+![Lawyer UX Persona](../assets/imgs/Lawyer%20UX%20Persona.png)
 
 ### 2.3.5. As-is Scenario Mapping
 Haciendo uso del brainstorming se identificaron las fases de acuerdo a lo propuesto en los user persona. De este modo, hemos conseguido realizar los As-Is Mapping para los segmentos dados.
