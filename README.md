@@ -25,10 +25,10 @@ Relación de Integrantes:
 | Versión | Fecha       | Autor                   | Descripción de modificación                          |
 |---------|-------------|-------------------------|------------------------------------------------------|
 | TB1       | 14-08-2024| LexMedd  |●	Capítulo I: Introducción <br>●	Capítulo II: Requirements Elicitation & Analysis,<br>●	Capítulo III: Requirements Specification<br>●	Capítulo IV: Product Design<br>●	Capítulo V: Product Implementation, Validation & Deployment<br>●Avance de Conclusiones, Bibliografía y Anexos|
-| TP1      | [--2024]| [Todos los integrantes]  |       |
-| TP1      | [--2024]| [Todos los integrantes]  |                           |
-| TB2      | [--2024]| [Todos los integrantes]  |               |
-| TF      | [--2024]| [Todos los integrantes]  |                  |
+| TP1      | --2024| LexMedd |       |
+| TP1      | --2024| LexMedd  |                           |
+| TB2      | --2024| LexMedd  |               |
+| TF      |--2024| LexMedd  |                  |
 
 ## Project Report Collaboration Insights
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
