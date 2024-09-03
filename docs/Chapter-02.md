@@ -105,9 +105,11 @@ a entrevistas.
 
 ### 2.3.1 User personas
 
-User persona Medico 
+## User persona Medico 
 
 ![Medic UX Persona](../assets/imgs/Medic%20UX%20Persona.png)
+
+## User persona Abogado 
 
 ![Lawyer UX Persona](../assets/imgs/Lawyer%20UX%20Persona.png)
 
