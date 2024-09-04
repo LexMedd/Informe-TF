@@ -196,6 +196,11 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 <img src="img/pagoo.png" alt="Pasarela de pago" width="100%">
 **Confirmación de pago:**  Este apartado es para confirmar la transacción 
 <img src="img/confirmacionp.png" alt="Confirmación de pago" width="100%">
+*Perfil:**  En este apartado el abogado personaliza su foto y otros datos como su nombre, cambio de correo, de contraseña y de plan. 
+<img src="img/perfil_abogado.png" alt="Perfil de abogado" width="100%">
+**Casos:** En este apartado el abogado podrá visualizar todos los planes según su suscripción 
+<img src="img/casos_abogado.png" alt="casos que puede escoger el abogado" width="100%">
+
 ## <a name="_o8oaouyyyrnh"></a>4.4.2. Web Applications Wireflow Diagrams. 
 ## <a name="_rvsmsee9togy"></a>4.4.2. Web Applications Mock-ups. 
 ## <a name="_cjjnua53arvh"></a>4.4.3. Web Applications User Flow Diagrams. 
