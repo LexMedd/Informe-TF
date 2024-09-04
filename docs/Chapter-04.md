@@ -244,6 +244,10 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 </p>
 
 ## 4.6.3. Software Architecture Components Diagrams. 
+**Payment Context Component Diagram**
+<p align="center">
+  <img src="img/payment.PNG" alt="tipografia" width="100%">
+</p>
 ## 4.7. Software Object-Oriented Design. 
 ## 4.7.1. Class Diagrams. 
 ## 4.7.2. Class Dictionary. 
