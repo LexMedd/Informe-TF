@@ -203,11 +203,15 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 **Detalles:** En el botón “ver detalle”, el abogado podrá observar detalladamente el caso de un Doctor y el rango de tarifa que está dispuesto a pagar y el abogado puede aceptar o subir el pago. 
 <img src="img/aceptar_caso_abogado.png" alt="casos que puede escoger el abogado" width="100%">
 **Mis casos:** En este apartado el abogado puede observar todos los casos que lleva y tiene un filtro el cual puede buscarlo por fecha, orden alfabético, descendente o ascendente ,y demográficamente  
-<img src="img/mis_casos_abogado.png" alt="casos que puede escoger el abogado" width="100%">
+<img src="img/mis_casos_abogado.png" alt="casos que el abogado tiene" width="100%">
 **Detalle:** en el botón “detalle” aparecerá este apartado el cual tiene el contexto del caso 
-<img src="img/caso_abogado.png" alt="casos que puede escoger el abogado" width="100%">
+<img src="img/caso_abogado.png" alt="Caso de un medico detallado" width="100%">
 # Aplicación para Doctores:
 **Mi perfil:** En este apartado el doctor personaliza su foto y otros datos como su nombre, cambio de correo y de contraseña.
+<img src="img/perfil_doctor.png" alt="Perfil Doctor" width="100%">
+
+
+
 
 ## <a name="_o8oaouyyyrnh"></a>4.4.2. Web Applications Wireflow Diagrams. 
 ## <a name="_rvsmsee9togy"></a>4.4.2. Web Applications Mock-ups. 
