@@ -272,7 +272,8 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 ## 4.7.2. Class Dictionary. 
 
 A continuación, se presentan las clases principales del diagrama de clases:
-| FirebaseAuth |
+Método para autenticar cuentas con el sistema de Google Firebase
+|-----------|----------|
 | Servicio de autenticación de cuentas del sistema de Google Firebase. |
 |Atributo| Descripcion|
 |Metodo| Descripcion|
