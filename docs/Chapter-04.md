@@ -276,6 +276,6 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 link: https://my.vertabelo.com/doc/Qx6uceSIer5RxAoWAxK2BU7scyccv8nR
 
 <p align="center">
-  <img src="img/databasediagram.PNG" alt="tipografia" width="100%">
+  <img src="img/databasediagram.png" alt="tipografia" width="100%">
 </p>
 
