@@ -237,7 +237,12 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 <p align="center">
   <img src="img/software.PNG" alt="tipografia" width="100%">
 </p>
+
 ## <a name="_mu9vw6k7b4rn"></a> 4.6.2. Software Architecture Container Diagrams.
+<p align="center">
+  <img src="img/container.PNG" alt="tipografia" width="100%">
+</p>
+
 ## 4.6.3. Software Architecture Components Diagrams. 
 ## 4.7. Software Object-Oriented Design. 
 ## 4.7.1. Class Diagrams. 
