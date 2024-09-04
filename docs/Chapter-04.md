@@ -234,6 +234,9 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 
 ## <a name="_mu9vw6k7b4rn"></a>4.6. Domain-Driven Software Architecture. 
 ## <a name="_mu9vw6k7b4rn"></a> 4.6.1. Software Architecture Context Diagram. 
+<p align="center">
+  <img src="img/software.PNG" alt="tipografia" width="100%">
+</p>
 ## <a name="_mu9vw6k7b4rn"></a> 4.6.2. Software Architecture Container Diagrams.
 ## 4.6.3. Software Architecture Components Diagrams. 
 ## 4.7. Software Object-Oriented Design. 
