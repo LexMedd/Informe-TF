@@ -212,37 +212,21 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 
 **Gestión de casos:**  En este apartado el doctor puede observar su caso, el abogado quien esta llevando el caso y como va el estado del caso.
 
-![Tabla
-
-Descripción generada automáticamente](Aspose.Words.1a5ab8fb-4bc9-40d5-b767-8b4bd0eff9c5.013.png)
-
-Al dar clic en un documento aparecerá el documento que creo el doctor 
-
-![Interfaz de usuario gráfica, Texto
-
-Descripción generada automáticamente](Aspose.Words.1a5ab8fb-4bc9-40d5-b767-8b4bd0eff9c5.014.png)
 
 **Crear caso:** En el botón “crear caso” el doctor puede crear un caso, señalando si es asesoría o defensa legal, especificando su consulta o caso, proponiendo un rango de pago y opcionalmente agregar algún documento o foto.
 
-![Interfaz de usuario gráfica, Texto, Aplicación
 
-Descripción generada automáticamente](Aspose.Words.1a5ab8fb-4bc9-40d5-b767-8b4bd0eff9c5.015.png)
 
 **Propuesta:** En este apartado el Doctor puede aceptar la propuesta del abogado para llevar su caso ![Tabla
 
-Descripción generada automáticamente](Aspose.Words.1a5ab8fb-4bc9-40d5-b767-8b4bd0eff9c5.016.png)
+
 
 **Pasarela de pago:** Este apartado es para que pague el servicio del abogado que seleccionó, con la tarjeta de crédito o débito. 
 
-![Interfaz de usuario gráfica, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a5ab8fb-4bc9-40d5-b767-8b4bd0eff9c5.017.png)
+!
 
 **Confirmación de pago:**  Este apartado es para confirmar la transacción 
 
-![Interfaz de usuario gráfica, Texto, Aplicación
-
-Descripción generada automáticamente](Aspose.Words.1a5ab8fb-4bc9-40d5-b767-8b4bd0eff9c5.018.png)
 
 
 ## <a name="_o8oaouyyyrnh"></a>4.4.2. Web Applications Wireflow Diagrams. 
