@@ -270,6 +270,14 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 ## 4.7. Software Object-Oriented Design. 
 ## 4.7.1. Class Diagrams. 
 ## 4.7.2. Class Dictionary. 
+
+A continuación, se presentan las clases principales del diagrama de clases:
+| FirebaseAuth |
+| Servicio de autenticación de cuentas del sistema de Google Firebase. |
+|Atributo| Descripcion|
+|Metodo| Descripcion|
+|AuthenticateAccount(): void| Método para autenticar cuentas con el sistema de Google Firebase|
+
 # 4.8. Database Design. 
 ## 4.8.1. Database Diagram.
 
