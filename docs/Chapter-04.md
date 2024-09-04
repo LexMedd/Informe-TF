@@ -272,3 +272,10 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 ## 4.7.2. Class Dictionary. 
 ## 4.8. Database Design. 
 ## 4.8.1. Database Diagram.
+
+link: https://my.vertabelo.com/doc/Qx6uceSIer5RxAoWAxK2BU7scyccv8nR
+
+<p align="center">
+  <img src="img/databasediagram.PNG" alt="tipografia" width="100%">
+</p>
+
