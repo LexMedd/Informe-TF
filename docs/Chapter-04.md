@@ -211,14 +211,13 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 <img src="img/perfil_doctor.png" alt="Perfil Doctor" width="100%">
 
 **Gestión de casos:**  En este apartado el doctor puede observar su caso, el abogado quien esta llevando el caso y como va el estado del caso.
-
+<img src="img/casos_doctor.png" alt="gestión de casos" width="100%">
 
 **Crear caso:** En el botón “crear caso” el doctor puede crear un caso, señalando si es asesoría o defensa legal, especificando su consulta o caso, proponiendo un rango de pago y opcionalmente agregar algún documento o foto.
-
-
+<img src="img/crear_caso.png" alt="Crear caso" width="100%">
 
 **Propuesta:** En este apartado el Doctor puede aceptar la propuesta del abogado para llevar su caso 
-
+<img src="img/propuesta.png" alt="propuesta de abogados para llevar el caso" width="100%">
 
 
 **Pasarela de pago:** Este apartado es para que pague el servicio del abogado que seleccionó, con la tarjeta de crédito o débito. 
