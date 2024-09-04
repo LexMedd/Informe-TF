@@ -184,7 +184,7 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 ## <a name="_7e2enm1mgr6i"></a> 4.4. Web Applications UX/UI Design. 
 ## <a name="_5zi3tdd6ruhc"></a>4.4.1. Web Applications Wireframes. 
 **Inicio de sesión:** el usuario se registra, reestablece su contraseña o inicia sesión en la plataforma 
-<img src="img/inicio.png" alt="inicio" width="100%">
+<img src="assets/img/inicio.png" alt="inicio" width="100%">
 
 
 ## <a name="_o8oaouyyyrnh"></a>4.4.2. Web Applications Wireflow Diagrams. 
