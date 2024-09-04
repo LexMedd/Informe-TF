@@ -113,6 +113,43 @@ a entrevistas.
 
 ![Lawyer UX Persona](../assets/imgs/Lawyer%20UX%20Persona.png)
 
+### 2.3.2 User Task Matrix
+
+#### Dr. Alejandro Gómez (Médico)
+
+| **TAREA**                                     | **FRECUENCIA** | **IMPORTANCIA** |
+|-----------------------------------------------|----------------|-----------------|
+| Documentar casos de negligencia médica        | Siempre        | Alta            |
+| Revisar registros médicos                     | Frecuentemente | Alta            |
+| Coordinar con el equipo legal                 | A veces        | Alta            |
+| Reportar incidentes críticos                  | A veces        | Alta            |
+| Asistir a reuniones legales                   | A veces        | Media           |
+| Colaborar en la elaboración de informes       | Frecuentemente | Alta            |
+| Actualizar historial médico del paciente      | Siempre        | Alta            |
+| Participar en capacitaciones legales          | A veces        | Media           |
+| Realizar consultas de seguimiento             | Siempre        | Alta            |
+| Usar software de gestión de casos             | Frecuentemente | Alta            |
+
+#### Lic. Carla Rodríguez (Abogada)
+
+| **TAREA**                                     | **FRECUENCIA** | **IMPORTANCIA** |
+|-----------------------------------------------|----------------|-----------------|
+| Revisar casos de negligencia médica           | Siempre        | Alta            |
+| Analizar pruebas médicas                      | Frecuentemente | Alta            |
+| Coordinar con el equipo médico                | A veces        | Alta            |
+| Redactar documentos legales                   | Siempre        | Alta            |
+| Asistir a audiencias                          | Frecuentemente | Alta            |
+| Negociar acuerdos legales                     | A veces        | Alta            |
+| Brindar asesoría legal al personal médico     | Frecuentemente | Alta            |
+| Actualizar la base de datos de casos          | A veces        | Media           |
+| Participar en capacitaciones médicas          | A veces        | Media           |
+| Usar software de gestión de casos             | Frecuentemente | Alta            |
+
+### Observaciones
+
+- **Médicos**: Las tareas más frecuentes e importantes giran en torno a la documentación y la colaboración con equipos legales, así como la actualización constante de registros médicos.
+- **Abogados**: Las tareas se centran en la revisión de casos, la preparación de documentos legales y la coordinación con el equipo médico. La importancia y la frecuencia están alineadas con la necesidad de preparar y presentar casos de manera efectiva.
+
 ### 2.3.5. As-is Scenario Mapping
 Haciendo uso del brainstorming se identificaron las fases de acuerdo a lo propuesto en los user persona. De este modo, hemos conseguido realizar los As-Is Mapping para los segmentos dados.
 
