@@ -255,6 +255,11 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
   <img src="img/profile.PNG" alt="tipografia" width="100%">
 </p>
 
+**Chat Context Component Diagram**
+<p align="center">
+  <img src="img/chat.PNG" alt="tipografia" width="100%">
+</p>
+
 ## 4.7. Software Object-Oriented Design. 
 ## 4.7.1. Class Diagrams. 
 ## 4.7.2. Class Dictionary. 
