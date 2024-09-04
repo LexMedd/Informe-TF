@@ -189,7 +189,9 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 <img src="img/crear_cuenta.png" alt="Nuevo usuario" width="100%">
 **Reestablecer contraseña:** Cuando el usuario olvida su contraseña 
 <img src="img/olvido_contraseña.png" alt="olvido su contraseña" width="100%">
-
+# Aplicación Para Abogados:
+**Planes:** Cuando el abogado selecciona que es “Abogado” le aparecerá la opción de los planes de suscripción 
+<img src="img/planes.png" alt="Planes de subcripcion" width="100%">
 ## <a name="_o8oaouyyyrnh"></a>4.4.2. Web Applications Wireflow Diagrams. 
 ## <a name="_rvsmsee9togy"></a>4.4.2. Web Applications Mock-ups. 
 ## <a name="_cjjnua53arvh"></a>4.4.3. Web Applications User Flow Diagrams. 
