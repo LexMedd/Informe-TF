@@ -184,8 +184,11 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 ## <a name="_7e2enm1mgr6i"></a> 4.4. Web Applications UX/UI Design. 
 ## <a name="_5zi3tdd6ruhc"></a>4.4.1. Web Applications Wireframes. 
 **Inicio de sesión:** el usuario se registra, reestablece su contraseña o inicia sesión en la plataforma 
-<img src="/assets/img/inicio.png" alt="inicio" width="100%">
-
+<img src="assets/img/inicio.png" alt="inicio" width="100%">
+**Registro de nueva cuenta:** En este apartado es cuando el usuario crea su cuenta, completando los siguientes datos: correo electrónico, especialización, sus nombres y apellidos y su contraseña; además debe indicar si es doctor o abogado. 
+<img src="img/crear_cuenta.png" alt="Nuevo usuario" width="100%">
+**Reestablecer contraseña:** Cuando el usuario olvida su contraseña 
+<img src="img/olvido_contraseña.png" alt="olvido su contraseña" width="100%">
 
 ## <a name="_o8oaouyyyrnh"></a>4.4.2. Web Applications Wireflow Diagrams. 
 ## <a name="_rvsmsee9togy"></a>4.4.2. Web Applications Mock-ups. 
