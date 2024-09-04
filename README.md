@@ -1,5 +1,5 @@
 <p align="center">
-![alt text](image1.png)
+<img src="img/image1.png" alt="Logo de UPC" width="100%">
 </p>
 <div align="center">
 
