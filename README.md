@@ -1,6 +1,6 @@
 <p align="center">
 ![alt text](image1.png)
-
+</p>
 <div align="center">
 
 # <span style="color:red">**Universidad Peruana de Ciencias Aplicadas**</span>
