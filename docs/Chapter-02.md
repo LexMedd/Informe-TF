@@ -150,7 +150,7 @@ a entrevistas.
 - **Médicos**: Las tareas más frecuentes e importantes giran en torno a la documentación y la colaboración con equipos legales, así como la actualización constante de registros médicos.
 - **Abogados**: Las tareas se centran en la revisión de casos, la preparación de documentos legales y la coordinación con el equipo médico. La importancia y la frecuencia están alineadas con la necesidad de preparar y presentar casos de manera efectiva.
 
-### 2.3.3 User Task Matrix
+### 2.3.3 User Journey Mapping
 
 ### 2.3.5. As-is Scenario Mapping
 Haciendo uso del brainstorming se identificaron las fases de acuerdo a lo propuesto en los user persona. De este modo, hemos conseguido realizar los As-Is Mapping para los segmentos dados.
