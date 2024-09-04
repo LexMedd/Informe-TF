@@ -1,3 +1,4 @@
+<p align="center">
 ![alt text](image1.png)
 
 <div align="center">
