@@ -25,11 +25,11 @@ Grupo: 1
 
 |          Integrantes          |      Código      |
 |:-----------------------------:|:-------------------:|
-|      |        |
-|     |        |
-|     |       |
-|     |        |
-|Ticona Panduro, Estrella del Pilar| u202210659|
+|Vasquez Requejo, Augusto Mathias Leonardo      |U20221A955       |
+|Ticona Panduro, Estrella del Pilar     |u202210659        |
+|Becerra llempen, Fabiola Becerra      |u20171a518       |
+|Morales Sosa, Arnold Gabriel     |U201822516     |
+|        | |
 
 
 
@@ -58,8 +58,8 @@ Grupo: 1
                 <td>20/08/2024</td>
                 <td>
                     <ul>
-          <li>integrante 1 </li>
-          <li>integrante 2</li>
+          <li>Vasquez Requejo, Augusto Mathias Leonardo </li>
+          <li>Ticona Panduro,Estrella del Pilar</li>
           <li>integrante 3</li>
           <li>integrante 4</li>
           <li>integrante 5</li>
