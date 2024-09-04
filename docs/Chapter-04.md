@@ -217,17 +217,14 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 
 
 
-**Propuesta:** En este apartado el Doctor puede aceptar la propuesta del abogado para llevar su caso ![Tabla
+**Propuesta:** En este apartado el Doctor puede aceptar la propuesta del abogado para llevar su caso 
 
 
 
 **Pasarela de pago:** Este apartado es para que pague el servicio del abogado que seleccionó, con la tarjeta de crédito o débito. 
-
-!
-
+<img src="img/pago.png" alt="Pasarela de pago" width="100%">
 **Confirmación de pago:**  Este apartado es para confirmar la transacción 
-
-
+<img src="img/confirmacionp.png" alt="Confirmación de pago" width="100%">
 
 ## <a name="_o8oaouyyyrnh"></a>4.4.2. Web Applications Wireflow Diagrams. 
 ## <a name="_rvsmsee9togy"></a>4.4.2. Web Applications Mock-ups. 
