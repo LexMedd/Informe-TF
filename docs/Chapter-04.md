@@ -192,6 +192,10 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 # Aplicación Para Abogados:
 **Planes:** Cuando el abogado selecciona que es “Abogado” le aparecerá la opción de los planes de suscripción 
 <img src="img/planes.png" alt="Planes de subcripcion" width="100%">
+**Pasarela de pago:** Este apartado es para que pague el plan que seleccionó con la tarjeta de crédito o debito 
+<img src="img/pagoo.png" alt="Pasarela de pago" width="100%">
+**Confirmación de pago:**  Este apartado es para confirmar la transacción 
+<img src="img/confirmacionp.png" alt="Confirmación de pago" width="100%">
 ## <a name="_o8oaouyyyrnh"></a>4.4.2. Web Applications Wireflow Diagrams. 
 ## <a name="_rvsmsee9togy"></a>4.4.2. Web Applications Mock-ups. 
 ## <a name="_cjjnua53arvh"></a>4.4.3. Web Applications User Flow Diagrams. 
