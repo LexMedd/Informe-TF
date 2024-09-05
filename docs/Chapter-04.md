@@ -263,12 +263,17 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 **Appointment Context Component Diagram**
 
 <p align="center">
-  <img src="img/Appointment.PNG" alt="tipografia" width="100%">
+  <img src="img/Appointment.png" alt="tipografia" width="100%">
 </p>
 
 
 ## 4.7. Software Object-Oriented Design. 
 ## 4.7.1. Class Diagrams. 
+
+<p align="center">
+  <img src="img/Classdiagram.PNG" alt="tipografia" width="100%">
+</p>
+
 ## 4.7.2. Class Dictionary. 
 
 A continuación, se presentan las clases principales del diagrama de clases:
