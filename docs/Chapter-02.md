@@ -108,6 +108,11 @@ URL del video completo:
 Entrevista-Andrea-Estrada
 ![Entrevistas](../assets/imgs/estrada.PNG)
 **Resumen:**
+La abogada Andrea lleva dos años ejerciendo su carrera en el área legal, específicamente en casos de negligencia médica. Nos cuenta que actualmente no dispone de una aplicación que le ayude a gestionar sus casos de manera eficiente. En la actualidad, se comunica con sus clientes mediante reuniones y a través de la aplicación WhatsApp, lo cual, en algunos casos, le consume mucho tiempo y dificulta una comunicación fluida.
+
+Además, comenta que disponer de una herramienta o aplicación que le permita programar citas y encontrar nuevos casos le sería de gran ayuda en su desarrollo profesional. También menciona que la implementación de un sistema que le facilite la gestión de documentos, alertas y el seguimiento de los casos en tiempo real sería muy beneficiosa. Respecto a la seguridad de los datos y la privacidad de sus clientes, subraya la importancia de manejar esta información con total discreción, ya que se trata de datos sensibles.
+
+Por último, Andrea nos explica que, al igual que otros colegas, utiliza aplicaciones con interfaces intuitivas, las cuales facilitan la implementación y gestión de estos casos.
 
 ### 2.2.3 Análisis de Entrevistas
 
