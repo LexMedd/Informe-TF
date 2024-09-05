@@ -166,9 +166,20 @@ Liliana Requejo, obstetra con 20 años de experiencia, 13 de los cuales se han d
 
 ### 2.2.3 Análisis de Entrevistas
 
+**Análisis por segmento: abogado**
+
+ La entrevista con Andrea revela varias oportunidades para mejorar su eficiencia en la gestión de casos de negligencia médica. Actualmente, carece de una herramienta específica para organizar su trabajo, lo que la obliga a depender de WhatsApp para la comunicación con clientes, un método que le consume mucho tiempo. Andrea necesita una plataforma que centralice la gestión de casos, con funciones para programar citas, almacenar y organizar documentos, y ofrecer seguimiento en tiempo real. También destaca la importancia de garantizar la privacidad y seguridad de los datos sensibles de los clientes, así como la preferencia por interfaces intuitivas que faciliten su uso. Implementar una solución con estas características optimizaría considerablemente su trabajo diario.
+
+**Análisis por segmento: Medico**
+
+ Las entrevistas con Augusto Manuel Vásquez Carrasco y Liliana Requejo revelan desafíos y necesidades particulares en sus respectivas especialidades médicas. Augusto, con una amplia experiencia en Anestesiología, enfrenta la complejidad de cada intervención quirúrgica, destacando la importancia de la atención personalizada y su preparación adicional como perito en anestesiología para manejar posibles problemas legales. Aunque no ha tenido problemas médicos legales, está atento a la comunicación deficiente entre médicos y pacientes en situaciones críticas. Por su parte, Liliana Requejo, obstetra con 20 años de experiencia, enfrenta complicaciones durante los partos y busca asesoramiento legal en caso de problemas similares. Utiliza un smartphone Android y una laptop para gestionar sus tareas, destacando la importancia de herramientas tecnológicas adecuadas para el manejo efectivo de su trabajo diario. Ambos profesionales muestran una integración de la tecnología en su práctica, pero también una necesidad de sistemas que apoyen la gestión de la comunicación y la prevención de complicaciones legales.
+
 ##  2.3 Needfinding.
 
+ En esta sección se presentarán los artefactos resultantes del proceso de análisis de la información recolectada de los segmentos objetivos. Aquí se incluyen secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
+
 ### 2.3.1 User personas
+ En esta sección se presentan personajes ficticios que representan los segmentos objetivos identificados y entrevistados a través de user personas. Los datos que se colocan incluye demografía, personalidad, motivaciones, preferencias, objetivos, desafíos y comportamientos, así como también detalles sobre cómo el usuario interactúa con productos similares. Los datos se justifican con las entrevistas que hemos realizado anteriormente. Para el desarrollo de esta sección se ha utilizado la herramienta UXPressia que ofrece facilidades para generar los user personas.
 
 ## User persona Medico 
 
