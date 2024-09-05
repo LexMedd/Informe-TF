@@ -206,10 +206,8 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 ## <a name="_ro07daqq3i77"></a>4.3.1. Landing Page Wireframe.
 **Wireframe Destkop:** 
 <p align="center">
-  <img src="img/uno.png" alt="Colores" width="100%">
-  <img src="img/dos.png" alt="wireframe" width="100%">
-  <img src="img/tres.png" alt="wireframe" width="100%">
-   <img src="img/cuatro.png" alt="wireframe" width="100%">
+  <img src="img/Mock-up.png" alt="Colores" width="100%">
+  
 </p>
 
 <div align="center">
