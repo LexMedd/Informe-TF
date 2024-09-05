@@ -99,6 +99,17 @@ a entrevistas.
 
 ### 2.2.2 Registro de Entrevistas.
 
+URL del video completo: 
+
+**Segmento objetivo: Abogado**
+
+**Entrevista 1 :** Carla Andrea Estrada- 25 años - Lima
+**Timing:** 18:34
+
+Entrevista-Andrea-Estrada
+![Entrevistas](../assets/imgs/estrada.PNG)
+**Resumen:**
+
 ### 2.2.3 Análisis de Entrevistas
 
 ##  2.3 Needfinding.
