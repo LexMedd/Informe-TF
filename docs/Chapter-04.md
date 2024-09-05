@@ -294,7 +294,7 @@ Método para autenticar cuentas con el sistema de Google Firebase
 | **Atributo**     | **Descripción** |
 |_name: string	| Contiene el nombre del usuario|
 |_surname: string| Contiene el apellido del usuario|
-|gender: char| Contiene el género del paciente|
+|gender: char| Contiene el género del usuario|
 |_email: string| Contiene el correo electrónico del usuario|
 |_phone: string| Contiene el número de contacto del usuario|
 |country: string| Contiene el país de origen del usuario|
@@ -311,6 +311,7 @@ Método para autenticar cuentas con el sistema de Google Firebase
 | _specialty: string  | Especialidad a la que se dedica el doctor |
 | _licenseNumber: string  | Licencia que acredite al médico |
 | _experience: string     | Experiencia laboral que se haya tenido |
+| _problem: string     | Problema de negligencia medica |
 
 
 
@@ -318,10 +319,10 @@ Método para autenticar cuentas con el sistema de Google Firebase
 |-----------------|---------------------------------------------------------------------------------------------------|
 | **Descripción** | Cuenta del abogado que heredó la clase Account. Emplea métodos de la clase padre y tiene métodos propios. |
 | **Atributo**    | **Descripción** |
-| _virtualAppointments: List<Appointment> | Contiene las citas con los medicos programadas por el abogado |
+| _virtualAppointments: List<Appointment> | Contiene las reuniones con los medicos programadas |
 | _dudes: List<string>  | Cualquier consulta o duda relevante que tenga el doctor |
 | **Método**      | **Descripción** |
-| ShowAppointments(): void  | Método dedicado a mostrar las citas en las que el doctor se registró |
+| ShowAppointments(): void  | Método dedicado a mostrar las reuniones en las que el doctor se registró |
 
 
 | **Payment Facade** | |
@@ -354,14 +355,14 @@ Método para autenticar cuentas con el sistema de Google Firebase
 
 | **Appointment** | |
 |-----------------|-----------------------------------------------------------------------------------------------|
-| **Descripción** | Clase dedicada a la cita que el paciente tendrá con el médico. |
+| **Descripción** | Tema dedicado a la cita que el cliente tendrá con el abogado. |
 | **Atributo**    | **Descripción** |
 | _startTime: date | Horario en el que inicia la sesión |
 | _endTime: date   | Horario en el que finaliza la sesión |
-| _status: string  | Estado actual de la cita (pendiente, confirmada, cancelada o completada) |
+| _status: string  | Estado actual de la reunion (pendiente, confirmada, cancelada o completada) |
 | **Método**      | **Descripción** |
-| Reminder(): void      | Método dedicado a recordatorios para la cita |
-| ChangeStatus(): void  | Método encargado de actualizar el estado de la cita |
+| Reminder(): void      | Método dedicado a recordatorios para la reunion |
+| ChangeStatus(): void  | Método encargado de actualizar el estado de la reunion |
 
 
 | **ChatSession** | |
@@ -372,7 +373,6 @@ Método para autenticar cuentas con el sistema de Google Firebase
 | _attachments:  List<file> | Archivos adjuntos enviados durante la sesión |
 | **Método**      | **Descripción** |
 | GetFiles(): file  | Método dedicado a retornar los archivos enviados durante la sesión |
-
 
 
 # 4.8. Database Design. 
