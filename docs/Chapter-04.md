@@ -228,7 +228,7 @@ En la versión mobile el navbar se reemplaza por un menu desplegable.
 <div align="center">
 **Wireframe Mobile**
 En la versión mobile el navbar se reemplaza por un menu desplegable.
-
+<img src="img/lading_mobile.png" alt="Colores" width="50%">
   
 ## <a name="_7e2enm1mgr6i"></a> 4.4. Web Applications UX/UI Design. 
 ## <a name="_5zi3tdd6ruhc"></a>4.4.1. Web Applications Wireframes. 
