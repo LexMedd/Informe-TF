@@ -103,8 +103,7 @@ URL del video completo:
 
 **Segmento objetivo: Abogado**
 
-**Entrevista 1 :** Carla Andrea Estrada- 25 años - Lima
-**Timing:** 18:34
+**Entrevista 1 :** Carla Andrea Estrada- 25 años - Lima <div> **Timing:** 18:34
 
 Entrevista-Andrea-Estrada
 ![Entrevistas](../assets/imgs/estrada.PNG)
