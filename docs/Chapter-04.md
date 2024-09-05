@@ -271,7 +271,7 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 ## 4.7.1. Class Diagrams. 
 
 <p align="center">
-  <img src="img/Classdiagram.png" alt="tipografia" width="100%">
+  <img src="docs/img/Classdiagram.png" alt="tipografia" width="100%">
 </p>
 
 ## 4.7.2. Class Dictionary. 
