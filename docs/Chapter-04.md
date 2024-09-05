@@ -45,12 +45,12 @@ Para garantizar una combinación de modernidad y profesionalismo, hemos seleccio
 
 *Figura 2: imagen extraída de University of Evansille*
 
-
 **Paleta de Colores**: 
 
 La selección de la paleta de colores para "LexMed" se basa en principios estratégicos que refuerzan la identidad visual y funcionalidad de la plataforma:
 
-- Azul Marino (#003366): Representa confianza y profesionalismo. Usar para encabezados, barras de navegación y botones de acción principales.
+- Azul Marino (#003366): Representa confianza y profesionalismo, este color se usa para los botones 
+- azul (0057B4):  se usa para encabezados y barras de navegación 
 - Blanco (#ffffff): Fondo principal para mantener claridad y enfoque en el contenido.
 - Gris Claro (#F4F4F4): Para fondos secundarios y secciones con menor importancia.
 - Verde Esmeralda (#2ECC71): Para indicar acciones positivas, confirmaciones y éxito.
@@ -64,13 +64,31 @@ La selección de la paleta de colores para "LexMed" se basa en principios estrat
 
 <div align="center">
 
-*Figura 2: imagen extraída de Figma*
+*Figura 2: imagen extraída de Coolors*
+**Tonos de comunicación:** 
 
+El estilo de comunicación que se utiliza en el diseño, puede ser:
+
+- **Formal/Confianza:** En LexMed adoptamos un enfoque formal que refleja nuestra seriedad
+- Además, mantenemos un toque de accesibilidad y cercanía en nuestra comunicación con los usuarios.
+- **Memorable y reconocible:** La identidad de marca debe ser única y fácilmente identificable. Esto ayudará a que la empresa se destaque de la competencia y sea recordada por los usuarios.
+- **Respetuoso/Irreverente:** Nos caracterizamos por ser siempre respetuosos y considerados en nuestra comunicación, mostrando empatía hacia las necesidades y preocupaciones de nuestros usuarios.
+- **Entusiasta/Sereno:** EnLexMed transmitimos entusiasmo al ofrecer nuestros servicios a nuestros usuarios, al mismo tiempo mantenemos un tono sereno para transmitir confianza y estabilidad.
+
+**Lenguaje aplicado:**
+
+El lenguaje que se utiliza en el diseño, debe ser claro, conciso y fácil de entender.
+
+**Marca:**
+
+El nombre de la empresa, "LexMed", es un juego de palabras con la palabra “lex” que es el latin que se refiere a legal y “Med” palabra en inglés que se refiere a medicina. Esto transmite la idea de que la empresa puede ayudarte con tus problemas legales.
+
+**Spacing:**
+
+El espaciado entre los elementos del logotipo es uniforme y equilibrado. Esto crea una sensación de orden y armonía. El espaciado entre las letras del nombre de la empresa es entre 0 y 16 para que sean legibles,y no tan separadas
 
 ## <a name="_54b476lxjh64"></a>4.1.2. Web Style Guidelines.
-**Fuentes:**  Se usó Merriweather  y hemos incorporado cuatro variaciones de Roboto 
-
-Para los heading se uno Merriweather con el estilo Médium y para el cuerpo se usó Roboto con  4 estilos (Medium, SemiBold, Regular, y ExtraLight). 
+***Fuentes:**  Se usó  Merriweather con el estilo Médium para el título y para el cuerpo se usó Roboto con  4 estilos (Medium, SemiBold, Regular, y ExtraLight). 
 
 <p align="center">
   <img src="img/tipografia.png" alt="tipografia" width="100%">
@@ -87,7 +105,7 @@ Para los heading se uno Merriweather con el estilo Médium y para el cuerpo se u
 <div align="center">
 
 
-**Enlaces y botones:** Los botones primarios estarán con un fondo azul marino y texto blanco, con un borde redondeado de 5px.
+**Enlaces y botones:** Los botones primarios estarán con un fondo azul marino y texto blanco, con un borde redondeado de 35px.
 
 **Pantallas emergentes:** Tienen el objetivo de confirmar las acciones clave del funcionamiento de la app.
 
@@ -97,14 +115,17 @@ Para los heading se uno Merriweather con el estilo Médium y para el cuerpo se u
 
 **Formulario y Campos de entrada:** Los formularios se utilizan para el registro de entrada.
 
-**Tablas:**  Cuentan con  los colores rojos y verdes, cada fila representa un caso y cada columna la información del abogado o médico.**  	
+**Tablas:** Cada fila representa un caso y cada columna la información del abogado o médico.**  	
 
 ## <a name="_o51hfrc0q8ne"></a> 4.2. Information Architecture.
-La arquitectura de la información es el fundamento de la experiencia de usuario en LEXMed. Esta sección define cómo se organiza, etiqueta y navega el contenido del sitio web, garantizando que los usuarios puedan acceder rápidamente a la información que necesitan de manera intuitiva.
-## <a name="_ii3875icyjhz"></a> 4.2.1. Organization Systems.
-l sistema de organización en LEXMed está cuidadosamente diseñado para estructurar el contenido de manera lógica y accesible, garantizando que los usuarios puedan navegar y localizar los recursos relevantes con facilidad. Para lograrlo, se establece una j**erarquía clara** en la que todo el contenido se organiza en una estructura bien definida. Las secciones principales, como "Inicio", "Servicios", "Para Médicos", "Para Abogados", "Casos", "Recursos", y "Planes y Precios", se presentan de manera destacada y son accesibles directamente desde el menú principal.
+La arquitectura de la información es el fundamento de la experiencia de usuario en LEXMed, en este caso se alinea con Arquitectura de Información Orientada al Usuario. ya que se enfoca en las necesidades, tareas y flujos de los usuarios, en este caso, abogados y médicos.  Se organiza en función de cómo estos usuarios interactúan con la plataforma y qué información necesitan en cada punto de su experiencia.
 
-La categorización del contenido es otro aspecto fundamental del sistema. Los materiales se agrupan en categorías coherentes para facilitar la búsqueda. Por ejemplo, la sección de **"Servicios"** ofrece un desglose detallado de los servicios disponibles tanto para médicos como para abogados, mientras que la sección de **"Casos"** organiza los casos según la especialidad médica o el tipo de problema legal. Además, la sección de **"Recursos**" reúne documentación y guías legales, artículos de interés y preguntas frecuentes, proporcionando a los usuarios un acceso rápido a la información que necesitan. Por último, **"Planes y Precios"** es una sección específica que detalla las opciones de suscripción, comparando los beneficios y precios de las opciones:
+Este tipo de arquitectura es efectiva para plataformas donde los usuarios tienen roles definidos y necesidades específicas, asegurando que puedan completar sus objetivos de manera eficiente y con una experiencia de usuario optimizada.
+
+## <a name="_ii3875icyjhz"></a> 4.2.1. Organization Systems.
+EEl sistema de organización en LEXMed está cuidadosamente diseñado para estructurar el contenido de manera lógica y accesible, garantizando que los usuarios puedan navegar y localizar los recursos relevantes con facilidad. Para lograrlo, se establece una j**erarquía clara** en la que todo el contenido se organiza en una estructura bien definida. Las secciones principales, como "Inicio", "Servicios", Médicos ","Abogados ","Casos ","Recursos ", y "Planes", se presentan de manera destacada y son accesibles directamente desde el menú principal.
+
+La categorización del contenido es otro aspecto fundamental del sistema. Los materiales se agrupan en categorías coherentes para facilitar la búsqueda. Por ejemplo, la sección de **"Servicios"** ofrece un desglose detallado de los servicios disponibles tanto para médicos como para abogados, mientras que la sección de **"Casos"** organiza los casos según la especialidad médica o el tipo de problema legal. Además, la sección de **"Recursos**" reúne documentación y guías legales, artículos de interés y preguntas frecuentes, proporcionando a los usuarios un acceso rápido a la información que necesitan. Por último, **"Planes"** es una sección específica que detalla las opciones de suscripción, comparando los beneficios y precios de las opciones:
 
 - Basic: El abogado tiene acceso a un máximo de 20 médicos para referir su caso.
 - Silver: El abogado puede acceder a hasta 50 médicos para referir su caso.
@@ -125,17 +146,36 @@ LEXMed utiliza un sistema de etiquetado claro y consistente para garantizar que 
 
 
 ## <a name="_cs9pf7l7sm2e"></a> 4.2.3. SEO Tags and Meta Tags 
-Las etiquetas de SEO y meta tags son esenciales para asegurar que el contenido de LEXMed sea fácilmente descubierto por los motores de búsqueda, mejorando la visibilidad y el tráfico al sitio.
+Las etiquetas de SEO y meta tags son esenciales para asegurar que el contenido de LEXMed sea fácilmente descubierto por los motores de búsqueda, mejorando la visibilidad y el tráfico al sitio.  
 
+Algunos ejemplos importantes de SEO Tags incluyen:
 
-Para el Landing Page:
-- **Title:** LexMed
-- **Description:** LexMed - Servicios de Abogados Especializados en Temas Legales Relacionados con Medicina - Landig Page
-- **Keywords:** Asistencia Legal, Mala Praxis, Abogados, Especializados en Medicina, Asesoría Legal, Servicios Legales, Expertos Médicos, Recursos Legales, Casos Médicos.
-Para el Sitio Web:
-- **Title:** LexMed
-- **Description:** LexMed - Servicios de Abogados Especializados en Temas Legales Relacionados con Medicina - Web Site
-- **Keywords:** Asistencia Legal, Mala Praxis, Abogados, Especializados en Medicina, Asesoría Legal, Servicios Legales, Expertos Médicos, Recursos Legales, Casos Médicos.
+Title Tag:
+ Es el título de la página web que aparece en la pestaña del navegador y como el título del enlace en los resultados de búsqueda. Importancia: Es crucial porque es uno de los factores más influyentes en el ranking de la página. Debe ser relevante, contener palabras clave, y tener una longitud de entre 50 y 60 caracteres.
+Ejemplo:
+<title>Abogados Especializados en Derecho Médico</title>
+
+Header Tags (H1, H2, H3, etc.):
+ Son etiquetas utilizadas para definir los encabezados y subencabezados dentro del contenido de la página. El H1 es el encabezado principal y es el más importante en términos de SEO. Importancia: Ayudan a organizar el contenido y permiten a los motores de búsqueda comprender la jerarquía y el tema principal de la página.
+Ejemplo:
+<h1> Mis casos</h1>
+
+Alt Tags:
+Son atributos utilizados en imágenes para describir su contenido. Aunque los usuarios no pueden ver este texto directamente, los motores de búsqueda lo utilizan para entender el contenido de la imagen. Importancia: Mejoran la accesibilidad y también son importantes para el SEO, especialmente en la búsqueda de imágenes.
+
+Meta Tags
+
+Utiliza encabezados jerárquicos que no solo ayudan a organizar el contenido, sino que también incluyen palabras clave relevantes, como:Asistencia Legal, Malas Praxis, Abogados Especializados en Medicina,Asesoría Legal, Servicios Legales, Expertos Médicos, Recursos Legales, Casos Médicos, Apoyo Legal.
+
+Meta Description Tag:
+
+Las descripciones meta deben resumir el contenido de la página de manera atractiva y contener palabras clave importantes. 
+
+Ejemplo: "Encuentra abogados expertos en medicina para la defensa de casos de mala praxis y negligencia médica en LEXMed."
+
+Meta Robots Tag:
+
+Indica a los motores de búsqueda cómo deben seguir los enlaces en la página. se utiliza la indexación de la página para controlarla.
  
 
 ## <a name="_w8zo1ak9e4vn"></a>4.2.4. Searching Systems. 
@@ -162,6 +202,7 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 
 ## <a name="_rkzyopjbefpy"></a>4.3. Landing Page UI Design. 
 ## <a name="_ro07daqq3i77"></a>4.3.1. Landing Page Wireframe.
+**Wireframe Destkop:** 
 <p align="center">
   <img src="img/uno.png" alt="Colores" width="100%">
   <img src="img/dos.png" alt="Colores" width="100%">
@@ -170,8 +211,11 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 </p>
 
 <div align="center">
-
+**Wireframe Mobile**
+En la versión mobile el navbar se reemplaza por un menu desplegable.
+<img src="img/mobile.png" alt="Colores" width="50%">
 ## <a name="_iz4qizs6swks"></a> 4.3.2. Landing Page Mock-up. 
+**Wireframe Destkop:** 
 <p align="center">
   <img src="img/uni.png" alt="Colores" width="100%">
   <img src="img/dosi.png" alt="Colores" width="100%">
@@ -180,6 +224,9 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 </p>
 
 <div align="center">
+**Wireframe Mobile**
+En la versión mobile el navbar se reemplaza por un menu desplegable.
+
   
 ## <a name="_7e2enm1mgr6i"></a> 4.4. Web Applications UX/UI Design. 
 ## <a name="_5zi3tdd6ruhc"></a>4.4.1. Web Applications Wireframes. 
