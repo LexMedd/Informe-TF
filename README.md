@@ -18,7 +18,7 @@ Profesor: Efraín Ricardo Bautista Ubillús
 
 Startup: LexMed
 
-Producto: 
+Producto: Abogados especializados en derecho médico
 
 Grupo: 1
 
