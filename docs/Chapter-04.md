@@ -153,13 +153,15 @@ Algunos ejemplos importantes de SEO Tags incluyen:
 Title Tag:
  Es el título de la página web que aparece en la pestaña del navegador y como el título del enlace en los resultados de búsqueda. Importancia: Es crucial porque es uno de los factores más influyentes en el ranking de la página. Debe ser relevante, contener palabras clave, y tener una longitud de entre 50 y 60 caracteres.
 Ejemplo:
+``` html
 <title>Abogados Especializados en Derecho Médico</title>
-
+``` 
 Header Tags (H1, H2, H3, etc.):
  Son etiquetas utilizadas para definir los encabezados y subencabezados dentro del contenido de la página. El H1 es el encabezado principal y es el más importante en términos de SEO. Importancia: Ayudan a organizar el contenido y permiten a los motores de búsqueda comprender la jerarquía y el tema principal de la página.
 Ejemplo:
+```html
 <h1> Mis casos</h1>
-
+```
 Alt Tags:
 Son atributos utilizados en imágenes para describir su contenido. Aunque los usuarios no pueden ver este texto directamente, los motores de búsqueda lo utilizan para entender el contenido de la imagen. Importancia: Mejoran la accesibilidad y también son importantes para el SEO, especialmente en la búsqueda de imágenes.
 
@@ -170,9 +172,9 @@ Utiliza encabezados jerárquicos que no solo ayudan a organizar el contenido, si
 Meta Description Tag:
 
 Las descripciones meta deben resumir el contenido de la página de manera atractiva y contener palabras clave importantes. 
-
+```html
 Ejemplo: "Encuentra abogados expertos en medicina para la defensa de casos de mala praxis y negligencia médica en LEXMed."
-
+``` 
 Meta Robots Tag:
 
 Indica a los motores de búsqueda cómo deben seguir los enlaces en la página. se utiliza la indexación de la página para controlarla.
