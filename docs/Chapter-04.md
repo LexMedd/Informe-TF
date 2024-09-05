@@ -205,15 +205,15 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 **Wireframe Destkop:** 
 <p align="center">
   <img src="img/uno.png" alt="Colores" width="100%">
-  <img src="img/dos.png" alt="Colores" width="100%">
-  <img src="img/tres.png" alt="Colores" width="100%">
-   <img src="img/cuatro.png" alt="Colores" width="100%">
+  <img src="img/dos.png" alt="wireframe" width="100%">
+  <img src="img/tres.png" alt="wireframe" width="100%">
+   <img src="img/cuatro.png" alt="wireframe" width="100%">
 </p>
 
 <div align="center">
 **Wireframe Mobile**
 En la versión mobile el navbar se reemplaza por un menu desplegable.
-<img src="img/mobile.png" alt="Colores" width="50%">
+<img src="img/mobile.png" alt="mobile" width="50%">
 
 
 ## <a name="_iz4qizs6swks"></a> 4.3.2. Landing Page Mock-up. 
@@ -228,7 +228,7 @@ En la versión mobile el navbar se reemplaza por un menu desplegable.
 <div align="center">
 **Wireframe Mobile**
 En la versión mobile el navbar se reemplaza por un menu desplegable.
-<img src="img/lading_mobile.png" alt="Colores" width="50%">
+<img src="img/lading.png" alt="landing page mobile" width="50%">
   
 ## <a name="_7e2enm1mgr6i"></a> 4.4. Web Applications UX/UI Design. 
 ## <a name="_5zi3tdd6ruhc"></a>4.4.1. Web Applications Wireframes. 
