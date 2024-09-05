@@ -270,8 +270,9 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 ## 4.7. Software Object-Oriented Design. 
 ## 4.7.1. Class Diagrams. 
 **Link: https://lucid.app/lucidchart/3f15b96b-df71-43f2-b575-117e168297a5/edit?viewport_loc=-1813%2C-1214%2C4992%2C2445%2C0_0&invitationId=inv_a6f59cf7-57c2-4541-9d26-5348144cecf5**
+
 <p align="center">
-  <img src="img/Classdiagram.png" alt="tipografia" width="100%">
+  <img src="docs/img/Classdiagram.png" alt="tipografia" width="100%">
 </p>
 
 ## 4.7.2. Class Dictionary. 
