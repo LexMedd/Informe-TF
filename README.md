@@ -25,19 +25,36 @@ Grupo: 1
 |          Integrantes          |      Código      |
 |:-----------------------------:|:-------------------:|
 |Vasquez Requejo, Augusto Mathias Leonardo      |U20221A955       |
-|Ticona Panduro, Estrella del Pilar     |u202210659        |
-|Becerra llempen, Fabiola Becerra      |u20171a518       |
+|Ticona Panduro, Estrella del Pilar     |U202210659        |
+|Becerra llempen, Fabiola Becerra      |U20171A518       |
 |Morales Sosa, Arnold Gabriel     |U201822516     |
-|        | |
-
-
+|Leonardo Dueñas        |UXXXXXXX |
 
 </div>
-
 
 <p align="center">
     <strong>Agosto, 2024</strong>
 </p>
+<br>
+
+## Historial de Versiones
+
+<table>
+<tr>
+    <th colspan="3">Version</th>
+    <th colspan="3">Fecha</th>
+    <th colspan="10">Autores</td>
+    <th colspan="5">Descripción de Modificaciones</td>
+  <tr>
+    <td colspan="3">1era</td>
+    <td colspan="3">05/09/2024</td>
+    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Estrella del Pilar Ticona Panduro, Fabiola Becerra LLempen, Arnold Gabriel Sosa, Leonardo Dueñas</td>
+    <td colspan="5">Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V, Landing page</td>
+  </tr>
+  </table>
+
+  <br>
+
 ## Project Report Collaboration Insights
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
 
@@ -48,37 +65,7 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 - Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas para cada capítulo, lo que permitió un mayor avance y equidad en el desarrollo del informe.
 
 - Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
-
-![alt text](/assets/imgs/TB1OS.png)
 <br>
-
-**Entrega N°2: TP1**
-<br>
-- Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas a corregir para cada capitulo permitiendo asi mejorar el informe y a la vez anvazar con el forntend application
-
-- Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
-![alt text](/assets/imgs/TPOS.png)
-<br>
-
-**Entrega N°3: TB2**
-<br>
-- Todos los miembros del equipo contribuyeron en la redacción del Informe. Se dividió en secciones específicas a corregir para cada capitulo permitiendo asi mejorar el informe y a la vez anvazar con el frontend application
-
-- Se establecieron fechas límite para la finalización de cada capítulo, lo que facilitó el avance de cada capítulo. 
-![alt text](/assets/imgs/TB2OS.png)
-
-**Entrega N°4: TF**
-<br>
-- Todos los miembros del equipo contribuyeron en esta ultima entrega, tanto en corregir los errores del informe, y la implementacion requerida del front y back end.
-A continuacion, se presentará la evidencia que muestra los análisis de colaboración y commits en el repositorio del informe realizados por los miembros del equipo durante las entregas realizadas:
-
-Analisis de Colaboración:
-
-![alt text](assets/imgs/analisis_colaborativo.png)
-
-Commits:
-
-![alt text](/assets/imgs/commits.png)
 
 ## Índice
 
@@ -169,9 +156,11 @@ Commits:
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
 
+
 # Student Outcome
 
 | Criterio Específico                                                                                                                                                                   | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Conclusiones |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ------------ |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    |**Augusto Mathias Leonardo Vasquez Requejo** <br> TB1: Startup profile, descripcion de la Startup, solution profile, Antecedentes y problematica, Lean UX process (Statements, Assumptions, Hyphotesis Statements), 2 Entrevistas, Software Configuration Management (development environment configuration, code management, style guide, deployment configuration). <br>TP: Correciones del TB1, creacion y desarrollo de nuevas user stories, Sprints Backlogs. TB2: Correcciones del TP, desarrollo de 1 bounded context en el apartado backend del proyecto, heuristicas de entrevistas. TF: Correcciones en el informe y desarrollo de la implementacion entre el Frontend y Backend del proyecto. <br>**Gabriel Stefano Garcia Rodriguez** <br> TB1: User Stories, User Personas, User task Matrix, User Journey Mapping, 1 Entrevista, Services & Applications Implementation.<br>TP: Correciones del TB1, creacion y desarrollo de nuevas user stories, Sprints Backlogs. TB2: Correcciones del TP, desarrollo de 1 bounded context. TF: Correcciones en el informe y desarrollo de la implementacion entre el Frontend y Backend del proyecto. <br>**Anatoly Andrey Noriega Suschenko**<br>TB1: User Stories, 1 Entrevista, Domain Driven Software Architecture (Software Architecture Context Diagram,Software Architecture Container Diagram,Software Architecture Component Diagrams).<br>TP: Correciones del TB1, creacion y desarrollo de nuevas user stories, Sprints Backlogs. TB2: Correcciones del TP, desarrollo de 1 bounded context. TF: Correcciones en el informe y desarrollo de la implementacion entre el Frontend y Backend del proyecto. <br>**Diego Flores Avalos**<br>TB1: Lean UX Canvas, Segmentos objetivo, User Stories, Software Object-Oriented Design (Class Diagrams, Class Dictionary).<br>TP: Correciones del TB1, creacion y desarrollo de nuevas user stories, Sprints Backlogs. TB2: Correcciones del TP, desarrollo de 1 bounded context. TF: Correcciones en el informe y desarrollo de la implementacion entre el Frontend y Backend del proyecto. <br>**Fabricio Josue Apaza Morales**<br>TB1:Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, 3 user stories, To-Be Scenario Mapping, Impact Mapping <br>TP: Correciones del TB1, creacion y desarrollo de nuevas user stories, Sprints Backlogs. TB2: Correcciones del TP, desarrollo de 1 bounded context <br>. TF: Correcciones en el informe y desarrollo de la implementacion entre el Frontend y Backend del proyecto. <br> **Carlos Avellaneda**<br> Desarrollo de 1 bounded context y unificacion en GitHub. TF: Correcciones en el informe y desarrollo de la implementacion entre el Frontend y Backend del proyecto. <br>**Becerra Llempen, Fabiola Dayane** <div> **TB1**<div>Realicé las entrevistas del equipo para obtener y analizar la información del segmento “abogados” con el equipo de trabajo y avance el capitulo IV Y V.|  El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Esto incluyó la realización de entrevistas, la elaboración de Statements y Hypothesis Statements como parte del proceso Lean UX, la creación de User Personas y el mapeo de la experiencia del usuario. Además, se realizó un análisis competitivo, se desarrollaron User Stories y se establecieron estrategias frente a competidores. Se utilizaron herramientas visuales como Lean UX Canvas y Style Guidelines, y se llevaron a cabo actividades como Empathy Mapping para comprender las necesidades de los usuarios. Todo esto se complementó con la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva. Tambien cumplimos con el criterio porque mediante el backend expresamos toda nuestra intencion e ideas en el frontend para con los usuarios.          |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Augusto Mathias Leonardo Vasquez Requejo** <br> TB1: Lean UX Canva, User Stories, Landing Page, Product Backlog, 2 Entrevistas, registro y analisis de entrevistas.TP: Fronted Web Applications.TB2: Desarrollo de 1 bounded context. TF: Desarrollo de la implementacion entre el Frontend y Backend del proyecto. <br> **Gabriel Stefano Garcia Rodriguez** <br> TB1: Landing Page UI Design, Landing Page Wireframe, Landing Page Mock-up, Database Design, Database Diagram, 1 Entrevista, Landing Page. TP: Fronted Web Applications. TB2: Desarrollo de 1 bounded context. TF: Desarrollo de la implementacion entre el Frontend y Backend del proyecto. <br>**Anatoly Andrey Noriega Suschenko**<br>TB1: Análisis competitivo, Estrategias frente a competidores, User Stories, Landing Page, registro y analisis de entrevistas, Product Backlog. TP: Fronted Web Applications. TB2: Desarrollo de 1 bounded context. TF: Desarrollo de la implementacion entre el Frontend y Backend del proyecto. <br>**Diego Flores Avalos**<br>TB1: Competidores, User Stories, Landing Page, Product Backlog, Software Object-Oriented Design (Class Diagrams, Class Dictionary). TP: Fronted Web Applications.<br>TB2: Desarrollo de 1 bounded context. TF: Desarrollo de la implementacion entre el Frontend y Backend del proyecto.<br>**Fabricio Josue Apaza Morales**<br>TB1: Style Guidelines(General Style Guidelines, Web Style Guidelines), Information Architecture(Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems). TP: Fronted Web Applications.  TB2: Desarrollo de 1 bounded context. TF: Desarrollo de la implementacion entre el Frontend y Backend del proyecto. <br> **Carlos Avellaneda** <br> TB2: Desarrollo de 1 bounded context. TF: Desarrollo de la implementacion entre el Frontend y Backend del proyecto. **Becerra Llempen, Fabiola Dayane** <div> **TB1**<div> En la primera entrega, realice la documentación de las entrevistas a los abogados. También aporte en el capitulo IV Y V.|   El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. En esta nueva entrega hemos aplicado nuestro conocimientos en el diseño y la realizacion de Front Web Applications que demuestran la funcionalidad de la logica de nuestra plataforma.Tambien cumplimos con el criterio porque mediante el backend expresamos toda nuestra intencion e ideas en el frontend para con los usuarios, logrando la implementacion de estos, respetando sus roles en la plataforma o la libertad para poder realizar varias acciones.          |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    |**Augusto Mathias Leonardo Vasquez Requejo** <br> TB1: Startup profile, descripcion de la Startup, solution profile, Antecedentes y problematica, Lean UX process (Statements, Assumptions, Hyphotesis Statements), 2 Entrevistas, Software Configuration Management (development environment configuration, code management, style guide, deployment configuration). Además colaboré también en el desarrollo de los capitulos 2 y 3 aparte de lo antes mencionado. <br><br>**Ticona Panduro, Estrella del Pilar**<br><br>**Morales Sosa, Arnold Gabriel**<br> <br>**Leonardo Dueñas**<br><br>**Becerra Llempen, Fabiola Dayane** <div> TB1: Realicé las entrevistas del equipo para obtener y analizar la información del segmento “abogados” con el equipo de trabajo y avance el capitulo IV Y V.|  El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. Esto incluyó la realización de entrevistas, la elaboración de Statements y Hypothesis Statements como parte del proceso Lean UX, la creación de User Personas y el mapeo de la experiencia del usuario. Además, se realizó un análisis competitivo, se desarrollaron User Stories y se establecieron estrategias frente a competidores. Se utilizaron herramientas visuales como Lean UX Canvas y Style Guidelines, y se llevaron a cabo actividades como Empathy Mapping para comprender las necesidades de los usuarios. Todo esto se complementó con la creación de Landing Page y el diseño de interfaces de usuario para transmitir la propuesta de valor del proyecto de manera efectiva.          |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Augusto Mathias Leonardo Vasquez Requejo** <br> TB1: Lean UX Canva, User Stories, Landing Page, Product Backlog, 2 Entrevistas, registro y analisis de entrevistas.TP: Fronted Web Applications.TB2: Desarrollo de 1 bounded context.<br> **Ticona Panduro, Estrella del Pilar** <br><br>**Anatoly Andrey Noriega Suschenko**<br><br>**Morales Sosa, Arnold Gabriel**<br><br>**Leonardo Dueñas**<br><br> **Becerra Llempen, Fabiola Dayane**<div> TB1: En la primera entrega, realice la documentación de las entrevistas a los abogados. También aporte en el capitulo IV Y V.|   El equipo llevó a cabo una amplia gama de actividades para comunicar de manera efectiva las ideas y resultados del proyecto de ingeniería. En esta entrega complementamos todo el aprendizaje de estos ciclos anteriores para realizar un informe óptimo y una landing page llamativa que cumpla con todo lo solicitado.    |
+
