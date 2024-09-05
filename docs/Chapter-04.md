@@ -281,10 +281,153 @@ En la versión mobile el navbar se reemplaza por un menu desplegable.
 
 ## <a name="_mu9vw6k7b4rn"></a>4.6. Domain-Driven Software Architecture. 
 ## <a name="_mu9vw6k7b4rn"></a> 4.6.1. Software Architecture Context Diagram. 
+<p align="center">
+  <img src="img/software.PNG" alt="tipografia" width="100%">
+</p>
+
 ## <a name="_mu9vw6k7b4rn"></a> 4.6.2. Software Architecture Container Diagrams.
+<p align="center">
+  <img src="img/container.PNG" alt="tipografia" width="100%">
+</p>
+
 ## 4.6.3. Software Architecture Components Diagrams. 
+**Payment Context Component Diagram**
+<p align="center">
+  <img src="img/payment.PNG" alt="tipografia" width="100%">
+</p>
+
+**User Profile Context Component Diagram**
+
+<p align="center">
+  <img src="img/profile.PNG" alt="tipografia" width="100%">
+</p>
+
+**Chat Context Component Diagram**
+<p align="center">
+  <img src="img/chat.PNG" alt="tipografia" width="100%">
+</p>
+
+**Appointment Context Component Diagram**
+
+<p align="center">
+  <img src="img/Appointment.PNG" alt="tipografia" width="100%">
+</p>
+
+
 ## 4.7. Software Object-Oriented Design. 
 ## 4.7.1. Class Diagrams. 
+**Link: https://lucid.app/lucidchart/3f15b96b-df71-43f2-b575-117e168297a5/edit?viewport_loc=-1813%2C-1214%2C4992%2C2445%2C0_0&invitationId=inv_a6f59cf7-57c2-4541-9d26-5348144cecf5**
+
+<p align="center">
+  <img src="img/Classdiagram.png" alt="tipografia" width="100%">
+</p>
+
 ## 4.7.2. Class Dictionary. 
-## 4.8. Database Design. 
+
+A continuación, se presentan las clases principales del diagrama de clases:
+Método para autenticar cuentas con el sistema de Google Firebase
+
+| **FirebaseAuth** | |
+|------------------|---------------------------------------------------|
+| **Descripción**  | Servicio de autenticación de cuentas del sistema de Google Firebase. |
+| **Atributo**     | **Descripción** |
+| **Método**       | **Descripción** |
+| AuthenticateAccount(): void | Método para autenticar cuentas con el sistema de Google Firebase. |
+
+
+| **Account** | |
+|------------------|---------------------------------------------------|
+| **Descripción**  | Cuenta para iniciar sesión. Es dependiente de la clase FirebaseAuth para ingresar a la aplicación. |
+| **Atributo**     | **Descripción** |
+|_name: string	| Contiene el nombre del usuario|
+|_surname: string| Contiene el apellido del usuario|
+|gender: char| Contiene el género del usuario|
+|_email: string| Contiene el correo electrónico del usuario|
+|_phone: string| Contiene el número de contacto del usuario|
+|country: string| Contiene el país de origen del usuario|
+|_username: string| Contiene el username del usuario|
+|password: string| Contiene la contraseña del usuario|
+| **Método**     | **Descripción** |
+|Authentication(): void|Método para solicitar autenticación de cuentas con el sistema de Google Firebase|
+
+
+| **Doctor** | |
+|----------------|-----------------------------------------------------------------------------------------------|
+| **Descripción** | Cuenta del doctor que heredó la clase Account. Emplea métodos de la clase padre y tiene métodos propios. |
+| **Atributo**    | **Descripción** |
+| _specialty: string  | Especialidad a la que se dedica el doctor |
+| _licenseNumber: string  | Licencia que acredite al médico |
+| _experience: string     | Experiencia laboral que se haya tenido |
+| _problem: string     | Problema de negligencia medica |
+
+
+
+| **Abogado**  | |
+|-----------------|---------------------------------------------------------------------------------------------------|
+| **Descripción** | Cuenta del abogado que heredó la clase Account. Emplea métodos de la clase padre y tiene métodos propios. |
+| **Atributo**    | **Descripción** |
+| _virtualAppointments: List<Appointment> | Contiene las reuniones con los medicos programadas |
+| _dudes: List<string>  | Cualquier consulta o duda relevante que tenga el doctor |
+| **Método**      | **Descripción** |
+| ShowAppointments(): void  | Método dedicado a mostrar las reuniones en las que el doctor se registró |
+
+
+| **Payment Facade** | |
+|--------------------|---------------------------------------------------------------------------------------------|
+| **Descripción**    | Facade utilizado para simplificar la interacción entre el sistema y los proveedores de servicio de pago. |
+| **Atributo**       | **Descripción** |
+| _apiKey : string   | Clave API que permita al Facade autenticarse con los proveedores de pago. |
+| _currency: string  | Moneda en la que se realizará el pago |
+| _amount: double    | Cantidad que será cobrada al usuario |
+| _orderID: string   | Identificador de la orden que se está procesando |
+| _status: string    | El estado actual de la transacción |
+| **Método**         | **Descripción** |
+| AddPaymentMethod(): void     | Método que permite a los usuarios agregar métodos de pago para futuras transacciones |
+| RemovePaymentMethod(): void  | Método que permite a los usuarios eliminar métodos de pago agregados con anterioridad |
+| ProcessPayment(): void       | Método que toma los datos necesarios para procesar la transacción |
+
+
+| **AppointmentFee** | |
+|--------------------|-------------------------------------------------------------------------|
+| **Descripción**    | Tarifa que se tendrá que pagar por cada cita realizada |
+| **Atributo**       | **Descripción** |
+| _feeAmount: double | Cantidad de la tarifa |
+| _taxAmount: double | Cantidad de impuestos aplicables a la tarifa |
+| _discountAmount: double | Cualquier descuento aplicable |
+| _paymentDate      | Fecha en la que se generó la tarifa |
+| **Método**         | **Descripción** |
+| GetTotal(): double         | Método encargado de retornar el costo final de la tarifa |
+| ValidateDiscount(): void   | Método encargado de validar si el descuento que algún paciente solicite es válido |
+
+
+| **Appointment** | |
+|-----------------|-----------------------------------------------------------------------------------------------|
+| **Descripción** | Tema dedicado a la cita que el cliente tendrá con el abogado. |
+| **Atributo**    | **Descripción** |
+| _startTime: date | Horario en el que inicia la sesión |
+| _endTime: date   | Horario en el que finaliza la sesión |
+| _status: string  | Estado actual de la reunion (pendiente, confirmada, cancelada o completada) |
+| **Método**      | **Descripción** |
+| Reminder(): void      | Método dedicado a recordatorios para la reunion |
+| ChangeStatus(): void  | Método encargado de actualizar el estado de la reunion |
+
+
+| **ChatSession** | |
+|-----------------|---------------------------------------------------------------------------------------------|
+| **Descripción** | Clase dedicada al chat de la sesión realizada. |
+| **Atributo**    | **Descripción** |
+| _messages: List<string>   | Lista de mensajes enviados durante la sesión |
+| _attachments:  List<file> | Archivos adjuntos enviados durante la sesión |
+| **Método**      | **Descripción** |
+| GetFiles(): file  | Método dedicado a retornar los archivos enviados durante la sesión |
+
+
+# 4.8. Database Design. 
 ## 4.8.1. Database Diagram.
+
+link: https://my.vertabelo.com/doc/Qx6uceSIer5RxAoWAxK2BU7scyccv8nR
+
+<p align="center">
+  <img src="img/databasediagram.png" alt="tipografia" width="100%">
+</p>
+
