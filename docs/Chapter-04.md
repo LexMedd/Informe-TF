@@ -279,11 +279,14 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 
 A continuación, se presentan las clases principales del diagrama de clases:
 Método para autenticar cuentas con el sistema de Google Firebase
-|-----------|----------|----------|
-| Servicio de autenticación de cuentas del sistema de Google Firebase. |----------|----------|
-|Atributo| Descripcion|----------|----------|
-|Metodo| Descripcion|----------|----------|
-|AuthenticateAccount(): void| Método para autenticar cuentas con el sistema de Google Firebase|----------|
+
+| **FirebaseAuth** | |
+|------------------|---------------------------------------------------|
+| **Descripción**  | Servicio de autenticación de cuentas del sistema de Google Firebase. |
+| **Atributo**     | **Descripción** |
+| **Método**       | **Descripción** |
+| AuthenticateAccount(): void | Método para autenticar cuentas con el sistema de Google Firebase. |
+
 
 # 4.8. Database Design. 
 ## 4.8.1. Database Diagram.
