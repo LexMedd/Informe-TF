@@ -263,7 +263,7 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 **Appointment Context Component Diagram**
 
 <p align="center">
-  <img src="img/Appointment.png" alt="tipografia" width="100%">
+  <img src="img/Appointment.PNG" alt="tipografia" width="100%">
 </p>
 
 
