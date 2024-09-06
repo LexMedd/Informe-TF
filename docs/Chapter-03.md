@@ -45,7 +45,8 @@ EPIC|Título|Descripción|
 |EP15|Chat para Seguimiento de Casos|Como usuario, quiero usar el chat integrado para hacer seguimiento en tiempo real de la evolución de mis casos con los profesionales involucrados.|Escenario 1: Enviar Mensaje Exitosamente Dado que el usuario está en la pagina "mensajes", Cuando escribe y envía un mensaje en el chat, Entonces el mensaje será enviado Y el destinatario lo recibirá instantáneamente.  Escenario 2: Recepción de Respuesta Dado que el usuario ha enviado un mensaje, Cuando el destinatario responde, Entonces el usuario recibirá una notificación en el chat Y podrá ver la respuesta en tiempo real.|EP02|
 |EP16|Recuperación de Contraseña|Como usuario, quiero poder recuperar mi contraseña en caso de olvidarla para acceder nuevamente a mi cuenta.|Escenario 1: Recuperación Exitosa Dado que el usuario ha olvidado su contraseña, Cuando ingresa  al inicio, Entonces hara clic en "olvide mi contraseña"  Y podrá restablecer su contraseña con éxito.  Escenario 2: Error en el Cambio de Contraseña Dado que el usuario intenta recuperar su contraseña, Cuando no cumple con los criterios, Entonces el sistema no dejará cambiar tu contraseña|EP01|
 
-
+## 3.3. Impact Mapping 
+![alt text](https://raw.githubusercontent.com/LexMedd/Informe-TF/Chapter-03/assets/imgs/Impact%20map%20cap3.jpg)
     
 ## 3.4. Product Backlog
 
