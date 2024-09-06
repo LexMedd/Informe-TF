@@ -226,6 +226,7 @@ En la versión mobile el navbar se reemplaza por un menu desplegable.
 </p>
 
 <div align="center">
+
 **Mock-up Mobile:**
 En la versión mobile el navbar se reemplaza por un menu desplegable.
 <img src="img/lading.png" alt="landing page mobile" width="50%">
@@ -277,7 +278,7 @@ En la versión mobile el navbar se reemplaza por un menu desplegable.
 <img src="img/perfildoctor.png" alt="Perfil Doctor" width="100%">
 
 **Gestión de casos:**  En este dashboard el doctor puede observar su caso, el abogado quien esta llevando el caso y como va el estado del caso.
-<img src="img/doctor_casos.png" alt="gestión de casos" width="100%">
+<img src="img/casitosdoctorin.png" alt="gestión de casos" width="100%">
 
 **Documento:** Al dar clic en el icono de documento, aparece este apartado en el cual se observa el caso documentado.
 <img src="img/Doctor_documento.png" alt="Crear caso" width="100%">
