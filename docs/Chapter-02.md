@@ -101,7 +101,7 @@ En el caso de que la respuesta sea NO proceden las siguientes preguntas:
 
 En el proceso de investigación para nuestro proyecto, se llevaron a cabo entrevistas del público objetivo. Cada entrevista se documentó en video y se registraron los siguientes detalles:
 
-**URL del video completo:** 
+**URL del video completo:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EWzW2gWBeB5Fk2z1tpAb0O8BZW-ox-Mw3C4ExojkV_Yz6w?e=IGhQoL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 #### Segmento objetivo: Abogado
 
@@ -115,7 +115,7 @@ En el proceso de investigación para nuestro proyecto, se llevaron a cabo entrev
 
 **Screenshot de la Entrevista:** 
 ![Entrevistas](../assets/imgs/estrada.PNG)
-**Timelapse:** [Inicio: 09:11, Fin: 21:11]
+**Timelapse:** [Inicio: 00:05, Fin: 06:38]
 
 **Resumen:**
 La abogada Andrea lleva dos años ejerciendo su carrera en el área legal, específicamente en casos de negligencia médica. Nos cuenta que actualmente no dispone de una aplicación que le ayude a gestionar sus casos de manera eficiente. En la actualidad, se comunica con sus clientes mediante reuniones y a través de la aplicación WhatsApp, lo cual, en algunos casos, le consume mucho tiempo y dificulta una comunicación fluida.
@@ -139,7 +139,7 @@ Por último, Andrea nos explica que, al igual que otros colegas, utiliza aplicac
 
 ![Entrevista2](../assets/imgs/Entrevista%202%20Medico%20(1).png)
 
-**Timelapse:** [Inicio: 09:11, Fin: 21:11]
+**Timelapse:** [Inicio: 06:43, Fin: 19:23]
 
 **Resumen:**
 
@@ -158,7 +158,7 @@ Augusto Manuel Vásquez Carrasco, un médico cirujano con una vasta experiencia 
 ![Entrevista3](../assets/imgs/Entrevista%203%20Medico%20(1).png)
 
 
-**Timelapse:** [Inicio: 21:20, Fin: 26:57]
+**Timelapse:** [Inicio: 19:24, Fin: 26:41]
 
 **Resumen de la Entrevista:**
 
