@@ -10,7 +10,7 @@ El objetivo del siguiente análisis competitivo es identificar las fortalezas y 
 
 | Competidor          | Legal Consumer | Abogado.com   | Poulos y Coates, LLP | LexMedd  |
 | ------------------- | -------------- | ------------- | ---------------------| --------------- |
-| **Logo**            | ![](../assets/imgs/LOGOHORIZONTAL-LEGALCONSUMER.png) | ![](../assets/imgs/abogado%20logo.png) | ![](../assets/imgs/POULOS%20LOGO.png) | ![](../assets/imgs/LEXMED%20Logo.png) |
+| **Logo**            | ![](../assets/imgs/LOGOHORIZONTAL-LEGALCONSUMER.png) | ![](../assets/imgs/abogado%20logo.png) | ![](../assets/imgs/POULOS%20LOGO.png) |   ![](../assets/imgs/LEXMED%20Logo.png) |
 | **Perfil**          | Aplicación Web | Aplicación Web| Ejecutable           | Aplicación Web  |
 | **Ventaja competitiva** | Facilita la conexión entre pacientes y abogados especializados en negligencia médica. | Ofrece una plataforma para conectar a usuarios con abogados de diversas especialidades, incluyendo negligencia médica. | Bufete especializado en casos de negligencia médica con décadas de experiencia. | Plataforma integral de gestión para abogados enfocados en negligencia médica. |
 | **Perfil de Marketing** | Personas que buscan asesoría legal en casos de negligencia médica. | Consumidores que necesitan representación legal en diversas áreas, incluyendo negligencia médica. | Pacientes que buscan un bufete especializado y con experiencia en casos complejos de negligencia médica. | Despachos de abogados que se especializan en casos de negligencia médica. |
