@@ -206,7 +206,7 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 ## <a name="_ro07daqq3i77"></a>4.3.1. Landing Page Wireframe.
 **Wireframe Destkop:** 
 <p align="center">
-  <img src="img/Mock-up.png" alt="Colores" width="100%">
+  <img src="img/Wireframe.png" alt="Colores" width="100%">
   
 </p>
 
@@ -218,14 +218,14 @@ En la versión mobile el navbar se reemplaza por un menu desplegable.
 
 
 ## <a name="_iz4qizs6swks"></a> 4.3.2. Landing Page Mock-up. 
-**Wireframe Destkop:** 
+**Mock-up Destkop:** 
 <p align="center">
-  <img src="img/Wireframe.png" alt="Colores" width="100%">
+  <img src="img/Mock-up.png" alt="Colores" width="100%">
   
 </p>
 
 <div align="center">
-**Wireframe Mobile**
+**Mock-up Mobile:**
 En la versión mobile el navbar se reemplaza por un menu desplegable.
 <img src="img/lading.png" alt="landing page mobile" width="50%">
   
