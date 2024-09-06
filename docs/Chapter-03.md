@@ -45,27 +45,48 @@ Los User Stories describen las funciones de la aplicación adaptadas a las neces
     </tr>
     <tr>
         <td>EP04</td>
-        <td>Gestión y organización de casos</td>
-        <td>Como abogado, deseo poder gestionar y organizar de manera eficiente la información relevante para los casos de negligencia médica</td>
+        <td>Búsqueda de casos</td>
+        <td>Como abogado, deseo tener una amplia variedad de casos de negligencia médica que esté acorde a mi especialidad en el ámbito médico.</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>EP05</td>
-        <td>Confidencialidad</td>
+        <td>Confidencialidad del caso</td>
         <td>Como abogado, deseo tener sistemas que garanticen la seguridad y confidencialidad de la información sensible del caso.</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>EP06</td>
-        <td>Comunicación</td>
-        <td>Como abogado, deseo tener facilidades para la colaboración entre el equipo legal y los expertos médicos para asegurar que toda la información esté alineada.</td>
+        <td>Comunicación con médicos</td>
+        <td>Como abogado, deseo tener facilidades para la colaboración con los expertos médicos para asegurar que toda la información esté alineada.</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td>EP04</td>
+        <td>EP07</td>
+        <td>Registro de casos de negligencia médica</td>
+        <td>Como médico, deseo poder registrar de manera eficiente información relevante que tenga sobre casos de negligencia médica.</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EP08</td>
+        <td>Creación de Perfil de Abogado</td>
+        <td>Como abogado, quiero crear un perfil detallado para mostrar mis habilidades y experiencia en el ámbito de casos médicos.</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EP09</td>
+        <td>Creación de Perfil de Médico</td>
+        <td>Como médico, quiero crear un perfil detallado para mostrar información puntual sobre la documentación médica obtenida por casos de negligencia médica.</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EP10</td>
         <td>Interacción con el usuario a tratar</td>
         <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
 para tratar con él u opinar de sus servicios.</td>
@@ -73,7 +94,7 @@ para tratar con él u opinar de sus servicios.</td>
         <td></td>
     </tr>
     <tr>
-        <td>EP04</td>
+        <td>EP11</td>
         <td>Interacción con el usuario a tratar</td>
         <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
 para tratar con él u opinar de sus servicios.</td>
@@ -81,31 +102,7 @@ para tratar con él u opinar de sus servicios.</td>
         <td></td>
     </tr>
     <tr>
-        <td>EP04</td>
-        <td>Interacción con el usuario a tratar</td>
-        <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
-para tratar con él u opinar de sus servicios.</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>EP04</td>
-        <td>Interacción con el usuario a tratar</td>
-        <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
-para tratar con él u opinar de sus servicios.</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>EP04</td>
-        <td>Interacción con el usuario a tratar</td>
-        <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
-para tratar con él u opinar de sus servicios.</td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>EP04</td>
+        <td>EP12</td>
         <td>Interacción con el usuario a tratar</td>
         <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
 para tratar con él u opinar de sus servicios.</td>
