@@ -218,9 +218,9 @@ una de las tareas identificadas para el sprint.
     <td colspan="2">Visualización de lista de tipos de suscripción</td>
     <td colspan="1">1</td>
     <td colspan="2">Añadir funcion para mostrar lista de tipos de suscrpción</td>
-    <td colspan="3">Como visitador del alding page de MedicDefense,quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
+    <td colspan="3">Como visitador de la landing page de LexMed,quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Fabricio</td>
+    <td colspan="2">Mathias</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
@@ -228,7 +228,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="2">Sección de Creadores</td>
     <td colspan="1">2</td>
     <td colspan="2">Añadir funcion para mostrar los creadores de la empresa</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+    <td colspan="3">Como visitador de la landing page de LexMed, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
     <td colspan="1">1</td>
     <td colspan="2">Mathias</td>
     <td colspan="1">Done</td>
@@ -237,29 +237,29 @@ una de las tareas identificadas para el sprint.
     <td colspan="2">Visualización de servicios</td>
     <td colspan="1">3</td>
     <td colspan="2">Añadir sección de servicios</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
+    <td colspan="3">Como visitador de la landing page de LexMed, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Anatoly</td>
+    <td colspan="2">Mathias</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
     <td colspan="1">14</td>
-    <td colspan="2">Sección de contacto</td>
+    <td colspan="2">Sección de contacto us</td>
     <td colspan="1">4</td>
     <td colspan="2">Añadir sección de contacto</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
+    <td colspan="3">Como visitador de la landing page de LexMed, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Gabriel</td>
+    <td colspan="2">Mathias</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
     <td colspan="1">15</td>
-    <td colspan="2">Sección nosotros</td>
+    <td colspan="2">Sección about us</td>
     <td colspan="1">5</td>
     <td colspan="2">Añadir sección nosotros</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección nosotros para informarme sobre la empresa que está brindando los servicios.</td>
+    <td colspan="3">Como visitador de la landing page de LexMed, quiero ver una sección nosotros para informarme sobre la empresa que está brindando los servicios.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Anatoly</td>
+    <td colspan="2">Mathias</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
@@ -267,9 +267,9 @@ una de las tareas identificadas para el sprint.
     <td colspan="2">Sección de inicio</td>
     <td colspan="1">6</td>
     <td colspan="2">Añadir sección de inicio</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+    <td colspan="3">Como visitador de la landing page de LexMed, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Mathias</td>
     <td colspan="1">Done</td>
 </tr>
 </table>
