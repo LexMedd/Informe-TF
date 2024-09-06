@@ -126,6 +126,9 @@ Para desplegar la landing page de BiciBreeze resultó necesario cumplir una seri
   <li>Cargar los archivos mediante un push a la rama main del repositorio.</li>
   <li>Verificar que se haya desplegado correctamente.</li>
 
+<br>
+
+**Link del deploy de landing page:** https://lexmedd.github.io/Landing-Page/
 
 ## 5.2 Landing Page, Services & Applications Implementation
 
