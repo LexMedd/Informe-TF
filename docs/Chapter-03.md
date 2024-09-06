@@ -24,22 +24,43 @@ Los User Stories describen las funciones de la aplicación adaptadas a las neces
     </tr>
     <tr>
         <td>EP01</td>
-        <td>Funciones de usuario</td>
-        <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad para manejar mis datos y acciones en la cuenta.</td>
+        <td>Presentación de información</td>
+        <td>Como usuario de la landing page quiero visualizar la información del startup para ver si hay interés por el proyecto.</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>EP02</td>
-        <td>Visualizacion de Apartados</td>
-        <td>Como usuario, deseo tener opciones de detalles y búsqueda para visualizar los datos que me interesan en la plataforma.<</td>
+        <td>Enviar Consulta</td>
+        <td>Como usuario de la landing page quiero enviar una solicitud de consulta para que los desarrolladores me informen.</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>EP03</td>
-        <td>Landing Page</td>
-        <td>Como usuario de la plataforma, deseo visitar una Landing Page para informarme sobre LexMedd y lo que ofrece.</td>
+        <td>Redirección a la Plataforma</td>
+        <td>Como usuario de la landing page quiero que se me redireccione a la plataforma para acceder de forma más sencilla a LEXMED</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EP04</td>
+        <td>Gestión y organización de casos</td>
+        <td>Como abogado, deseo poder gestionar y organizar de manera eficiente la información relevante para los casos de negligencia médica</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EP05</td>
+        <td>Confidencialidad</td>
+        <td>Como abogado, deseo tener sistemas que garanticen la seguridad y confidencialidad de la información sensible del caso.</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EP06</td>
+        <td>Comunicación</td>
+        <td>Como abogado, deseo tener facilidades para la colaboración entre el equipo legal y los expertos médicos para asegurar que toda la información esté alineada.</td>
         <td></td>
         <td></td>
     </tr>
@@ -52,19 +73,46 @@ para tratar con él u opinar de sus servicios.</td>
         <td></td>
     </tr>
     <tr>
-        <td>EP05</td>
-        <td>Infraestructura y Seguridad</td>
-        <td>Como administrador, quiero que la plataforma integre robustos sistemas de seguridad y manejo de datos, para proteger la información de los usuarios.</td>
+        <td>EP04</td>
+        <td>Interacción con el usuario a tratar</td>
+        <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
+para tratar con él u opinar de sus servicios.</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td>EP06</td>
-        <td>Interacción y Accesibilidad</td>
-        <td>Como desarrollador, quiero implementar interfaces y funcionalidades accesibles para mejorar la interacción del usuario con la plataforma.</td>
+        <td>EP04</td>
+        <td>Interacción con el usuario a tratar</td>
+        <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
+para tratar con él u opinar de sus servicios.</td>
         <td></td>
         <td></td>
     </tr>
+    <tr>
+        <td>EP04</td>
+        <td>Interacción con el usuario a tratar</td>
+        <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
+para tratar con él u opinar de sus servicios.</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EP04</td>
+        <td>Interacción con el usuario a tratar</td>
+        <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
+para tratar con él u opinar de sus servicios.</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>EP04</td>
+        <td>Interacción con el usuario a tratar</td>
+        <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
+para tratar con él u opinar de sus servicios.</td>
+        <td></td>
+        <td></td>
+    </tr>
+    
      <td>HU01</td>
         <td>Registro de un nuevo abogado especializado</td>
         <td>Como abogado especializado en derecho médico quiero registrarme en la plataforma LEXMED para ofrecer mis servicios.</td>
