@@ -49,4 +49,22 @@ EPIC|Título|Descripción|
 ![alt text](https://raw.githubusercontent.com/LexMedd/Informe-TF/Chapter-03/assets/imgs/Impact%20map%20cap3.jpg)
     
 ## 3.4. Product Backlog
+|**# Orden**|**User Story Id**|**Título**|**Descripción**|**Story Points**|
+| :- | :- | :- | :- | :- |
+|1|US01|Registro de Usuario|Como usuario, quiero registrarme para crear una cuenta y acceder a las funcionalidades de la aplicación de manera segura.|3|
+|2|US02|Inicio de Sesión|Como usuario, quiero iniciar sesión con mi cuenta para acceder de manera segura a la aplicación.|2|
+|3|US15|Recuperación de Contraseña|Como usuario, quiero poder recuperar mi contraseña en caso de olvidarla para acceder nuevamente a mi cuenta.|3|
+|4|US09|Actualización de Perfil|Como usuario, quiero actualizar mi información de perfil para mantener mis datos personales siempre actualizados.|2|
+|5|US03|Navegación Rápida|Como usuario, quiero navegar fácilmente a las funciones principales como buscar y gestionar casos, usar el chat, y actualizar mi perfil para mejorar mi experiencia en LexMed.|5|
+|6|US05|Gestión de Tarifas|Como abogado, quiero gestionar las tarifas y solicitudes de casos para evaluar y aceptar aquellos que cumplan con mis criterios.|8|
+|7|US07|Organización de Casos|Como abogado, quiero un sistema que me permita visualizar y organizar de manera clara los casos de mala praxis o asesoría legal para gestionarlos de manera eficiente.|5|
+|8|US11|Solicitud de Propuesta|Como abogado, quiero recibir solicitudes de nuevos casos de clientes para evaluarlos y decidir si aceptarlos.|8|
+|9|US10|Búsqueda de Casos|Como usuario, quiero buscar casos mediante criterios específicos, como nombre del cliente o fecha de creación.|5|
+|10|US12|Gestión de Notificaciones|Como usuario, quiero recibir notificaciones sobre actualizaciones en mis casos o solicitudes.|5|
+|11|US14|Chat para Seguimiento|Como usuario, quiero usar el chat integrado para hacer seguimiento en tiempo real de la evolución de mis casos.|8|
+|12|US08|Comparación de Tarifas|Como médico, quiero gestionar y comparar propuestas de tarifas de abogados para seleccionar al más adecuado para mi caso.|5|
+|13|US13|Filtros de Búsqueda|Como médico, quiero utilizar filtros avanzados para buscar casos, como por fecha o demografía.|5|
+|14|US04|Información Landing Page|Como usuario interesado, quiero ver una landing page que me informe sobre LexMed y los servicios que ofrece.|3|
+|15|US06|Redirección en Landing Page|Como visitante, quiero componentes interactivos que me redirijan fácilmente a diferentes secciones de la plataforma.|3|
+
 
