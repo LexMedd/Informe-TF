@@ -227,6 +227,10 @@ Liliana Requejo, obstetra con 20 años de experiencia, 13 de los cuales se han d
 - **Abogados**: Las tareas se centran en la revisión de casos, la preparación de documentos legales y la coordinación con el equipo médico. La importancia y la frecuencia están alineadas con la necesidad de preparar y presentar casos de manera efectiva.
 
 ### 2.3.3 User Journey Mapping
+En la presente sección se ilustra el end-to-end journey de la aplicación LexMedd para los segmentos objetivos,Medicos y abogados. El User Journey Mapping empieza desde el momento en el que el cliente adquiere conocimiento de la aplicación pasando por el prorceso de tomar la decisión de usarlo, registrarse, hacer uso de este mismo y
+finalmente la posibilidad de que deje de hacer uso de este mismo.
+
+![Lawyer UX Persona](../assets/imgs/Lawyer%20UX%20Persona.png)
 
 ### 2.3.5. As-is Scenario Mapping
 Haciendo uso del brainstorming se identificaron las fases de acuerdo a lo propuesto en los user persona. De este modo, hemos conseguido realizar los As-Is Mapping para los segmentos dados.
