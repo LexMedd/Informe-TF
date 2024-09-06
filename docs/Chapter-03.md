@@ -14,7 +14,7 @@ Luego de realizar el as-is con sus fases propuestas, para el to-be se realizaron
 
 Los User Stories describen las funciones de la aplicación adaptadas a las necesidades y prioridades de los usuarios, proporcionando una comprensión más completa de cómo se relacionan con la plataforma y qué esperan lograr con ella.
 
-<<<<<<< HEAD
+
 EPIC|Título|Descripción|
 | :-: | :-: | :-: |
 |EP01|Gestión de Cuentas de Usuario|Como usuario, quiero registrarme, iniciar sesión y gestionar mi cuenta para acceder de manera segura a la aplicación y mantener mis datos personales actualizados.|
