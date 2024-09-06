@@ -205,14 +205,18 @@ Al ofrecer servicios de conexión y asesoramiento legal especializados, la plata
 
    - **Base de datos de casos legales:** Desarrollar una sección en la plataforma que contenga un repositorio detallado de casos legales pasados y actuales, incluyendo información sobre la especialidad médica involucrada, lo que permitirá a los abogados estudiar precedentes y prepararse mejor para nuevos casos.
 <br>
+
 2. **Conexión con Doctores Necesitados de Defensa Legal**
 <br>
+
    - **Perfil de abogado especializado:** Permitir a los abogados crear perfiles profesionales completos que destaquen su experiencia en áreas específicas del derecho médico, facilitando que los doctores encuentren y seleccionen al abogado que mejor se adapte a sus necesidades legales.
 
    - **Sistema de comunicación segura:** Implementar una función de mensajería segura dentro de la plataforma que permita a los abogados y doctores comunicarse de manera confidencial y eficiente, asegurando la privacidad y protección de la información compartida.
 <br>
+
 3. **Educación y Crecimiento Profesional:**
 <br>
+
    - **Webinars y seminarios online:** Organizar sesiones regulares en línea dirigidas por expertos en derecho médico, donde los abogados puedan aprender sobre nuevas tendencias, cambios normativos, y mejores prácticas en la defensa de casos médicos, permitiéndoles mantenerse actualizados en su campo.
 
    - **Red de mentoría legal:** Establecer un foro o comunidad en la plataforma donde los abogados puedan interactuar entre sí y con mentores experimentados, compartiendo consejos, estrategias legales, y apoyo profesional para mejorar sus habilidades y conocimientos en derecho médico.
