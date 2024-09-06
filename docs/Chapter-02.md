@@ -230,9 +230,13 @@ Liliana Requejo, obstetra con 20 años de experiencia, 13 de los cuales se han d
 En la presente sección se ilustra el end-to-end journey de la aplicación LexMedd para los segmentos objetivos,Medicos y abogados. El User Journey Mapping empieza desde el momento en el que el cliente adquiere conocimiento de la aplicación pasando por el prorceso de tomar la decisión de usarlo, registrarse, hacer uso de este mismo y
 finalmente la posibilidad de que deje de hacer uso de este mismo.
 
+#### Dr. Alejandro Gómez (Médico)
+
 ![Map User Journey Map Medico](../assets/imgs/Map%20User%20Journey%20Map%20Medico.png)
 
-![Map User Journey Map Abogada](../assets/imgs/Map%20User%20Journey%20Map%Abogada.png)
+#### Lic. María Fernández (Abogada)
+
+![Map User Journey Map Abogada](../assets/imgs/Map%20User%20Journey%20Map%Abogada.png) 
 
 ### 2.3.5. As-is Scenario Mapping
 Haciendo uso del brainstorming se identificaron las fases de acuerdo a lo propuesto en los user persona. De este modo, hemos conseguido realizar los As-Is Mapping para los segmentos dados.
