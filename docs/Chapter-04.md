@@ -203,6 +203,8 @@ Los sistemas de navegación en LEXMed están diseñados para ser intuitivos y pe
 Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario óptima, alineada con las mejores prácticas de diseño y usabilidad
 
 ## <a name="_rkzyopjbefpy"></a>4.3. Landing Page UI Design. 
+Utilizamos la herramienta Figma
+link: <https://www.figma.com/design/qA9lVzTdv30pHH0N2EYmk7/Untitled?node-id=0-1&t=h5QX3L0KnUnnGoBk-1>
 ## <a name="_ro07daqq3i77"></a>4.3.1. Landing Page Wireframe.
 **Wireframe Destkop:** 
 <p align="center">
@@ -300,6 +302,64 @@ y opcionalmente agregar algún documento o foto.
 <img src="img/Doctor_mensaje.png" alt="Caso de un medico detallado" width="100%">
 
 ## <a name="_o8oaouyyyrnh"></a>4.4.2. Web Applications Wireflow Diagrams. 
+LINKS:
+
+<https://lucid.app/lucidchart/0352d41d-f68e-4e1b-8a21-820c9f0ce94b/edit?viewport_loc=-5075%2C-1059%2C3584%2C1668%2C0_0&invitationId=inv_59f270db-a2e3-4289-9aaa-a7828f76ccf0>
+
+<https://lucid.app/lucidchart/af55944e-b1b3-4fb3-a856-d24480d77db3/edit?viewport_loc=-3718%2C-194%2C2389%2C1112%2C0_0&invitationId=inv_29b69060-4f7b-4f9d-b2b4-5e8c7da6618e> 
+
+<https://lucid.app/lucidchart/4ddac706-5e82-47a6-ad5e-8050b412d4e1/edit?viewport_loc=-4313%2C-583%2C7168%2C3336%2C0_0&invitationId=inv_eb054432-9771-4bda-bd15-cb9039689511> 
+
+**User Goal: Iniciar Sesión**
+
+User Persona: Abogados y Médicos
+
+Explicación del Flujo:
+
+El usuario accede a la aplicación desplegada y visualiza un formulario que solicita su correo electrónico y contraseña. Una vez que se ingresan las credenciales, el sistema valida la información. Si la autenticación es exitosa, el usuario es redirigido a su perfil personal. Si las credenciales son incorrectas, el sistema muestra un mensaje de error y permanece en la pantalla de inicio de sesión. En ese momento, el usuario tiene la opción de reintroducir sus credenciales o seleccionar “Olvidé mi contraseña” para iniciar el proceso de restablecimiento.
+
+<img src="img/imagen1(wire).png" alt="Caso de un medico detallado" width="100%">
+
+**User Goal: Registro de Usuario**
+
+User Persona: Abogados y Médicos
+
+Explicación del Flujo:
+
+El usuario debe completar un formulario de registro que incluye información personal básica y seleccionar si es "Doctor" o "Abogado". Si selecciona "Abogado", se le mostrarán los planes de suscripción disponibles, debiendo elegir el que más le convenga y realizar el pago a través de tarjeta de crédito o débito. Tras confirmar el pago, verá un mensaje de confirmación del registro. Si el usuario selecciona "Doctor", será redirigido directamente a la pestaña de "Perfil" para completar su información adicional.
+
+<img src="img/imagen2(wire).png" alt="Caso de un medico detallado" width="100%">
+
+**User Goal: Navegación Rápida a Funciones Principales**
+
+User Persona: Abogados y Médicos
+
+Explicación del Flujo:
+
+El usuario puede navegar de manera rápida e intuitiva por las secciones principales de la plataforma. Si es Doctor, podrá acceder a "Perfil", "Gestión de Casos", "Propuestas" y "Mensajes", siendo redirigido a la página correspondiente con cada selección. De igual forma, los abogados pueden acceder a "Perfil", "Casos", "Mis Casos" y "Mensajes", con la posibilidad de utilizar el panel de mensajes para coordinar y comunicarse con otros profesionales.
+
+<img src="img/imagen3(wire).png" alt="Caso de un medico detallado" width="100%">
+
+**User Goal: Subida de un Caso Médico**
+
+User Persona: Doctor
+
+Explicación del Flujo:
+
+Después de iniciar sesión, el Doctor verá las opciones "Gestión de Casos", "Propuestas" y "Mensajes" en el encabezado. Para crear un nuevo caso, deberá hacer clic en "Gestión de Casos" y luego seleccionar el botón "Nuevo Caso". El Doctor podrá especificar si requiere asesoría o si el caso está relacionado con una situación de riesgo, establecer su tarifa propuesta y, opcionalmente, adjuntar documentos relevantes al caso.
+
+<img src="img/imagen4(wire).png" alt="Caso de un medico detallado" width="100%">
+
+**User Goal: Gestión de Tarifas de Casos para Abogados**
+
+User Persona: Abogados
+
+Explicación del Flujo:
+
+Una vez que el abogado ha iniciado sesión y accede al panel de casos, puede revisar las propuestas de tarifa ofrecidas por los médicos. El abogado podrá aceptar la tarifa sugerida o ingresar una nueva cifra que considere adecuada. Después de seleccionar el caso y confirmar la tarifa, el abogado será redirigido al panel de "Mis Casos" para gestionar el seguimiento de este.
+**
+<img src="img/imagen5(wire).png" alt="Caso de un medico detallado" width="100%">
+
 ## <a name="_rvsmsee9togy"></a>4.4.2. Web Applications Mock-ups. 
 **Inicio de sesión:** el usuario se registra, reestablece su contraseña o inicia sesión en la plataforma 
 <img src="img/inicioo.png" alt="inicio" width="100%">
@@ -365,9 +425,70 @@ y opcionalmente agregar algún documento o foto.
 
 **Mensajeria:** En este apartado el Doctor puede comunicarse directamente con su cliente (Abogado) 
 <img src="img/msj-medico.png" alt="Caso de un medico detallado" width="100%">
-## <a name="_cjjnua53arvh"></a>4.4.3. Web Applications User Flow Diagrams. 
-## <a name="_lyzx2drr86gc"></a>4.5. Web Applications Prototyping. 
 
+## <a name="_cjjnua53arvh"></a>4.4.3. Web Applications User Flow Diagrams. 
+LINKS:
+
+<https://lucid.app/lucidchart/0352d41d-f68e-4e1b-8a21-820c9f0ce94b/edit?viewport_loc=-5075%2C-1059%2C3584%2C1668%2C0_0&invitationId=inv_59f270db-a2e3-4289-9aaa-a7828f76ccf0>
+
+<https://lucid.app/lucidchart/af55944e-b1b3-4fb3-a856-d24480d77db3/edit?viewport_loc=-3718%2C-194%2C2389%2C1112%2C0_0&invitationId=inv_29b69060-4f7b-4f9d-b2b4-5e8c7da6618e> 
+
+<https://lucid.app/lucidchart/4ddac706-5e82-47a6-ad5e-8050b412d4e1/edit?viewport_loc=-4313%2C-583%2C7168%2C3336%2C0_0&invitationId=inv_eb054432-9771-4bda-bd15-cb9039689511> 
+
+**User Goal: Iniciar Sesión**
+
+User Persona: Abogados y Médicos
+
+Explicación del Flujo:
+
+El usuario accede a la aplicación desplegada y visualiza un formulario que solicita su correo electrónico y contraseña. Una vez que se ingresan las credenciales, el sistema valida la información. Si la autenticación es exitosa, el usuario es redirigido a su perfil personal. Si las credenciales son incorrectas, el sistema muestra un mensaje de error y permanece en la pantalla de inicio de sesión. En ese momento, el usuario tiene la opción de reintroducir sus credenciales o seleccionar “Olvidé mi contraseña” para iniciar el proceso de restablecimiento.
+
+<img src="img/imagen1(mock).png" alt="Caso de un medico detallado" width="100%">
+
+**User Goal: Registro de Usuario**
+
+User Persona: Abogados y Médicos
+
+Explicación del Flujo:
+
+El usuario debe completar un formulario de registro que incluye información personal básica y seleccionar si es "Doctor" o "Abogado". Si selecciona "Abogado", se le mostrarán los planes de suscripción disponibles, debiendo elegir el que más le convenga y realizar el pago a través de tarjeta de crédito o débito. Tras confirmar el pago, verá un mensaje de confirmación del registro. Si el usuario selecciona "Doctor", será redirigido directamente a la pestaña de "Perfil" para completar su información adicional.
+
+<img src="img/imagen2(mock).png" alt="Caso de un medico detallado" width="100%">
+
+**User Goal: Navegación Rápida a Funciones Principales**
+
+User Persona: Abogados y Médicos
+
+Explicación del Flujo:
+
+El usuario puede navegar de manera rápida e intuitiva por las secciones principales de la plataforma. Si es Doctor, podrá acceder a "Perfil", "Gestión de Casos", "Propuestas" y "Mensajes", siendo redirigido a la página correspondiente con cada selección. De igual forma, los abogados pueden acceder a "Perfil", "Casos", "Mis Casos" y "Mensajes", con la posibilidad de utilizar el panel de mensajes para coordinar y comunicarse con otros profesionales.
+
+<img src="img/imagen3(mock).png" alt="Caso de un medico detallado" width="100%">
+
+**User Goal: Subida de un Caso Médico**
+
+User Persona: Doctor
+
+Explicación del Flujo:
+
+Después de iniciar sesión, el Doctor verá las opciones "Gestión de Casos", "Propuestas" y "Mensajes" en el encabezado. Para crear un nuevo caso, deberá hacer clic en "Gestión de Casos" y luego seleccionar el botón "Nuevo Caso". El Doctor podrá especificar si requiere asesoría o si el caso está relacionado con una situación de riesgo, establecer su tarifa propuesta y, opcionalmente, adjuntar documentos relevantes al caso.
+
+<img src="img/imagen4(mock).png" alt="Caso de un medico detallado" width="100%">
+
+**User Goal: Gestión de Tarifas de Casos para Abogados**
+
+User Persona: Abogados
+
+Explicación del Flujo:
+
+Una vez que el abogado ha iniciado sesión y accede al panel de casos, puede revisar las propuestas de tarifa ofrecidas por los médicos. El abogado podrá aceptar la tarifa sugerida o ingresar una nueva cifra que considere adecuada. Después de seleccionar el caso y confirmar la tarifa, el abogado será redirigido al panel de "Mis Casos" para gestionar el seguimiento de este.
+**
+<img src="img/imagen5(mock).png" alt="Caso de un medico detallado" width="100%">
+
+
+## <a name="_lyzx2drr86gc"></a>4.5. Web Applications Prototyping. 
+<https://www.figma.com/design/KMPBdgh2TfhwYMH69QOXoY/Untitled?t=h5QX3L0KnUnnGoBk-1>
+<img src="img/prototipo.png" alt="prototipo" width="100%">
 
 
 ## <a name="_mu9vw6k7b4rn"></a>4.6. Domain-Driven Software Architecture. 
