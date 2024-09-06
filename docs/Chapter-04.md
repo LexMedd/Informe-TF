@@ -289,7 +289,7 @@ y opcionalmente agregar algún documento o foto.
 ## <a name="_o8oaouyyyrnh"></a>4.4.2. Web Applications Wireflow Diagrams. 
 ## <a name="_rvsmsee9togy"></a>4.4.2. Web Applications Mock-ups. 
 **Inicio de sesión:** el usuario se registra, reestablece su contraseña o inicia sesión en la plataforma 
-<img src="img/inicio.png" alt="inicio" width="100%">
+<img src="img/inicioo.png" alt="inicio" width="100%">
 **Registro de nueva cuenta:** En este apartado es cuando el usuario crea su cuenta, completando los siguientes datos: correo electrónico, especialización, sus nombres y apellidos y su contraseña; además debe indicar si es doctor o abogado. 
 <img src="img/crearcuenta.png" alt="Nuevo usuario" width="100%">
 **Reestablecer contraseña:** Cuando el usuario olvida su contraseña 
@@ -313,15 +313,15 @@ y opcionalmente agregar algún documento o foto.
 **Mis casos:** En este apartado el abogado puede observar todos los casos que lleva y tiene un filtro el cual puede buscarlo por ordén alfabético, descendente o ascendente ,y demográficamente  
 <img src="img/Abogado-4.png" alt="casos que el abogado tiene" width="100%">
 **Detalle:** en el botón “detalle” aparecerá este apartado el cual tiene el contexto del caso 
-<img src="img/Abogado-6.png" alt="Caso de un medico detallado" width="100%">
+<img src="img/Abog.png" alt="Caso de un medico detallado" width="100%">
 **Mensajeria:** En este apartado el Abogado puede comunicarse directamente con su cliente (medico) 
-<img src="img/abogado-8.png" alt="Caso de un medico detallado" width="100%">
+<img src="img/msj-abogado.png" alt="Caso de un medico detallado" width="100%">
 # Aplicación para Doctores:
 **Mi perfil:** En este apartado el doctor personaliza su foto y otros datos como su nombre, cambio de correo y de contraseña.
 <img src="img/Medicoo.png" alt="Perfil Doctor" width="100%">
 
 **Gestión de casos:**  En este dashboard el doctor puede observar su caso, el abogado quien esta llevando el caso y como va el estado del caso.
-<img src="img/Medico.png" alt="gestión de casos" width="100%">
+<img src="img/Medico.png"  alt="gestión de casos" width="100%">
 
 **Documento:** Al dar clic en el icono de documento, aparece este apartado en el cual se observa el caso documentado.
 <img src="img/Medico-2.png" alt="Crear caso" width="100%">
@@ -340,7 +340,7 @@ y opcionalmente agregar algún documento o foto.
 <img src="img/Group-40.png" alt="Confirmación de pago" width="100%">
 
 **Mensajeria:** En este apartado el Doctor puede comunicarse directamente con su cliente (Abogado) 
-<img src="img/Abogado-9.png" alt="Caso de un medico detallado" width="100%">
+<img src="img/msj-medico.png" alt="Caso de un medico detallado" width="100%">
 ## <a name="_cjjnua53arvh"></a>4.4.3. Web Applications User Flow Diagrams. 
 ## <a name="_lyzx2drr86gc"></a>4.5. Web Applications Prototyping. 
 
