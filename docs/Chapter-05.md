@@ -157,26 +157,26 @@ una de las tareas identificadas para el sprint.
     <td colspan="8">Via Discord y Google Meet</td>
 <tr>
     <td colspan="5">Prepared By</td>
-    <td colspan="8">Gabriel Garcia</td>
+    <td colspan="8">Augusto Mathias Vasquez Requejo</td>
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Gabriel Garcia, Diego Flores, Fabricio Apaza, Mathias Vasquez, Anatoly Noriega</td>
+    <td colspan="8">Fabiola Becerra, Arnold Morales, Estrella Ticona, Leonardo Dueñas</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n – 1 Review Summary</td>
-    <td colspan="8">En esta seccion se planteo el desarrollo del landing page para nuestro proyecto llamado MedicDefense</td>
+    <td colspan="8">En esta seccion se planteo el desarrollo del landing page para nuestro proyecto llamado LexMedd y la reparticion de partes de caracter individual para esta primera entrega</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n – 1 Retrospective Summary</td>
-    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando landing pages</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en las respectivas partes que le correspondia cada uno para esta primera entrega</td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Goal</td>
-    <td colspan="8">Culminar el landing Page</td>
+    <td colspan="8">Culminar el landing Page e Informe</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
@@ -283,52 +283,52 @@ una de las tareas identificadas para el sprint.
         <th colspan="2">Commited on (Date)</th>
     </tr>
         <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">LexMedd/Landing-Page</td>
         <td colspan="2">Main</td>
-        <td colspan="2">b6d10b1</td>
-        <td colspan="2">feat: added contact section</td>
+        <td colspan="2">c34065a</td>
+        <td colspan="2">Initial commit</td>
         <td colspan="2">-</td>
-        <td colspan="2">06/04/2024</td>
+        <td colspan="2">02/09/2024</td>
     </tr>
         <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">LexMedd/Landing-Page</td>
         <td colspan="2">Main</td>
-        <td colspan="2">4808ace</td>
-        <td colspan="2">feat: Added "Our Services" code</td>
+        <td colspan="2">c88105d</td>
+        <td colspan="2">landing page created but needs changes</td>
         <td colspan="2">-</td>
-        <td colspan="2">06/04/2024</td>
+        <td colspan="2">03/09/2024</td>
     </tr>
      <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">LexMedd/Landing-Page</td>
         <td colspan="2">Main</td>
-        <td colspan="2">168d5f0</td>
-        <td colspan="2">chore: initial commit</td>
+        <td colspan="2">c7bca44</td>
+        <td colspan="2">update readme lexmed landing page</td>
         <td colspan="2">-</td>
-        <td colspan="2">06/04/2024</td>
+        <td colspan="2">03/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">LexMedd/Landing-Page</td>
         <td colspan="2">Main</td>
-        <td colspan="2">7ace2eb</td>
-        <td colspan="2">fix: updated image errors</td>
+        <td colspan="2">d658fb5</td>
+        <td colspan="2">update json need fix</td>
         <td colspan="2">-</td>
-        <td colspan="2">10/04/2024</td>
+        <td colspan="2">05/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">LexMedd/Landing-Page</td>
         <td colspan="2">Main</td>
-        <td colspan="2">b96e52c</td>
-        <td colspan="2">fix: updated menu.js</td>
+        <td colspan="2">2e9d92d</td>
+        <td colspan="2">Feat: Design landing page structure and overall styles.</td>
         <td colspan="2">-</td>
-        <td colspan="2">10/04/2024</td>
+        <td colspan="2">05/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">LexMedd/Landing-Page</td>
         <td colspan="2">Main</td>
-        <td colspan="2">0ad72ce</td>
-        <td colspan="2">feat: add 'About Us' and 'Our Services' sections to landing page</td>
+        <td colspan="2">7896294</td>
+        <td colspan="2">feat: needs images</td>
         <td colspan="2">-</td>
-        <td colspan="2">06/04/2024</td>
+        <td colspan="2">06/09/2024</td>
     </tr>
 </table>
 
@@ -354,12 +354,6 @@ Test de visualización de sección de contacto
 
 - Comportamiento: Verificar que la sección de contacto se muestra correctamente en la página principal.
 
-Test de visualización de sección nosotros
-
-- Clase relacionada: AboutUsController
-
-- Comportamiento: Verificar que la sección nosotros se muestra correctamente en la página principal.
-
 Test de visualización de sección de inicio
 
 - Clase relacionada: NavigationController
@@ -379,95 +373,72 @@ Test de visualización de sección de inicio
   </thead>
   <tbody>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>LexMedd/Landing-Page</td>
       <td>main</td>
-      <td>168d5f0532985817301307d0eb0e651ebb233a77</td>
+      <td>c34065a900719de67f9e1def72de6dd43c2b63cd</td>
       <td>initial commit</td>
       <td>- Created initial commit for landing page</td>
-      <td>2024-04-06</td>
+      <td>2024-09-02</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>LexMedd/Landing-Page</td>
       <td>main</td>
-      <td>4808acedb5738c031b71416e6ea0fff5d057e0e5</td>
-      <td>Added "Our Services"</td>
-      <td>- created our services section to landing page</td>
-      <td>2024-04-06</td>
+      <td>c88105d63e17d12eb471134118e94b00dcfa5935</td>
+      <td>Added all the sections of the landing page</td>
+      <td>- created all the sections of landing page</td>
+      <td>2024-09-03</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>LexMedd/Landing-Page</td>
       <td>main</td>
-      <td>b6d10b1525acdd2e4914c5de25d2ecb836884e94</td>
-      <td>added contact section</td>
-      <td>- created our contact section to landing page</td>
-      <td>2024-04-06</td>
+      <td>c7bca44b4409716130fc599299342e78b066d529</td>
+      <td>update readme lexmed landing page</td>
+      <td>- updated readme of the landing page</td>
+      <td>2024-09-03</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>LexMedd/Landing-Page</td>
       <td>main</td>
-      <td>555441bd8dc434640170aae69d2f517df739251a</td>
-      <td>Added "About us" and "Our Services"</td>
-      <td>- Created About us and Our Services to landing page</td>
-      <td>2024-04-06</td>
+      <td>d658fb5445d37fb0aa11dd55085e9997395fc40a</td>
+      <td>update json need fix</td>
+      <td>- update json and fix for the landing page</td>
+      <td>2024-09-05</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>LexMedd/Landing-Page</td>
       <td>main</td>
-      <td>a778131e10a50a903dfd234b986164615c9871e2</td>
-      <td>Added creators section</td>
-      <td>- Created Creators to landing page</td>
-      <td>2024-04-08</td>
+      <td>2e9d92da14b675f17a2c579719ed80d98bb39d96</td>
+      <td>Feat: Design landing page structure and overall styles.</td>
+      <td>- desing landing page structure</td>
+      <td>2024-09-05</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>LexMedd/Landing-Page</td>
       <td>main</td>
-      <td>2d479db24e63fa3b3e24f141b8bfc56d5efc2883</td>
-      <td>update creators section</td>
-      <td>- update creators section to landing page</td>
-      <td>2024-04-09</td>
+      <td>789629424b2a981f496b5aa25f09a5412348c7bb</td>
+      <td>needs images</td>
+      <td>- the landing page needs images in the correct places</td>
+      <td>2024-09-06</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
-      <td>main</td>
-      <td>7ace2ebbe27f9ea32f3e94c00e516610f996e68d</td>
-      <td>updated image errors</td>
-      <td>- Resolved image errors by updating references or fixing issues, ensuring proper display of images</td>
-      <td>2024-04-10</td>
-    </tr>
-    <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
-      <td>main</td>
-      <td>5b77d4e726f5b1b0dac3a9b6f17c8731562d9608</td>
-      <td>updated contact section</td>
-      <td>- Enhanced the contact section by updating its functionality or improving user experience</td>
-      <td>2024-04-10</td>
-    </tr>
-    <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
-      <td>main</td>
-      <td>b96e52c2884c042e2a27a25de945b9f263f9365a</td>
-      <td>updated menu.js</td>
-      <td>- Updated menu.js file, potentially to improve menu functionality or fix bugs</td>
-      <td>2024-04-10</td>
-    </tr>
   </tbody>
 </table>
 
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
-Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
+Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "LexMed". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
 **Sección de inicio**: Se implementó el Header de nuestra Landing Page.
-![alt text](../assets/imgs/header.png)
+![alt text](../docs/images/Inicio%20LEXMED.png)
 **Sección de Nosotros**: Se implementó la sección de nosotros para describir un poco sobre quienes somos.
-![alt text](../assets/imgs/nosotros.png)
+![alt text](../docs/images/About%20us%20LEXMED.png)
 **Sección de Servicios**: Se implementó la sección de los servicios ofrecidos.
-![alt text](../assets/imgs/servicios.png)
+![alt text](../docs/images/Services%20LEXMED.png)
 **Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.
-![alt text](<../assets/imgs/nuestros planes.png>)
+![alt text](../docs/images/Plans%20LEXMED.png) 
 **Sección de contacto y creadores**: Se añadió la sección de contacto para facilitar la comunicación con los usuarios y la información de los creadores.
-![alt text](../assets/imgs/footer.png)
+![alt text](../docs/images/Contact%20us%20LEXMED.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -477,11 +448,11 @@ En este sprint solo se trabajó el landing page.
 
 Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
 
-![alt text](<../assets/imgs/Github Repositorio.png>)
+![alt text](../docs/images/Soft%20deploy%20landing.png)
 
 Una vez creado el repositorio, entraremos a configuración del repositorio y escogemos el apartado de Pages. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Github Pages nos brindará el link y desplegará nuestra landing page en la Web.
 
-![alt text](<../assets/imgs/Github Pages.png>)
+![alt text](../docs/images/deploy%20landing.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
@@ -489,11 +460,11 @@ Para el desarrollo de este primer sprint, todos los miembros del equipo desarrol
 
 Commits:
 
-![alt text](../assets/imgs/Insights.png)
+![alt text](../docs/images/Commits%20landing.png)
 
 Analiticas de Colaboración:
 
-![alt text](../assets/imgs/AnaliticasLanding.png)
+![alt text](../docs/images/Contributors.png)
 
 ## Conclusiones
 **Conclusiones (TB1)**
@@ -521,5 +492,5 @@ Listado de referencias y fuentes.
 
 ## Anexos
 ●	Link de video de registro de entrevista Link a Microsoft  : 
-●	Link de Trello a Product Backlog y Sprint planning : 
+●	Link de Trello a Product Backlog y Sprint planning : https://trello.com/b/vjQPnoaS/tablero-de-trello-tf-open-source
 
