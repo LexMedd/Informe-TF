@@ -242,7 +242,7 @@ finalmente la posibilidad de que deje de hacer uso de este mismo.
 
 #### Dr. Alejandro Gómez (Médico)
 
-![Map User Journey Map Medico](../assets/imgs/Map%20User%20Journey%20Map%20Medico.png)
+![Empathy map](../assets/imgs/Dr.%20Alejandro%20Gómez.png)
 
 #### Lic. María Fernández (Abogada)
 
