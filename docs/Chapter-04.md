@@ -306,7 +306,7 @@ y opcionalmente agregar algún documento o foto.
 **Casos:** En este apartado el abogado podrá visualizar todos los casos según su suscripción 
 <img src="img/Abogado-3.png" alt="casos que puede escoger el abogado" width="100%">
 **Detalles:** En el botón “ver detalle”, el abogado podrá observar detalladamente el caso de un Doctor 
-<img src="img/Abogado-5_.png" alt="casos que puede escoger el abogado" width="100%">
+<img src="img/detallin_.png" alt="casos que puede escoger el abogado" width="100%">
 
 **tarifa** El abogado puede escoger entre aceptar o subir el rango de la tarifa.
 <img src="img/Abogado-7.png" alt="tarifas que puede escoger el abogado" width="100%">
