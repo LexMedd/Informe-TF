@@ -238,6 +238,16 @@ finalmente la posibilidad de que deje de hacer uso de este mismo.
 
 ![Map User Journey Map Abogada](../assets/imgs/Map%20User%20Journey%20Map%20Abogada.png)
 
+### 2.3.4 Empathy Mapping
+
+#### Dr. Alejandro Gómez (Médico)
+
+![Map User Journey Map Medico](../assets/imgs/Map%20User%20Journey%20Map%20Medico.png)
+
+#### Lic. María Fernández (Abogada)
+
+![Map User Journey Map Abogada](../assets/imgs/Map%20User%20Journey%20Map%20Abogada.png)
+
 ### 2.3.5. As-is Scenario Mapping
 Haciendo uso del brainstorming se identificaron las fases de acuerdo a lo propuesto en los user persona. De este modo, hemos conseguido realizar los As-Is Mapping para los segmentos dados.
 
