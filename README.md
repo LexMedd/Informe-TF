@@ -48,7 +48,7 @@ Grupo: 1
   <tr>
     <td colspan="3">1era</td>
     <td colspan="3">05/09/2024</td>
-    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Estrella del Pilar Ticona Panduro, Fabiola Becerra LLempen, Arnold Gabriel Morales Sosa, Leonardo Dueñas</td>
+    <td colspan="10">Augusto Mathias Leonardo Vasquez Requejo, Estrella del Pilar Ticona Panduro, Fabiola Becerra LLempen, Arnold Gabriel Morales Sosa, Dueñas Canales Leonardo Manuel</td>
     <td colspan="5">Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V, Landing page</td>
   </tr>
   </table>
