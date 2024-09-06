@@ -206,7 +206,7 @@ Liliana Requejo, obstetra con 20 años de experiencia, 13 de los cuales se han d
 | Realizar consultas de seguimiento             | Siempre        | Alta            |
 | Usar software de gestión de casos             | Frecuentemente | Alta            |
 
-#### Lic. Carla Rodríguez (Abogada)
+#### Lic. María Fernández (Abogada)
 
 | **TAREA**                                     | **FRECUENCIA** | **IMPORTANCIA** |
 |-----------------------------------------------|----------------|-----------------|
@@ -231,6 +231,8 @@ En la presente sección se ilustra el end-to-end journey de la aplicación LexMe
 finalmente la posibilidad de que deje de hacer uso de este mismo.
 
 ![Map User Journey Map Medico](../assets/imgs/Map%20User%20Journey%20Map%20Medico.png)
+
+![Map User Journey Map Abogada](../assets/imgs/Map%20User%20Journey%20Map%Abogada.png)
 
 ### 2.3.5. As-is Scenario Mapping
 Haciendo uso del brainstorming se identificaron las fases de acuerdo a lo propuesto en los user persona. De este modo, hemos conseguido realizar los As-Is Mapping para los segmentos dados.
