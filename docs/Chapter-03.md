@@ -24,14 +24,14 @@ Los User Stories describen las funciones de la aplicación adaptadas a las neces
     </tr>
     <tr>
         <td>EP01</td>
-        <td>Presentación de información</td>
+        <td>Presentación de la información</td>
         <td>Como usuario de la landing page quiero visualizar la información del startup para ver si hay interés por el proyecto.</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>EP02</td>
-        <td>Enviar Consulta</td>
+        <td>Enviar una Consulta</td>
         <td>Como usuario de la landing page quiero enviar una solicitud de consulta para que los desarrolladores me informen.</td>
         <td></td>
         <td></td>
@@ -45,56 +45,56 @@ Los User Stories describen las funciones de la aplicación adaptadas a las neces
     </tr>
     <tr>
         <td>EP04</td>
-        <td>Búsqueda de casos</td>
+        <td>Búsqueda de Casos</td>
         <td>Como abogado, deseo tener una amplia variedad de casos de negligencia médica que esté acorde a mi especialidad en el ámbito médico.</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>EP05</td>
-        <td>Confidencialidad del caso</td>
+        <td>Confidencialidad del Caso</td>
         <td>Como abogado, deseo tener sistemas que garanticen la seguridad y confidencialidad de la información sensible del caso.</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>EP06</td>
-        <td>Comunicación con médicos</td>
+        <td>Comunicación con Médicos</td>
         <td>Como abogado, deseo tener facilidades para la colaboración con los expertos médicos para asegurar que toda la información esté alineada.</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>EP07</td>
-        <td>Registro de casos de negligencia médica</td>
+        <td>Registro de Casos de Negligencia Médica</td>
         <td>Como médico, deseo poder registrar de manera eficiente información relevante que tenga sobre casos de negligencia médica.</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>EP08</td>
-        <td>Creación de Perfil de Abogado</td>
+        <td>Creación de Perfil del Abogado</td>
         <td>Como abogado, quiero crear un perfil detallado para mostrar mis habilidades y experiencia en el ámbito de casos médicos.</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>EP09</td>
-        <td>Creación de Perfil de Médico</td>
+        <td>Creación de Perfil del Médico</td>
         <td>Como médico, quiero crear un perfil detallado para mostrar información puntual sobre la documentación médica obtenida por casos de negligencia médica.</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>EP10</td>
-        <td>Estimación de pago</td>
+        <td>Estimación del Pago</td>
         <td>Como médico, deseo estimar el dinero que invertiría por un abogado experto en mi especialidad</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>EP11</td>
-        <td>Visibilidad del caso</td>
+        <td>Visibilidad del Caso</td>
         <td>Como médico, deseo que mi caso llegue a varios abogados capacitados registrados en la página para proceder de manera rápida y efectiva con la documentación.</td>
         <td></td>
         <td></td>
