@@ -8,7 +8,7 @@
 
 El objetivo del siguiente análisis competitivo es identificar las fortalezas y debilidades de las aplicaciones enfocadas en casos de negligencia médica, para desarrollar diseños y estrategias efectivas.
 
-| Competidor          | Legal Consumer | Abogado.com   | Poulos y Coates, LLP |  |
+| Competidor          | Legal Consumer | Abogado.com   | Poulos y Coates, LLP | LexMedd  |
 | ------------------- | -------------- | ------------- | ---------------------| --------------- |
 | **Logo**            | ![](../assets/imgs/LOGOHORIZONTAL-LEGALCONSUMER.png) | ![](../assets/imgs/abogado%20logo.png) | ![](../assets/imgs/POULOS%20LOGO.png) | |
 | **Perfil**          | Aplicación Web | Aplicación Web| Ejecutable           | Aplicación Web  |
