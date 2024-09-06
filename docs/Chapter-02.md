@@ -236,7 +236,7 @@ finalmente la posibilidad de que deje de hacer uso de este mismo.
 
 #### Lic. María Fernández (Abogada)
 
-![Map User Journey Map Abogada](../assets/imgs/Map%20User%20Journey%20Map%Abogada.png) 
+![Map User Journey Map Abogada](../assets/imgs/Map%20User%20Journey%20Map%20Abogada.png)
 
 ### 2.3.5. As-is Scenario Mapping
 Haciendo uso del brainstorming se identificaron las fases de acuerdo a lo propuesto en los user persona. De este modo, hemos conseguido realizar los As-Is Mapping para los segmentos dados.
