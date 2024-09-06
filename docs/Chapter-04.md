@@ -240,7 +240,7 @@ En la versión mobile el navbar se reemplaza por un menu desplegable.
 <img src="img/contraseña.png" alt="olvido su contraseña" width="100%">
 # Aplicación Para Abogados:
 **Planes:** Cuando el abogado selecciona que es “Abogado” le aparecerá la opción de los planes de suscripción 
-<img src="img/Abogados_suscripciones.png" alt="Planes de subcripcion" width="100%">
+<img src="img/abg_subs.png" alt="Planes de subcripcion" width="100%">
 **Pasarela de pago:** Este apartado es para que pague el plan que seleccionó con la tarjeta de crédito o debito 
 <img src="img/Abogado_pago.png" alt="Pasarela de pago" width="100%">
 **Confirmación de pago:**  Este apartado es para confirmar la transacción 
@@ -306,7 +306,7 @@ y opcionalmente agregar algún documento o foto.
 **Casos:** En este apartado el abogado podrá visualizar todos los casos según su suscripción 
 <img src="img/Abogado-3.png" alt="casos que puede escoger el abogado" width="100%">
 **Detalles:** En el botón “ver detalle”, el abogado podrá observar detalladamente el caso de un Doctor 
-<img src="img/detallin_.png" alt="casos que puede escoger el abogado" width="100%">
+<img src="img/dtl.png" alt="casos que puede escoger el abogado" width="100%">
 
 **tarifa** El abogado puede escoger entre aceptar o subir el rango de la tarifa.
 <img src="img/Abogado-7.png" alt="tarifas que puede escoger el abogado" width="100%">
