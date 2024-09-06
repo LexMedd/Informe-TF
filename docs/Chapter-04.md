@@ -483,7 +483,7 @@ Explicación del Flujo:
 
 Una vez que el abogado ha iniciado sesión y accede al panel de casos, puede revisar las propuestas de tarifa ofrecidas por los médicos. El abogado podrá aceptar la tarifa sugerida o ingresar una nueva cifra que considere adecuada. Después de seleccionar el caso y confirmar la tarifa, el abogado será redirigido al panel de "Mis Casos" para gestionar el seguimiento de este.
 **
-<img src="img/imagen5(mock).png" alt="Caso de un medico detallado" width="100%">
+<img src="/docs/img/Imagen5(mock).png" alt="Caso de un medico detallado" width="100%">
 
 
 ## <a name="_lyzx2drr86gc"></a>4.5. Web Applications Prototyping. 
