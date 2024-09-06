@@ -211,6 +211,7 @@ Este enfoque integral garantizará que LEXMed ofrezca una experiencia de usuario
 </p>
 
 <div align="center">
+
 **Wireframe Mobile**
 En la versión mobile el navbar se reemplaza por un menu desplegable.
 
@@ -232,36 +233,48 @@ En la versión mobile el navbar se reemplaza por un menu desplegable.
 ## <a name="_7e2enm1mgr6i"></a> 4.4. Web Applications UX/UI Design. 
 ## <a name="_5zi3tdd6ruhc"></a>4.4.1. Web Applications Wireframes. 
 **Inicio de sesión:** el usuario se registra, reestablece su contraseña o inicia sesión en la plataforma 
-<img src="img/log_in.png" alt="inicio" width="100%">
+<img src="img/iniciooooo.png" alt="inicio" width="100%">
+
 **Registro de nueva cuenta:** En este apartado es cuando el usuario crea su cuenta, completando los siguientes datos: correo electrónico, especialización, sus nombres y apellidos y su contraseña; además debe indicar si es doctor o abogado. 
 <img src="img/crear_cuenta.png" alt="Nuevo usuario" width="100%">
+
 **Reestablecer contraseña:** Cuando el usuario olvida su contraseña 
 <img src="img/contraseña.png" alt="olvido su contraseña" width="100%">
 # Aplicación Para Abogados:
+
 **Planes:** Cuando el abogado selecciona que es “Abogado” le aparecerá la opción de los planes de suscripción 
 <img src="img/abg_subs.png" alt="Planes de subcripcion" width="100%">
+
 **Pasarela de pago:** Este apartado es para que pague el plan que seleccionó con la tarjeta de crédito o debito 
 <img src="img/Abogado_pago.png" alt="Pasarela de pago" width="100%">
+
 **Confirmación de pago:**  Este apartado es para confirmar la transacción 
 <img src="img/confirmacionp.png" alt="Confirmación de pago" width="100%">
+
 **Perfil:**  En este apartado el abogado personaliza su foto y otros datos como su nombre, cambio de correo, de contraseña y de plan. 
 <img src="img/Abogado_perfil.png" alt="Perfil de abogado" width="100%">
+
 **Casos:** En este apartado el abogado podrá visualizar todos los casos según su suscripción 
 <img src="img/Abogado_casitos.png" alt="casos que puede escoger el abogado" width="100%">
+
 **Detalles:** En el botón “ver detalle”, el abogado podrá observar detalladamente el caso de un Doctor 
 <img src="img/Abogado_detalle.png" alt="casos que puede escoger el abogado" width="100%">
 
 **tarifa** El abogado puede escoger entre aceptar o subir el rango de la tarifa.
 <img src="img/Abogado_detalle_tarifa.png" alt="tarifas que puede escoger el abogado" width="100%">
+
 **Mis casos:** En este apartado el abogado puede observar todos los casos que lleva y tiene un filtro el cual puede buscarlo por ordén alfabético, descendente o ascendente ,y demográficamente  
 <img src="img/Abogado_sus_casos.png" alt="casos que el abogado tiene" width="100%">
+
 **Detalle:** en el botón “detalle” aparecerá este apartado el cual tiene el contexto del caso 
-<img src="img/Abogado_caso.png" alt="Caso de un medico detallado" width="100%">
+<img src="img/casinabogadin.png" alt="Caso de un medico detallado" width="100%">
+
 **Mensajeria:** En este apartado el Abogado puede comunicarse directamente con su cliente (medico) 
-<img src="img/abogado_mensaje.png" alt="Caso de un medico detallado" width="100%">
+<img src="img/abogadinmensajin.png" alt="Caso de un medico detallado" width="100%">
+
 # Aplicación para Doctores:
 **Mi perfil:** En este apartado el doctor personaliza su foto y otros datos como su nombre, cambio de correo y de contraseña.
-<img src="img/doctor_perfil.png" alt="Perfil Doctor" width="100%">
+<img src="img/perfildoctor.png" alt="Perfil Doctor" width="100%">
 
 **Gestión de casos:**  En este dashboard el doctor puede observar su caso, el abogado quien esta llevando el caso y como va el estado del caso.
 <img src="img/doctor_casos.png" alt="gestión de casos" width="100%">
@@ -289,19 +302,26 @@ y opcionalmente agregar algún documento o foto.
 ## <a name="_rvsmsee9togy"></a>4.4.2. Web Applications Mock-ups. 
 **Inicio de sesión:** el usuario se registra, reestablece su contraseña o inicia sesión en la plataforma 
 <img src="img/inicioo.png" alt="inicio" width="100%">
+
 **Registro de nueva cuenta:** En este apartado es cuando el usuario crea su cuenta, completando los siguientes datos: correo electrónico, especialización, sus nombres y apellidos y su contraseña; además debe indicar si es doctor o abogado. 
 <img src="img/crearcuenta.png" alt="Nuevo usuario" width="100%">
+
 **Reestablecer contraseña:** Cuando el usuario olvida su contraseña 
 <img src="img/contraseña_.png" alt="olvido su contraseña" width="100%">
+
 # Aplicación Para Abogados:
 **Planes:** Cuando el abogado selecciona que es “Abogado” le aparecerá la opción de los planes de suscripción 
 <img src="img/Abogado.png" alt="Planes de subcripcion" width="100%">
+
 **Pasarela de pago:** Este apartado es para que pague el plan que seleccionó con la tarjeta de crédito o debito 
 <img src="img/Abogado-1.png" alt="Pasarela de pago" width="100%">
+
 **Confirmación de pago:**  Este apartado es para confirmar la transacción 
 <img src="img/Abogado_confirmacion.png" alt="Confirmación de pago" width="100%">
+
 **Perfil:**  En este apartado el abogado personaliza su foto y otros datos como su nombre, cambio de correo, de contraseña y de plan. 
 <img src="img/Abogado-2.png" alt="Perfil de abogado" width="100%">
+
 **Casos:** En este apartado el abogado podrá visualizar todos los casos según su suscripción 
 <img src="img/Abogado-3.png" alt="casos que puede escoger el abogado" width="100%">
 **Detalles:** En el botón “ver detalle”, el abogado podrá observar detalladamente el caso de un Doctor 
@@ -311,11 +331,15 @@ y opcionalmente agregar algún documento o foto.
 <img src="img/Abogado-7.png" alt="tarifas que puede escoger el abogado" width="100%">
 **Mis casos:** En este apartado el abogado puede observar todos los casos que lleva y tiene un filtro el cual puede buscarlo por ordén alfabético, descendente o ascendente ,y demográficamente  
 <img src="img/Abogado-4.png" alt="casos que el abogado tiene" width="100%">
+
 **Detalle:** en el botón “detalle” aparecerá este apartado el cual tiene el contexto del caso 
-<img src="img/Abog.png" alt="Caso de un medico detallado" width="100%">
+<img src="img/abogadito.png" alt="Caso de un medico detallado" width="100%">
+
 **Mensajeria:** En este apartado el Abogado puede comunicarse directamente con su cliente (medico) 
 <img src="img/msj-abogado.png" alt="Caso de un medico detallado" width="100%">
+
 # Aplicación para Doctores:
+
 **Mi perfil:** En este apartado el doctor personaliza su foto y otros datos como su nombre, cambio de correo y de contraseña.
 <img src="img/Medicoo.png" alt="Perfil Doctor" width="100%">
 
