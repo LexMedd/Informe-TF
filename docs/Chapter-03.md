@@ -87,29 +87,18 @@ Los User Stories describen las funciones de la aplicación adaptadas a las neces
     </tr>
     <tr>
         <td>EP10</td>
-        <td>Interacción con el usuario a tratar</td>
-        <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
-para tratar con él u opinar de sus servicios.</td>
+        <td>Estimación de pago</td>
+        <td>Como médico, deseo estimar el dinero que invertiría por un abogado experto en mi especialidad</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
         <td>EP11</td>
-        <td>Interacción con el usuario a tratar</td>
-        <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
-para tratar con él u opinar de sus servicios.</td>
+        <td>Visibilidad del caso</td>
+        <td>Como médico, deseo que mi caso llegue a varios abogados capacitados registrados en la página para proceder de manera rápida y efectiva con la documentación.</td>
         <td></td>
         <td></td>
-    </tr>
-    <tr>
-        <td>EP12</td>
-        <td>Interacción con el usuario a tratar</td>
-        <td>Como usuario, deseo tener funciones y opciones relacionadas a mi necesidad 
-para tratar con él u opinar de sus servicios.</td>
-        <td></td>
-        <td></td>
-    </tr>
-    
+    </tr>   
      <td>HU01</td>
         <td>Registro de un nuevo abogado especializado</td>
         <td>Como abogado especializado en derecho médico quiero registrarme en la plataforma LEXMED para ofrecer mis servicios.</td>
