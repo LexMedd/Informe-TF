@@ -28,7 +28,7 @@ Grupo: 1
 |Ticona Panduro, Estrella del Pilar     |U202210659        |
 |Becerra llempen, Fabiola Becerra      |U20171A518       |
 |Morales Sosa, Arnold Gabriel     |U201822516     |
-|Leonardo Dueñas        |UXXXXXXX |
+|Dueñas Canales Leonardo Manuel      |202117475 |
 
 </div>
 
