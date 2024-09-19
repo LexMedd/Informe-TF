@@ -248,7 +248,7 @@ Si el usuario no cumple con los requerimientos, no podra crear su cuenta
 **Reestablecer contraseña:** Cuando el usuario olvida su contraseña 
 <img src="img/tres_wireframes.png" alt="olvido su contraseña" width="100%">
 
-Si el usuario no cumple con los requerimientos, no podra cambiar su contraseña
+Si la contraseña que el usuario creo no coinciden, no podrá cambiar su contraseña
 
 <img src="img/cuatro_wireframes.png" alt="olvido su contraseña" width="100%">
 
