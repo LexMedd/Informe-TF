@@ -149,7 +149,7 @@ una de las tareas identificadas para el sprint.
   </tr>
   <tr>
     <td colspan="5">Date</td>
-    <td colspan="8">2024-04-12</td>
+    <td colspan="8">2024-04-0</td>
 </tr>
   <tr>
     <td colspan="5">Time</td>
@@ -335,6 +335,7 @@ una de las tareas identificadas para el sprint.
     </tr>
 </table>
 
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 **Unit Tests**
@@ -468,6 +469,397 @@ Commits:
 Analiticas de Colaboración:
 
 ![alt text](../docs/images/Contributors.png)
+
+### 5.2.1 Sprint 2
+
+#### 5.2.1.1 Sprint Planning 2
+
+Para este primer sprint nos enfocaremos en los tasks para la
+elaboración de la Landing Page. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-04-17</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">19:00 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Google Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Augusto Mathias Vasquez Requejo</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Fabiola Becerra, Arnold Morales, Estrella Ticona, Leonardo Dueñas</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Review Summary</td>
+    <td colspan="8">En esta reunion se planteo el desarrollo del Frontend para nuestro proyecto llamado LexMedd y la reparticion de partes de caracter indiviudal o en pareja para esta segunda entrega</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Retrospective Summary</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en las respectivas partes que le correspondia cada uno para esta primera entrega</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Avanzar el Frontend</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">17 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">30 Story Points</td>
+</tr>
+</table>
+
+
+#### 5.2.1.2 Sprint Backlog 2
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">9</td>
+    <td colspan="2">Actualización de Datos de Perfil</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Añadir funcion para editar datos del perfil del usuario</td>
+    <td colspan="3">Como usuario, quiero actualizar mi información de perfil para mantener mis datos personales siempre actualizados.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Estrella</td>
+    <td colspan="1">To-Review</td>
+  </tr>
+  <tr>
+    <td colspan="1">6</td>
+    <td colspan="2">Redirección Rápida desde la Landing Page</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Añadir funcion de redireccion desde landing page hasta aplicacion web.</td>
+    <td colspan="3">Como visitante de la landing page, quiero componentes interactivos que me redirijan fácilmente a diferentes secciones de la plataforma.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Mathias</td>
+    <td colspan="1">To-review</td>
+<tr>
+    <td colspan="1">13</td>
+    <td colspan="2">Filtros de Búsqueda en el Historial de Casos</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir filtros de busqueda</td>
+    <td colspan="3">Como medico, quiero utilizar filtros avanzados para buscar casos, como por fecha , demografico, para acceder rápidamente a la información relevante.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Arnold</td>
+    <td colspan="1">In-process</td>
+</tr>
+<tr>
+    <td colspan="1">7</td>
+    <td colspan="2">Visualización y Organización de Casos para Abogados</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Organizacion visual de casos para la vista de abogados</td>
+    <td colspan="3">Como abogado, quiero un sistema que me permita visualizar y organizar de manera clara los casos de mala praxis o asesoría legal para gestionarlos de manera eficiente.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Fabiola</td>
+    <td colspan="1">In-process</td>
+</tr>
+<tr>
+    <td colspan="1">3</td>
+    <td colspan="2">Navegación Rápida a Funciones Principales</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Visualizacion de una navegacion rápida y eficiente</td>
+    <td colspan="3">Como usuario, quiero navegar fácilmente a las funciones principales como buscar y gestionar casos, usar el chat, y actualizar mi perfil para mejorar mi experiencia en LexMed.</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Leonardo</td>
+    <td colspan="1">In-process</td>
+</tr>
+</table>
+
+### 5.2.1.3. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">LexMedd/Frontend</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">-</td>
+        <td colspan="2">/09/2024</td>
+    </tr>
+        <tr>
+        <td colspan="2">LexMedd/Frontend</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">-</td>
+        <td colspan="2">/09/2024</td>
+    </tr>
+     <tr>
+        <td colspan="2">LexMedd/Frontend</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">-</td>
+        <td colspan="2">/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">LexMedd/Frontend</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">-</td>
+        <td colspan="2">/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">LexMedd/Frontend</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">-</td>
+        <td colspan="2">/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">LexMedd/Frontend</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">-</td>
+        <td colspan="2">/09/2024</td>
+    </tr>
+</table>
+
+### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+**Unit Tests**
+
+Test de visualización de lista de tipos de suscripción
+
+- Clase relacionada: SubscriptionService
+
+- Comportamiento: Verificar que la función para mostrar la lista de tipos de suscripción funciona correctamente.
+
+Test de visualización de servicios
+
+- Clase relacionada: ServiceController
+
+- Comportamiento: Verificar que la sección de servicios se muestra correctamente en la página principal.
+
+Test de visualización de sección de contacto
+
+- Clase relacionada: ContactController
+
+- Comportamiento: Verificar que la sección de contacto se muestra correctamente en la página principal.
+
+Test de visualización de sección de inicio
+
+- Clase relacionada: NavigationController
+
+- Comportamiento: Verificar que la barra de navegación se muestra correctamente en la página principal.
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LexMedd/Landing-Page</td>
+      <td>main</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2024-09-</td>
+    </tr>
+    <tr>
+      <td>LexMedd/Landing-Page</td>
+      <td>main</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2024-09-</td>
+    </tr>
+    <tr>
+      <td>LexMedd/Landing-Page</td>
+      <td>main</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2024-09-0</td>
+    </tr>
+    <tr>
+      <td>LexMedd/Landing-Page</td>
+      <td>main</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2024-09-0</td>
+    </tr>
+    <tr>
+      <td>LexMedd/Landing-Page</td>
+      <td>main</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2024-09-0</td>
+    </tr>
+    <tr>
+      <td>LexMedd/Landing-Page</td>
+      <td>main</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2024-09-0</td>
+    </tr>
+    <tr>
+  </tbody>
+</table>
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+Para esta segunda entrega, nuestro equipo a conseguido elaborar la primera versión de Frontend Web Application del proyecto "LexMedd". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
+
+Lista de Abogados y Toolbar:
+
+Perfil Abogado:
+
+Busqueda Abogados:
+
+Filtros Abogados:
+
+Sección Resumen:
+
+Sección Suscripción:
+
+Suscripción Pago:
+
+Sección Perfil Usuario:
+
+Editar Perfil Usuario:
+
+
+Enlace al video de Evidencia:
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se ha desarrollado una Fake API de abogados que proporciona información sobre abogados ficticios. La API incluye detalles como el nombre del abogado.
+
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Sintaxis de Llamada</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Llamada</th>
+    <th>Explicación del Response</th>
+  </tr>
+  <tr>
+    <td>/api/lawyers</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/lawyers</td>
+    <td>-</td>
+    <td>GET /api/lawyers</td>
+    <td>200 OK: Devuelve una lista de todos los abogados.</td>
+  </tr>
+  <tr>
+    <td>/api/lawyers/{id}</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/lawyers/{id}</td>
+    <td>ID del abogado</td>
+    <td>GET /api/lawyers/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+</table>
+
+Capturas de interaccion: 
+
+-Creacion del Fake API
+-Configuracion del servico HTTPClient
+-Uso en el componente lawyer-list
+-Iteracion en la vista HTML
+
+
+
+Url del repositorio: https://github.com/LexMedd/Frontend 
+
+Commits relacionados: 
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+    </tr>
+        <tr>
+        <td colspan="2">LexMedd/Frontend</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">56853799d2969ae246d7b161ba4e729451f6e577</td>
+        <td colspan="2">feat: added db.json and start.sh</td>
+    </tr>
+        <tr>
+        <td colspan="2">LexMedd/Frontend</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">eb08f314c976895d3b6b61955c81cdf96e3849fa</td>
+        <td colspan="2">feat(static-content): added lawyers list</td>
+    </tr>
+</table>    
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Para el despliegue de la primera version del Frontend Web Application hemos utilizado la plataforma de terceros llamada Netlify. Esta plataforma nos permite el facil acceso a nuestro repositorio de Github, el cual por medio de ciertas configuraciones podemos tener como resultado el despliegue de nuestra primera version del Frontend Web Application.
+
+![alt text](../docs/images/Netlify%20to%20deploy%20LexMedd.png)
+
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+Commits:
+Network Graph:
 
 ## Conclusiones
 **Conclusiones (TB1)**
