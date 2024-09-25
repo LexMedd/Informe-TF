@@ -502,7 +502,7 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Fabiola Becerra, Arnold Morales, Estrella Ticona, Leonardo Dueñas</td>
+    <td colspan="8">Leonardo Dueñas</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n – 2 Review Summary</td>
@@ -521,11 +521,11 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
-    <td colspan="8">17 story points</td>
+    <td colspan="8"> story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">30 Story Points</td>
+    <td colspan="8"> Story Points</td>
 </tr>
 </table>
 
@@ -559,7 +559,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="3">Como usuario, quiero actualizar mi información de perfil para mantener mis datos personales siempre actualizados.</td>
     <td colspan="1">5</td>
     <td colspan="2">Estrella</td>
-    <td colspan="1">To-Review</td>
+    <td colspan="1">To-do</td>
   </tr>
   <tr>
     <td colspan="1">6</td>
@@ -569,7 +569,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="3">Como visitante de la landing page, quiero componentes interactivos que me redirijan fácilmente a diferentes secciones de la plataforma.</td>
     <td colspan="1">1</td>
     <td colspan="2">Mathias</td>
-    <td colspan="1">To-review</td>
+    <td colspan="1">To-do</td>
 <tr>
     <td colspan="1">13</td>
     <td colspan="2">Filtros de Búsqueda en el Historial de Casos</td>
@@ -578,7 +578,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="3">Como medico, quiero utilizar filtros avanzados para buscar casos, como por fecha , demografico, para acceder rápidamente a la información relevante.</td>
     <td colspan="1">4</td>
     <td colspan="2">Arnold</td>
-    <td colspan="1">In-process</td>
+    <td colspan="1">To-do</td>
 </tr>
 <tr>
     <td colspan="1">7</td>
@@ -588,7 +588,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="3">Como abogado, quiero un sistema que me permita visualizar y organizar de manera clara los casos de mala praxis o asesoría legal para gestionarlos de manera eficiente.</td>
     <td colspan="1">3</td>
     <td colspan="2">Fabiola</td>
-    <td colspan="1">In-process</td>
+    <td colspan="1">To-do</td>
 </tr>
 <tr>
     <td colspan="1">3</td>
@@ -598,7 +598,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="3">Como usuario, quiero navegar fácilmente a las funciones principales como buscar y gestionar casos, usar el chat, y actualizar mi perfil para mejorar mi experiencia en LexMed.</td>
     <td colspan="1">4</td>
     <td colspan="2">Leonardo</td>
-    <td colspan="1">In-process</td>
+    <td colspan="1">To-do</td>
 </tr>
 </table>
 
@@ -616,237 +616,32 @@ una de las tareas identificadas para el sprint.
         <tr>
         <td colspan="2">LexMedd/Frontend</td>
         <td colspan="2">Develop</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">add message bc</td>
+        <td colspan="2">add message bounded context</td>
         <td colspan="2">-</td>
         <td colspan="2">/09/2024</td>
     </tr>
         <tr>
         <td colspan="2">LexMedd/Frontend</td>
         <td colspan="2">Develop</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">add service message and user</td>
+        <td colspan="2">add service message and user in bc</td>
         <td colspan="2">-</td>
         <td colspan="2">/09/2024</td>
     </tr>
-     <tr>
-        <td colspan="2">LexMedd/Frontend</td>
-        <td colspan="2">Develop</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2">-</td>
-        <td colspan="2">/09/2024</td>
-    </tr>
-    <tr>
-        <td colspan="2">LexMedd/Frontend</td>
-        <td colspan="2">Develop</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2">-</td>
-        <td colspan="2">/09/2024</td>
-    </tr>
-    <tr>
-        <td colspan="2">LexMedd/Frontend</td>
-        <td colspan="2">Develop</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2">-</td>
-        <td colspan="2">/09/2024</td>
-    </tr>
-    <tr>
-        <td colspan="2">LexMedd/Frontend</td>
-        <td colspan="2">Develop</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2">-</td>
-        <td colspan="2">/09/2024</td>
-    </tr>
-</table>
-
-### 5.2.1.4. Testing Suite Evidence for Sprint Review
-
-**Unit Tests**
-
-Test de visualización de lista de tipos de suscripción
-
-- Clase relacionada: SubscriptionService
-
-- Comportamiento: Verificar que la función para mostrar la lista de tipos de suscripción funciona correctamente.
-
-Test de visualización de servicios
-
-- Clase relacionada: ServiceController
-
-- Comportamiento: Verificar que la sección de servicios se muestra correctamente en la página principal.
-
-Test de visualización de sección de contacto
-
-- Clase relacionada: ContactController
-
-- Comportamiento: Verificar que la sección de contacto se muestra correctamente en la página principal.
-
-Test de visualización de sección de inicio
-
-- Clase relacionada: NavigationController
-
-- Comportamiento: Verificar que la barra de navegación se muestra correctamente en la página principal.
-
-<table>
-  <thead>
-    <tr>
-      <th>Repository</th>
-      <th>Branch</th>
-      <th>Commit Id</th>
-      <th>Commit Message</th>
-      <th>Commit Message Body</th>
-      <th>Committed on (Date)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>LexMedd/Landing-Page</td>
-      <td>main</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>2024-09-</td>
-    </tr>
-    <tr>
-      <td>LexMedd/Landing-Page</td>
-      <td>main</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>2024-09-</td>
-    </tr>
-    <tr>
-      <td>LexMedd/Landing-Page</td>
-      <td>main</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>2024-09-0</td>
-    </tr>
-    <tr>
-      <td>LexMedd/Landing-Page</td>
-      <td>main</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>2024-09-0</td>
-    </tr>
-    <tr>
-      <td>LexMedd/Landing-Page</td>
-      <td>main</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>2024-09-0</td>
-    </tr>
-    <tr>
-      <td>LexMedd/Landing-Page</td>
-      <td>main</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>2024-09-0</td>
-    </tr>
-    <tr>
-  </tbody>
 </table>
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
-Para esta segunda entrega, nuestro equipo a conseguido elaborar la primera versión de Frontend Web Application del proyecto "LexMedd". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
-
-Lista de Abogados y Toolbar:
-
-Perfil Abogado:
-
-Busqueda Abogados:
-
-Filtros Abogados:
-
-Sección Resumen:
-
-Sección Suscripción:
-
-Suscripción Pago:
-
-Sección Perfil Usuario:
-
-Editar Perfil Usuario:
-
-
-Enlace al video de Evidencia:
+Para esta segunda entrega, nuestro equipo no consiguio elaborar la primera version de Frontend Web Application del proyecto "LexMedd". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-Durante este sprint, se ha desarrollado una Fake API de abogados que proporciona información sobre abogados ficticios. La API incluye detalles como el nombre del abogado.
+Durante este sprint, se ha desarrollado una Fake API de abogados que proporciona información sobre abogados ficticios. La API incluye detalles como el guardar datos.
 
-<table>
-  <tr>
-    <th>Endpoint</th>
-    <th>Acción</th>
-    <th>Verbo HTTP</th>
-    <th>Sintaxis de Llamada</th>
-    <th>Parámetros</th>
-    <th>Ejemplo de Llamada</th>
-    <th>Explicación del Response</th>
-  </tr>
-  <tr>
-    <td>/api/lawyers</td>
-    <td>Listar</td>
-    <td>GET</td>
-    <td>/api/lawyers</td>
-    <td>-</td>
-    <td>GET /api/lawyers</td>
-    <td>200 OK: Devuelve una lista de todos los abogados.</td>
-  </tr>
-  <tr>
-    <td>/api/lawyers/{id}</td>
-    <td>Obtener</td>
-    <td>GET</td>
-    <td>/api/lawyers/{id}</td>
-    <td>ID del abogado</td>
-    <td>GET /api/lawyers/1</td>
-    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
-  </tr>
-</table>
-
-Capturas de interaccion: 
-
--Creacion del Fake API
--Configuracion del servico HTTPClient
--Uso en el componente lawyer-list
--Iteracion en la vista HTML
-
-
+![alt text](../docs/images/fake%20api%20lexmed.png)
 
 Url del repositorio: https://github.com/LexMedd/Frontend 
-
-Commits relacionados: 
-
-<table>
-    <tr>
-        <th colspan="2">Repository</th>
-        <th colspan="2">Branch</th>
-        <th colspan="2">Commit Id</th>
-        <th colspan="2">Commit Message</th>
-    </tr>
-        <tr>
-        <td colspan="2">LexMedd/Frontend</td>
-        <td colspan="2">Develop</td>
-        <td colspan="2">56853799d2969ae246d7b161ba4e729451f6e577</td>
-        <td colspan="2">feat: added db.json and start.sh</td>
-    </tr>
-        <tr>
-        <td colspan="2">LexMedd/Frontend</td>
-        <td colspan="2">Develop</td>
-        <td colspan="2">eb08f314c976895d3b6b61955c81cdf96e3849fa</td>
-        <td colspan="2">feat(static-content): added lawyers list</td>
-    </tr>
-</table>    
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Para el despliegue de la primera version del Frontend Web Application hemos utilizado la plataforma de terceros llamada Netlify. Esta plataforma nos permite el facil acceso a nuestro repositorio de Github, el cual por medio de ciertas configuraciones podemos tener como resultado el despliegue de nuestra primera version del Frontend Web Application.
