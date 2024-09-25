@@ -305,7 +305,7 @@ y opcionalmente agregar algún documento o foto.
 **Pasarela de pago:** Este apartado es para que pague el servicio del abogado que seleccionó, con la tarjeta de crédito o débito. 
 <img src="img/Doctor_pago.png" alt="Pasarela de pago" width="100%">
 **Confirmación de pago:**  Este apartado es para confirmar la transacción 
-<img src="img/confirmacionp.png" alt="Confirmación de pago" width="100%">
+<img src="img/nueve_wireframes.png" alt="Confirmación de pago" width="100%">
 
 **Mensajeria:** En este apartado el Doctor puede comunicarse directamente con su cliente (Abogado) 
 <img src="img/Doctor_mensaje.png" alt="Caso de un medico detallado" width="100%">
@@ -327,7 +327,7 @@ Explicación del Flujo:
 
 El usuario accede a la aplicación desplegada y visualiza un formulario que solicita su correo electrónico y contraseña. Una vez que se ingresan las credenciales, el sistema valida la información. Si la autenticación es exitosa, el usuario es redirigido a su perfil personal. Si las credenciales son incorrectas, el sistema muestra un mensaje de error y permanece en la pantalla de inicio de sesión. En ese momento, el usuario tiene la opción de reintroducir sus credenciales o seleccionar “Olvidé mi contraseña” para iniciar el proceso de restablecimiento.
 
-<img src="/docs/img/Imagen1(wire).png" alt="imagen 1" width="100%">
+<img src="img/Imagen1(wire).png" alt="imagen 1" width="100%">
 
 **User Goal: Registro de Usuario**
 
@@ -337,7 +337,7 @@ Explicación del Flujo:
 
 El usuario debe completar un formulario de registro que incluye información personal básica y seleccionar si es "Doctor" o "Abogado". Si selecciona "Abogado", se le mostrarán los planes de suscripción disponibles, debiendo elegir el que más le convenga y realizar el pago a través de tarjeta de crédito o débito. Tras confirmar el pago, verá un mensaje de confirmación del registro. Si el usuario selecciona "Doctor", será redirigido directamente a la pestaña de "Perfil" para completar su información adicional.
 
-<img src="/docs/img/Imagen2(wire).png" alt="imagen 2" width="100%">
+<img src="img/Imagen2(wire).png" alt="imagen 1" width="100%">
 
 **User Goal: Navegación Rápida a Funciones Principales**
 
@@ -347,7 +347,7 @@ Explicación del Flujo:
 
 El usuario puede navegar de manera rápida e intuitiva por las secciones principales de la plataforma. Si es Doctor, podrá acceder a "Perfil", "Gestión de Casos", "Propuestas" y "Mensajes", siendo redirigido a la página correspondiente con cada selección. De igual forma, los abogados pueden acceder a "Perfil", "Casos", "Mis Casos" y "Mensajes", con la posibilidad de utilizar el panel de mensajes para coordinar y comunicarse con otros profesionales.
 
-<img src="/docs/img/Imagen3(wire).png" alt="imagen 3" width="100%">
+<img src="img/Imagen3(wire).png" alt="imagen 1" width="100%">
 
 **User Goal: Subida de un Caso Médico**
 
@@ -357,7 +357,7 @@ Explicación del Flujo:
 
 Después de iniciar sesión, el Doctor verá las opciones "Gestión de Casos", "Propuestas" y "Mensajes" en el encabezado. Para crear un nuevo caso, deberá hacer clic en "Gestión de Casos" y luego seleccionar el botón "Nuevo Caso". El Doctor podrá especificar si requiere asesoría o si el caso está relacionado con una situación de riesgo, establecer su tarifa propuesta y, opcionalmente, adjuntar documentos relevantes al caso.
 
-<img src="/docs/img/Imagen4(wire).png" alt="imagen 4" width="100%">
+<img src="img/Imagen4(wire).png" alt="imagen 1" width="100%">
 
 **User Goal: Gestión de Tarifas de Casos para Abogados**
 
@@ -367,7 +367,7 @@ Explicación del Flujo:
 
 Una vez que el abogado ha iniciado sesión y accede al panel de casos, puede revisar las propuestas de tarifa ofrecidas por los médicos. El abogado podrá aceptar la tarifa sugerida o ingresar una nueva cifra que considere adecuada. Después de seleccionar el caso y confirmar la tarifa, el abogado será redirigido al panel de "Mis Casos" para gestionar el seguimiento de este.
 **
-<img src="/docs/img/Imagen5(wire).png" alt="imagen 5" width="100%">
+<img src="img/Imagen5(wire).png" alt="imagen 1" width="100%">
 
 ## <a name="_rvsmsee9togy"></a>4.4.2. Web Applications Mock-ups. 
 **Inicio de sesión:** el usuario se registra, reestablece su contraseña o inicia sesión en la plataforma 
@@ -388,7 +388,7 @@ Si la contraseña que el usuario creo no coincide, no podrá cambiar su contrase
 <img src="img/ocho_mockup.png" alt="Planes de subcripcion" width="100%">
 
 **Pasarela de pago:** Este apartado es para que pague el plan que seleccionó con la tarjeta de crédito o debito 
-<img src="img/nueve_mockup" alt="Pasarela de pago" width="100%">
+<img src="img/medicosiete_mockup.png" alt="Pasarela de pago" width="100%">
 
 **Confirmación de pago:**  Este apartado es para confirmar la transacción 
 <img src="img/diez_mockup.png" alt="Confirmación de pago" width="100%">
@@ -456,7 +456,7 @@ Explicación del Flujo:
 
 El usuario accede a la aplicación desplegada y visualiza un formulario que solicita su correo electrónico y contraseña. Una vez que se ingresan las credenciales, el sistema valida la información. Si la autenticación es exitosa, el usuario es redirigido a su perfil personal. Si las credenciales son incorrectas, el sistema muestra un mensaje de error y permanece en la pantalla de inicio de sesión. En ese momento, el usuario tiene la opción de reintroducir sus credenciales o seleccionar “Olvidé mi contraseña” para iniciar el proceso de restablecimiento.
 
-<img src="/docs/img/Imagen1(mock).png" alt="imagen 1" width="100%">
+<img src="img/Imagen1(mock).png" alt="imagen 1" width="100%">
 
 **User Goal: Registro de Usuario**
 
@@ -466,7 +466,7 @@ Explicación del Flujo:
 
 El usuario debe completar un formulario de registro que incluye información personal básica y seleccionar si es "Doctor" o "Abogado". Si selecciona "Abogado", se le mostrarán los planes de suscripción disponibles, debiendo elegir el que más le convenga y realizar el pago a través de tarjeta de crédito o débito. Tras confirmar el pago, verá un mensaje de confirmación del registro. Si el usuario selecciona "Doctor", será redirigido directamente a la pestaña de "Perfil" para completar su información adicional.
 
-<img src="/docs/img/Imagen2(mock).png" alt="imagen 2" width="100%">
+<img src="img/Imagen2(mock).png" alt="imagen 2" width="100%">
 
 **User Goal: Navegación Rápida a Funciones Principales**
 
@@ -476,7 +476,7 @@ Explicación del Flujo:
 
 El usuario puede navegar de manera rápida e intuitiva por las secciones principales de la plataforma. Si es Doctor, podrá acceder a "Perfil", "Gestión de Casos", "Propuestas" y "Mensajes", siendo redirigido a la página correspondiente con cada selección. De igual forma, los abogados pueden acceder a "Perfil", "Casos", "Mis Casos" y "Mensajes", con la posibilidad de utilizar el panel de mensajes para coordinar y comunicarse con otros profesionales.
 
-<img src="/docs/img/Imagen3(mock).png" alt="imagen 3" width="100%">
+<img src="img/Imagen3(mock).png" alt="imagen 3" width="100%">
 
 **User Goal: Subida de un Caso Médico**
 
@@ -486,7 +486,7 @@ Explicación del Flujo:
 
 Después de iniciar sesión, el Doctor verá las opciones "Gestión de Casos", "Propuestas" y "Mensajes" en el encabezado. Para crear un nuevo caso, deberá hacer clic en "Gestión de Casos" y luego seleccionar el botón "Nuevo Caso". El Doctor podrá especificar si requiere asesoría o si el caso está relacionado con una situación de riesgo, establecer su tarifa propuesta y, opcionalmente, adjuntar documentos relevantes al caso.
 
-<img src="/docs/img/Imagen4(mock).png" alt="iamgen 04" width="100%">
+<img src="img/Imagen4(mock).png" alt="iamgen 04" width="100%">
 
 **User Goal: Gestión de Tarifas de Casos para Abogados**
 
@@ -496,7 +496,7 @@ Explicación del Flujo:
 
 Una vez que el abogado ha iniciado sesión y accede al panel de casos, puede revisar las propuestas de tarifa ofrecidas por los médicos. El abogado podrá aceptar la tarifa sugerida o ingresar una nueva cifra que considere adecuada. Después de seleccionar el caso y confirmar la tarifa, el abogado será redirigido al panel de "Mis Casos" para gestionar el seguimiento de este.
 **
-<img src="/docs/img/Imagen5(mock).png" alt="imagen 05" width="100%">
+<img src="img/Imagen5(mock).png" alt="imagen 05" width="100%">
 
 
 ## <a name="_lyzx2drr86gc"></a>4.5. Web Applications Prototyping. 
