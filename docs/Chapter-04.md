@@ -587,7 +587,7 @@ Método para autenticar cuentas con el sistema de Google Firebase
 
 
 
-| **Abogado**  | |
+| **Lawyer**  | |
 |-----------------|---------------------------------------------------------------------------------------------------|
 | **Descripción** | Cuenta del abogado que heredó la clase Account. Emplea métodos de la clase padre y tiene métodos propios. |
 | **Atributo**    | **Descripción** |
@@ -653,6 +653,6 @@ Método para autenticar cuentas con el sistema de Google Firebase
 link: https://my.vertabelo.com/doc/Qx6uceSIer5RxAoWAxK2BU7scyccv8nR
 
 <p align="center">
-  <img src="img/databasediagram.png" alt="tipografia" width="100%">
+  <img src="img/databasediagram1.png" alt="tipografia" width="100%">
 </p>
 
