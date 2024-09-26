@@ -474,13 +474,13 @@ Analiticas de Colaboración:
 
 #### 5.2.1.1 Sprint Planning 2
 
-Para este primer sprint nos enfocaremos en los tasks para la
+Para este segundo sprint nos enfocaremos en los tasks para la
 elaboración de la Landing Page. Nos dividiremos entre nosotros cada
 una de las tareas identificadas para el sprint.
 <table>
 <tr>
     <th colspan="5">Sprint #</th>
-    <th colspan="9">Sprint 1</th>
+    <th colspan="9">Sprint 2</th>
   </tr>
       <tr>
     <td colspan="13">Sprint Planning Background</td>
