@@ -647,6 +647,7 @@ Url del repositorio: https://github.com/LexMedd/Frontend
 Para el despliegue de la primera version del Frontend Web Application hemos utilizado la plataforma de terceros llamada Netlify. Esta plataforma nos permite el facil acceso a nuestro repositorio de Github, el cual por medio de ciertas configuraciones podemos tener como resultado el despliegue de nuestra primera version del Frontend Web Application.
 
 ![alt text](../docs/images/Netlify%20to%20deploy%20LexMedd.png)
+Url de nuestro Frontend desplegado: https://6725489fef0e06af8a3d6b32--lexmeddwebapp.netlify.app/login  
 
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
@@ -685,7 +686,7 @@ Network Graph:
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Gabriel Garcia, Diego Flores, Fabricio Apaza, Anatoly Noriega, Mathias Vasquez, Carlos Avellaneda</td>
+    <td colspan="8">Augusto Vasquez, Leonardo Dueñas, Arnold Morales, Estrella Ticona.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n – 3 Review Summary</td>
@@ -737,10 +738,10 @@ Network Graph:
     <td colspan="1">46</td>
     <td colspan="2">Creación y gestión de recursos de casos legales</td>
     <td colspan="1">1</td>
-    <td colspan="2">Creación y gestión de recursos de casos legales</td>
-    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales.</td>
+    <td colspan="2">Creación y gestión de solicitudes</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de solicitudes, asi como su creacion y su eliminacion.</td>
     <td colspan="1">5</td>
-    <td colspan="2">Fabricio and Gabriel</td>
+    <td colspan="2">Augusto Mathias</td>
     <td colspan="1">Done</td>
   </tr>
 </table>
@@ -898,6 +899,7 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 ●	Github es un software de control de versiones indispensable para trabajar el proyecto en equipo. Además, se integra fácilmente con muchas plataformas de servicios como softwares de deployment. 
 
 **- Video About-the-Team**
+**- Video About-the-Product:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EXhXp8q7NhNOgBjBbMWIuo4BS_ZK2L5VTooEsIZicJlb3w?e=oujK6U
 
 ---
 
