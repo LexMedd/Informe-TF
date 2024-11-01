@@ -521,11 +521,11 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
-    <td colspan="8"> story points</td>
+    <td colspan="8"> 15 story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8"> Story Points</td>
+    <td colspan="8"> 20 Story Points</td>
 </tr>
 </table>
 
@@ -558,8 +558,8 @@ una de las tareas identificadas para el sprint.
     <td colspan="2">Añadir funcion para editar datos del perfil del usuario</td>
     <td colspan="3">Como usuario, quiero actualizar mi información de perfil para mantener mis datos personales siempre actualizados.</td>
     <td colspan="1">5</td>
-    <td colspan="2">Estrella</td>
-    <td colspan="1">To-do</td>
+    <td colspan="2">Arnold</td>
+    <td colspan="1">Done</td>
   </tr>
   <tr>
     <td colspan="1">6</td>
@@ -568,7 +568,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="2">Añadir funcion de redireccion desde landing page hasta aplicacion web.</td>
     <td colspan="3">Como visitante de la landing page, quiero componentes interactivos que me redirijan fácilmente a diferentes secciones de la plataforma.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Mathias</td>
+    <td colspan="2">Estrella</td>
     <td colspan="1">To-do</td>
 <tr>
     <td colspan="1">13</td>
@@ -577,8 +577,8 @@ una de las tareas identificadas para el sprint.
     <td colspan="2">Añadir filtros de busqueda</td>
     <td colspan="3">Como medico, quiero utilizar filtros avanzados para buscar casos, como por fecha , demografico, para acceder rápidamente a la información relevante.</td>
     <td colspan="1">4</td>
-    <td colspan="2">Arnold</td>
-    <td colspan="1">To-do</td>
+    <td colspan="2">Fabiola</td>
+    <td colspan="1">In-process</td>
 </tr>
 <tr>
     <td colspan="1">7</td>
@@ -641,7 +641,7 @@ Durante este sprint, se ha desarrollado una Fake API de abogados que proporciona
 
 ![alt text](../docs/images/fake%20api%20lexmed.png)
 
-Url del repositorio: https://github.com/LexMedd/Frontend 
+Url del repositorio: https://github.com/LexMedd/Frontend
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Para el despliegue de la primera version del Frontend Web Application hemos utilizado la plataforma de terceros llamada Netlify. Esta plataforma nos permite el facil acceso a nuestro repositorio de Github, el cual por medio de ciertas configuraciones podemos tener como resultado el despliegue de nuestra primera version del Frontend Web Application.
@@ -656,8 +656,241 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 Commits:
 Network Graph:
 
+### 5.2.3. Sprint 3
+
+### 5.2.3.1. Sprint Planning 3
+
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-10-30</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">4:20 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord y Google Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Augusto Vasquez</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Gabriel Garcia, Diego Flores, Fabricio Apaza, Anatoly Noriega, Mathias Vasquez, Carlos Avellaneda</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 3 Review Summary</td>
+    <td colspan="8">En esta seccion se planteo el desarrollo de los Web Services para nuestro proyecto llamado LexMedd</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 3 Retrospective Summary</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en algunas partes del codigo desarrollado. Sin embargo, se pudo hacer un concenso, y a la vez, mejoramos nuestras habilidades realizando el Web Services</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Desplegar la primera version de Web Services.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">51 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">51 Story Points</td>
+</tr>
+</table>
+
+### 5.2.1.2. Sprint Backlog 3
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">46</td>
+    <td colspan="2">Creación y gestión de recursos de casos legales</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Creación y gestión de recursos de casos legales</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Fabricio and Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+</table>
+
+### 5.2.3.3. Development Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LexMedd/Backend-LexMedd</td>
+      <td>Augusto Mathias Leonardo Vasquez Requejo</td>
+      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
+      <td>Merge Bounded Context of Contact</td>
+      <td>-</td>
+      <td>01/11/2024</td>
+  </tbody>
+</table>
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LexMedd/Backend-LexMedd</td>
+      <td>Augusto Mathias Leonardo Vasquez Requejo </td>
+      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
+      <td>Merge Bounded Context of Contact</td>
+      <td>-</td>
+      <td>01/11/2024</td>
+    </tr>
+    <tr>
+  </tbody>
+</table>
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versión del Web Services del proyecto "LexMedd". El cual utilizamos la plataforma "Swagger" para poder visualizar los endpoints realizados.
+
+![alt text](../assets/imgs/endpoint-backend.png)
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se ha desarrollado el back-end de una API de abogados utilizando Java, JPA (Java Persistence API), y siguiendo los principios de Domain-Driven Design (DDD). La API proporciona información sobre abogados ficticios, incluyendo detalles como el nombre del abogado, años de experiencia, especialización, casos ganados, tarifa por hora, correo electrónico y número de teléfono, utilizando la convención de nomenclatura snake_case para los campos. Además, la API también proporciona información sobre recursos educativos (educational_resources), pagos (payments), casos legales (legal_cases) y consultas (consultations).
+
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Sintaxis de Llamada</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Llamada</th>
+    <th>Explicación del Response</th>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/lawyers</td>
+    <td>-</td>
+    <td>GET /api/lawyers</td>
+    <td>200 OK: Devuelve una lista de todos los abogados.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers/{id}</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/lawyers/{id}</td>
+    <td>ID del abogado</td>
+    <td>GET /api/lawyers/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+</table>
+
+Capturas de interaccion:
+
+- Visualización de los endpoints:
+
+![alt text](../assets/imgs/endpoint-backend.png)
+
+- Controller del bounded context Notification
+
+![alt text](../assets/imgs/evidence-notification.png)
+
+- Controller del bounded context Consultation
+
+![alt text](../assets/imgs/evidence-logal-consultation.png)
+
+- Controller del bounded context legal case
+
+![alt text](../assets/imgs/evidence-legal-case.png)
+
+- Controller del bounded context payment
+
+![alt text](../assets/imgs/evidence-payment.png)
+
+Url del repositorio: https://github.com/Open-Source-Grupo-LexMedd-de-Jehova/backend-LexMedd-
+
+Commits relacionados: 
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-LexMedd-de-Jehova/backend-LexMedd-</td>
+        <td colspan="2">Carlos_Avellaneda</td>
+        <td colspan="2">ef480ccd255b89447523f90e8efc7a947a490001</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+</table>    
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Para el desarrollo de la primera version de Web Services, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
+
+![alt text](<..
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+**Commits:**
+
+![alt text](<..
+
+**Analiticas de Colaboración:**
+
 ## Conclusiones
-**Conclusiones (TB1)**
+**Conclusiones (TB2)**
 **- Conclusiones y recomendaciones**
 ●	Lean UX resulta ser una herramienta sumamente útil al momento de desarrollar software mediante procesos ágiles, ya que se enfoca en la colaboración conjunta del equipo de desarrollo para identificar las necesidades del usuario al que apuntamos, en este caso, a los abogados y doctores.
 ●	Las entrevistas al segmento objetivo que apuntamos nos permitieron identificar de manera cercana las historias de usuario y las diversas situaciones e inquietudes que pueden existir y cómo podemos resolverlos con el producto que ofrecemos a través del needfinding.
