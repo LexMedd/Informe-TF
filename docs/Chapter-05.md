@@ -571,15 +571,6 @@ una de las tareas identificadas para el sprint.
     <td colspan="2">Estrella</td>
     <td colspan="1">To-do</td>
 <tr>
-    <td colspan="1">13</td>
-    <td colspan="2">Filtros de Búsqueda en el Historial de Casos</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Añadir filtros de busqueda</td>
-    <td colspan="3">Como medico, quiero utilizar filtros avanzados para buscar casos, como por fecha , demografico, para acceder rápidamente a la información relevante.</td>
-    <td colspan="1">4</td>
-    <td colspan="2">Fabiola</td>
-    <td colspan="1">In-process</td>
-</tr>
 <tr>
     <td colspan="1">7</td>
     <td colspan="2">Visualización y Organización de Casos para Abogados</td>
@@ -588,17 +579,17 @@ una de las tareas identificadas para el sprint.
     <td colspan="3">Como abogado, quiero un sistema que me permita visualizar y organizar de manera clara los casos de mala praxis o asesoría legal para gestionarlos de manera eficiente.</td>
     <td colspan="1">3</td>
     <td colspan="2">Fabiola</td>
-    <td colspan="1">To-do</td>
+    <td colspan="1">In-Process</td>
 </tr>
 <tr>
-    <td colspan="1">3</td>
-    <td colspan="2">Navegación Rápida a Funciones Principales</td>
+    <td colspan="1">TS11</td>
+    <td colspan="2">Gestión de Solicitudes</td>
     <td colspan="1">5</td>
-    <td colspan="2">Visualizacion de una navegacion rápida y eficiente</td>
-    <td colspan="3">Como usuario, quiero navegar fácilmente a las funciones principales como buscar y gestionar casos, usar el chat, y actualizar mi perfil para mejorar mi experiencia en LexMed.</td>
-    <td colspan="1">4</td>
-    <td colspan="2">Leonardo</td>
-    <td colspan="1">To-do</td>
+    <td colspan="2">Gestión de Solicitudes, creacion, aceptacion o rechazo</td>
+    <td colspan="3">Como desarrollador de LexMed, quiero implementar la gestión de solicitudes en la seccion llamada "Contact"</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Augusto Mathias</td>
+    <td colspan="1">Done</td>
 </tr>
 </table>
 
@@ -635,18 +626,29 @@ una de las tareas identificadas para el sprint.
 
 Para esta segunda entrega, nuestro equipo no consiguio elaborar la primera version de Frontend Web Application del proyecto "LexMedd". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
+**Sección de Login and Register**: Se implementó la seccion de login and register.
+![alt text](../docs/images/Login-LexMed.png) 
+![alt text](../docs/images/Register-LexMed.png)
+
+**Sección de Contact and Request services**: Se implementó la seccion de request.
+![alt text](../docs/images/Contact1.png)
+![alt text](../docs/images/Contact%203.png)
+![alt text](../docs/images/Contact%204.png)
+
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Durante este sprint, se ha desarrollado una Fake API de abogados que proporciona información sobre abogados ficticios. La API incluye detalles como el guardar datos.
 
-![alt text](../docs/images/fake%20api%20lexmed.png)
+![alt text](../docs/images/API%20LexMedd.png)
 
-Url del repositorio: https://github.com/LexMedd/Frontend
+Url del repositorio: https://github.com/LexMedd/LexMedd-Frontend
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Para el despliegue de la primera version del Frontend Web Application hemos utilizado la plataforma de terceros llamada Netlify. Esta plataforma nos permite el facil acceso a nuestro repositorio de Github, el cual por medio de ciertas configuraciones podemos tener como resultado el despliegue de nuestra primera version del Frontend Web Application.
 
-![alt text](../docs/images/Netlify%20to%20deploy%20LexMedd.png)
+![alt text](../docs/images/Deploy%20frontlexmedd.png)
+![alt text](../docs/images/deploy%20frontlexmedd2.png)
 Url de nuestro Frontend desplegado: https://6725489fef0e06af8a3d6b32--lexmeddwebapp.netlify.app/login  
 
 
@@ -655,7 +657,9 @@ Url de nuestro Frontend desplegado: https://6725489fef0e06af8a3d6b32--lexmeddweb
 Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
+![alt text](../docs/images/Contributors%20Frontend.png)
 Network Graph:
+![alt text](../docs/images/Participation%20Members%20LexMedd.png)
 
 ### 5.2.3. Sprint 3
 
@@ -799,11 +803,11 @@ Network Graph:
 ### 5.2.3.5. Execution Evidence for Sprint Review
 Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versión del Web Services del proyecto "LexMedd". El cual utilizamos la plataforma "Swagger" para poder visualizar los endpoints realizados.
 
-![alt text](../assets/imgs/endpoint-backend.png)
+![alt text](../docs/images/swagger%20back.png)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-Durante este sprint, se ha desarrollado el back-end de una API de abogados utilizando Java, JPA (Java Persistence API), y siguiendo los principios de Domain-Driven Design (DDD). La API proporciona información sobre abogados ficticios, incluyendo detalles como el nombre del abogado, años de experiencia, especialización, casos ganados, tarifa por hora, correo electrónico y número de teléfono, utilizando la convención de nomenclatura snake_case para los campos. Además, la API también proporciona información sobre recursos educativos (educational_resources), pagos (payments), casos legales (legal_cases) y consultas (consultations).
+Durante este sprint, se ha desarrollado el back-end de una API de abogados utilizando Java, JPA (Java Persistence API), y siguiendo los principios de Domain-Driven Design (DDD). La API proporciona información sobre usuarios.
 
 <table>
   <tr>
@@ -837,27 +841,11 @@ Durante este sprint, se ha desarrollado el back-end de una API de abogados utili
 
 Capturas de interaccion:
 
-- Visualización de los endpoints:
 
-![alt text](../assets/imgs/endpoint-backend.png)
+- Controller del bounded context contact
 
-- Controller del bounded context Notification
+![alt text](..//docs/images/ContactController.png)
 
-![alt text](../assets/imgs/evidence-notification.png)
-
-- Controller del bounded context Consultation
-
-![alt text](../assets/imgs/evidence-logal-consultation.png)
-
-- Controller del bounded context legal case
-
-![alt text](../assets/imgs/evidence-legal-case.png)
-
-- Controller del bounded context payment
-
-![alt text](../assets/imgs/evidence-payment.png)
-
-Url del repositorio: https://github.com/Open-Source-Grupo-LexMedd-de-Jehova/backend-LexMedd-
 
 Commits relacionados: 
 
@@ -869,26 +857,24 @@ Commits relacionados:
         <th colspan="2">Commit Message</th>
     </tr>
         <tr>
-        <td colspan="2">Open-Source-Grupo-LexMedd-de-Jehova/backend-LexMedd-</td>
-        <td colspan="2">Carlos_Avellaneda</td>
-        <td colspan="2">ef480ccd255b89447523f90e8efc7a947a490001</td>
-        <td colspan="2">Merge pull request</td>
+        <td colspan="2">LexMedd/backend-LexMedd-</td>
+        <td colspan="2">Contact</td>
+        <td colspan="2">0e0193be5232f042715cc88eae6e6d2fcd00be26</td>
+        <td colspan="2">feat : add controller contact</td>
     </tr>
 </table>    
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 Para el desarrollo de la primera version de Web Services, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
 
-![alt text](<..
+![alt text](<../docs/images/Backend-LexMed gh.png>)
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 **Commits:**
 
-![alt text](<..
-
-**Analiticas de Colaboración:**
+![alt text](<../docs/images/Contributors Backend.png>)
 
 ## Conclusiones
 **Conclusiones (TB2)**
@@ -898,7 +884,7 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 ●	La documentación realizada en la primera entrega nos permitirá implementar un software con bases y objetivos claros al haber identificado lo que necesitamos para solucionar la problemática. Sin embargo, reconocemos que realizaremos cambios al momento de reevaluar algunas necesidades para obtener un producto final esperado.
 ●	Github es un software de control de versiones indispensable para trabajar el proyecto en equipo. Además, se integra fácilmente con muchas plataformas de servicios como softwares de deployment. 
 
-**- Video About-the-Team**
+**- Video About-the-Team:** 
 **- Video About-the-Product:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EXhXp8q7NhNOgBjBbMWIuo4BS_ZK2L5VTooEsIZicJlb3w?e=oujK6U
 
 ---
