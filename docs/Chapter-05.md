@@ -876,6 +876,430 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 
 ![alt text](<../docs/images/Contributors Backend.png>)
 
+### 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-11-12</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">8:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Mathias Vasquez</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Mathias Vasquez, Leonardo Dueñas</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 4 Review Summary</td>
+    <td colspan="8">En esta sección se corrigieron los errores dentro del informe, se mejoró el front y el back para hacer la conexión con la API y el sitio web.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 4 Retrospective Summary</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en algunas partes del código desarrollado. Sin embargo, se pudo hacer un consenso y mejorar nuestras habilidades al realizar la conexión con la API y el sitio web.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Corregir errores e implementar la conexión entre el front y el back con la API y el sitio web.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">25 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">15 Story Points</td>
+</tr>
+</table>
+
+### 5.2.4.2. Sprint Backlog 4
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 4</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To-do /InProcess /To-Review /Done)</td>
+</tr>
+<tr>
+    <td colspan="1">24</td>
+    <td colspan="2">Soporte para múltiples navegadores</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Soporte para múltiples navegadores</td>
+    <td colspan="3">Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">19</td>
+    <td colspan="2">Base de datos de usuarios</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Base de datos de usuarios</td>
+    <td colspan="3">Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">37</td>
+    <td colspan="2">Creación y gestión de recursos de consultas</td>
+    <td colspan="1">11</td>
+    <td colspan="2">Creación y gestión de recursos de consultas</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan gestionar las consultas necesarias.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">01</td>
+    <td colspan="2">Gestión de las cuentas de los usuarios</td>
+    <td colspan="1">12</td>
+    <td colspan="2">Gestión de las cuentas de los usuarios</td>
+    <td colspan="3">Como usuario de la plataforma de MedicDefense, quiero tener la capacidad de gestionar mi cuenta personal, para mantener mi información profesional actualizada y asegurar que la experiencia de la plataforma sea lo más relevante y segura posible.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Carlos</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">31</td>
+    <td colspan="2">Implementación de Categorías de Recursos</td>
+    <td colspan="1">15</td>
+    <td colspan="2">Implementación de Categorías de Recursos</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías de los recursos educativos para organizar los recursos de manera eficiente.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">32</td>
+    <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
+    <td colspan="1">17</td>
+    <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">18</td>
+    <td colspan="2">Integración de pagos</td>
+    <td colspan="1">19</td>
+    <td colspan="2">Integración de pagos</td>
+    <td colspan="3">Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
+    <td colspan="1">8</td>
+    <td colspan="2">Mathias</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+### 5.2.4.3. Development Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Carlos Avellaneda</td>
+      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
+      <td>Merge Bounded Context of Consultation</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Anatoly Noriega</td>
+      <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
+      <td>Merge Bounded Context of Educational</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Augusto Vasquez</td>
+      <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
+      <td>Merge Bounded Context of Payment</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Diego Flores</td>
+      <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
+      <td>Merge Bounded Context of Communication</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+     <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>Gabriel Garcia and Fabricio Apaza</td>
+      <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
+      <td>Merge Bounded Context of Legal Case</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>59e769c513a378a4414d879133e867bef833a636</td>
+      <td>add "bounded context paymentv"</td>
+      <td>created bounded context paymentv to backend</td>
+      <td>2024-06-06</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>92ae3c6157480b0c09b72a35ae45aeabae1d58d1</td>
+      <td>Merge branch 'main' into Augusto_Vasquez</td>
+      <td>Merge branch 'main' into Augusto_Vasquez in backend</td>
+      <td>2024-06-06</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>4d965678671a66d81506d51ae4b1a610fa4b34b5</td>
+      <td>updated application properties adding connection to database from azure</td>
+      <td>Added: updated application properties adding connection to database from azure.</td>
+      <td>2024-06-22</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>378b8b5e689a646c8ac8b7c22168967ba509a3b9</td>
+      <td>fixed minor errors</td>
+      <td>fixed minor errors in connsultation on backend</td>
+      <td>2024-06-22</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>65bb95a2bc2c22263a0af59a452b72a29b4f320b</td>
+      <td>Merge remote-tracking branch 'origin/main'</td>
+      <td>Merge remote-tracking branch 'origin/main' in backend</td>
+      <td>2024-06-22</td>
+    </tr>
+    <tr>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>main</td>
+      <td>3123427451ba19f869aa6941f2d89524e12bacca</td>
+      <td>fixed minor errors</td>
+      <td>fixed minor errors in consultation on backend</td>
+      <td>2024-06-22</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+Para esta cuarta entrega, nuestro equipo ha mejorado y pulido tanto la parte de backend como la de frontend del proyecto "MedicDefense". Además, hemos logrado la conexión entre ambas partes, asegurando una integración fluida y funcional. Esto permite a los usuarios interactuar con las funcionalidades de la plataforma de manera eficiente y coherente.
+
+Endpoints:
+
+Sing-In:
+
+
+Sing-Up:
+
+
+
+Lawyers:
+
+
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se ha mejorado el back-end y front-end de una API integral utilizando Java, JPA (Java Persistence API) y siguiendo los principios de Domain-Driven Design (DDD). Además, se ha realizado la conexión entre ambos. Esta API proporciona una amplia gama de funcionalidades, incluyendo la gestión de abogados, recursos educativos, pagos, casos legales, consultas, notificaciones, perfiles, especialidades, roles, usuarios y universidades. La información detallada sobre estos elementos se maneja mediante diversos endpoints que permiten operaciones como listar, crear, actualizar y eliminar registros, utilizando la convención de nomenclatura snake_case para los campos. Estas mejoras aseguran una cobertura completa y eficiente de las necesidades del sistema, facilitando tanto la interacción de los usuarios con la plataforma como la gestión interna de los datos.
+
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Sintaxis de Llamada</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Llamada</th>
+    <th>Explicación del Response</th>
+  </tr>
+  <tr>
+    <td>/api/v1/medic/{recordId}/add-one-to-paid-service</td>
+    <td>Añadir servicio pagado</td>
+    <td>PUT</td>
+    <td>/api/v1/medic/{recordId}/add-one-to-paid-service</td>
+    <td>recordId</td>
+    <td>PUT /api/v1/medic/1/add-one-to-paid-service</td>
+    <td>200 OK: Añade un servicio pagado al registro especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic/{recordId}/add-one-to-consultation</td>
+    <td>Añadir consulta</td>
+    <td>PUT</td>
+    <td>/api/v1/medic/{recordId}/add-one-to-consultation</td>
+    <td>recordId</td>
+    <td>PUT /api/v1/medic/1/add-one-to-consultation</td>
+    <td>200 OK: Añade una consulta al registro especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/medic</td>
+    <td>-</td>
+    <td>GET /api/v1/medic</td>
+    <td>200 OK: Devuelve una lista de todos los médicos.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/medic</td>
+    <td>-</td>
+    <td>POST /api/v1/medic</td>
+    <td>201 Created: Crea un nuevo médico.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/medic/{userId}/user</td>
+    <td>Obtener por usuario</td>
+    <td>GET</td>
+    <td>/api/v1/medic/{userId}/user</td>
+    <td>userId</td>
+    <td>GET /api/v1/medic/1/user</td>
+    <td>200 OK: Devuelve los detalles del médico para el usuario especificado.</td>
+  </tr>
+</table>
+
+
+Capturas de interaccion:
+
+Endpoints:
+
+
+Sing-In:
+
+
+Sing-Up:
+
+Lawyers:
+
+
+Url del repositorio Frontend: https://github.com/LexMedd/LexMedd-Frontend
+Url del repositorio Backend: https://github.com/LexMedd/LexMedd-Backend
+
+Commits relacionados: 
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Carlos_Avellaneda</td>
+        <td colspan="2">ef480ccd255b89447523f90e8efc7a947a490001</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Anatoly_noriega</td>
+        <td colspan="2">b268969f824061e227a7d9c98ed91b53f0b11d66</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Augusto_Vasquez</td>
+        <td colspan="2">6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Diego_Flores</td>
+        <td colspan="2">4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
+        <td colspan="2">Gabriel_Garcia-and-Fabricio_Apaza</td>
+        <td colspan="2">df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+</table>    
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Para el desarrollo de la segunda version de Web Services y el Frontend Web Application, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
+
+
+
+![alt text](<../assets/imgs/Evidence Backend.png>)
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+**Commits:**
+
+![alt text](<../assets/imgs/commits sprint 4.png>)
+
+**Analiticas de Colaboración:**
+
+![alt text](<../assets/imgs/netwk sprint 4.png>)
+
 ## 5.3 Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
