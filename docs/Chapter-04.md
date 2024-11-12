@@ -512,31 +512,43 @@ Una vez que el abogado ha iniciado sesión y accede al panel de casos, puede rev
 
 ## <a name="_mu9vw6k7b4rn"></a> 4.6.2. Software Architecture Container Diagrams.
 <p align="center">
-  <img src="img/container.png" alt="tipografia" width="100%">
+  <img src="img/software.png" alt="tipografia" width="100%">
 </p>
 
 ## 4.6.3. Software Architecture Components Diagrams. 
-**Payment Context Component Diagram**
+**Boundend Context Access Diagram**
 <p align="center">
-  <img src="img/payment.PNG" alt="tipografia" width="100%">
+  <img src="img/components.png" alt="tipografia" width="100%">
 </p>
 
-**User Profile Context Component Diagram**
+**Bounded Context Consultation Diagram**
 
 <p align="center">
-  <img src="img/profile.PNG" alt="tipografia" width="100%">
+  <img src="img/.PNG" alt="tipografia" width="100%">
 </p>
 
-**Chat Context Component Diagram**
+**Bounded Context Educational Resource Diagram**
 <p align="center">
-  <img src="img/chat.PNG" alt="tipografia" width="100%">
+  <img src="img/components..png" alt="tipografia" width="100%">
 </p>
 
-**Appointment Context Component Diagram**
+**Bounded Context Legal Case Diagram**
 
 <p align="center">
-  <img src="img/Appointment.PNG" alt="tipografia" width="100%">
+  <img src="img/.png" alt="tipografia" width="100%">
 </p>
+
+**Bounded Context Payment Diagram**
+<p align="center">
+  <img src="img/.png" alt="tipografia" width="100%">
+</p>
+
+**Bounded Context Communication Diagram**
+<p align="center">
+  <img src="img/.png" alt="tipografia" width="100%">
+</p>
+
+
 
 
 ## 4.7. Software Object-Oriented Design. 
