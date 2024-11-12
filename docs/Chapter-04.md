@@ -524,7 +524,7 @@ Una vez que el abogado ha iniciado sesión y accede al panel de casos, puede rev
 **Bounded Context Consultation Diagram**
 
 <p align="center">
-  <img src="img/.PNG" alt="tipografia" width="100%">
+  <img src="img/consultation.png" alt="tipografia" width="100%">
 </p>
 
 **Bounded Context Educational Resource Diagram**
@@ -535,7 +535,7 @@ Una vez que el abogado ha iniciado sesión y accede al panel de casos, puede rev
 **Bounded Context Legal Case Diagram**
 
 <p align="center">
-  <img src="img/.png" alt="tipografia" width="100%">
+  <img src="img/legal_case.png" alt="tipografia" width="100%">
 </p>
 
 **Bounded Context Payment Diagram**
