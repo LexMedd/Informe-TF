@@ -876,6 +876,229 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 
 ![alt text](<../docs/images/Contributors Backend.png>)
 
+## 5.3 Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+Para el diseño de entrevistas hemos recopilado informacion y opiniones acerca de nuestra landing page y frontend.
+
+### 5.3.2. Registro de Entrevistas
+
+En el proceso de investigación para nuestro proyecto, se llevaron a cabo entrevistas del público objetivo. Cada entrevista se documentó en video y se registraron los siguientes detalles:
+
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/ET-wXZaUgZ5Bri_hw1N7cTgBe26622tOUkysmrLFjecIRA?e=5WUtQU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Segmento 1: universitarios**
+
+**Nombre y Apellido:** Gabriel Garcia
+
+**Edad:** 21
+
+**Distrito:** Carabayllo
+
+**Screenshot de la Entrevista:**
+![alt text](<../imgs/Entrevista Gabo.png>)
+
+**Timelapse:** [Inicio: 00:00, Fin: 06:53]
+
+**Segmento 1: universitarios**
+
+**Nombre y Apellido:** Diego Flores
+
+**Edad:** 20
+
+**Distrito:** Barranco
+
+**Screenshot de la Entrevista:**
+![alt text](<../imgs/Entrevista Diego.png>)
+
+**Timelapse:** [Inicio: 06:53, Fin: 10:28]
+
+**Segmento 1: universitarios**
+
+**Nombre y Apellido:** Joseph Ulises Yacchua Peralta
+
+**Edad:** 20
+
+**Distrito:** Rimac
+
+**Screenshot de la Entrevista:**
+![alt text](<../imgs/Entrevista Joseph.png>)
+
+**Timelapse:** [Inicio: 10:28, Fin: 16:46]
+
+**Segmento 2: profesionales urbanos**
+
+**Nombre y Apellido:** Jeremy Morales 
+
+**Edad:** 24
+
+**Distrito:** Surquillo
+
+**Screenshot de la Entrevista:**
+![alt text](<../imgs/Entrevista Jeremy.png>)
+
+**Timelapse:** [Inicio: 16:46, Fin: 24:38]
+
+**Segmento 2: profesionales urbanos**
+
+**Nombre y Apellido:** Mariela Sanchez 
+
+**Edad:** 39
+
+**Distrito:** Callao
+
+**Screenshot de la Entrevista:**
+![alt text](<../imgs/Entrevista Mariela.png>)
+
+**Timelapse:** [Inicio: 24:38, Fin: 29:22]
+
+**Segmento 2: profesionales urbanos**
+
+**Nombre y Apellido:** Miguel Polo
+
+**Edad:** 19
+
+**Distrito:** Magdalena
+
+**Screenshot de la Entrevista:**
+![alt text](<../imgs/Entrevista Miguel.png>)
+
+**Timelapse:** [Inicio: 29:22, Fin: 33:41]
+
+### 5.3.3. Evaluaciones según heurísticas
+
+**UX Heuristics & Principles Evaluation**
+
+**SITE o APP A EVALUAR:** Movirent 
+
+**TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Ver la lista de scooters con información relevante (precios, ubicacion, etc)
+1. Realizar una búsqueda de scooters disponibles.
+1. Ver el historial de  vehiculos rentados.
+1. Seleccionar y revisar los planes de suscripción.
+1. Realizar el pago de la suscripción.
+1. Acceder y actualizar el perfil de usuario.
+1. Usar el botón para acceder a la página de inicio (landing page).
+<br>
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+<br>
+1. Registrar nuevos usuarios.
+1. Guardar información del usuario.
+1. Implementación de la lógica backend al frontend.
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+### **TABLA RESUMEN:**
+
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*No hay un control que permita regresar a la parte de iniciar sesión o registro si en caso hay algún error en “Username” o “Contraseña” o limitadas opciones en este primer apartado.* |*2*|*Usability: Libertad y control del usuario*|
+|*2*|*Opciones que se ven en el apartado de “Profile” pero que no llevan a nada.*|*3*|*Usability: Libertad y control del usuario*|
+|*3*|*Opciones de scooters* |*3*|*Usability: Consistencia y estándares*|
+|*4*|*Imágenes muy bruscas, podrían ser más pequeñas o dinámicas.*|*2*|*Inclusive Design: Proporciona experiencias comparables*|
+|*5*|*Incluye algunas opciones no explicadas por lo que se toma a interpretación, nada de forma literal.* |*3*|*Information Architecture: Is it usable?*|
+|*6*|*Sección de busqueda por distrito*|*3*|*Information Architecture: Is it findable?*|
+
+## **DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** No hay un control que permita regresar a la parte de iniciar sesión o registro si en caso hay algún error en “Username” o “Contraseña” o limitadas opciones en este primer apartado.
+
+![alt text](<../imgs/Problema 1 Movirent.png>)
+
+**Severidad:** 2
+
+**Heurística violada:** Usabilidad - Libertad y control del usuario
+
+**Problema:**
+
+Al momento de ingresar nuestros datos, no podemos regresar al formulario en caso nos hayamos equivocado de credenciales, en caso de que el usuario quiera cambiarlos, no hay un botón que le de esta opción, lo cual nos obliga a efectuar la acción de salir y cerrar la app, realizar el formulario de inicio de sesión otra vez. Esto se traduce en una falta de control y flexibilidad para el usuario, lo cual afecta negativamente la usabilidad de la aplicación.
+
+**Recomendación:**
+
+La más práctica es que al momento en que queramos realizar dicho cuestionario las opciones sean mas variadas, como un ingreso de invitado para conocer un poco la app y su funcionamiento. Se sugiere implementar un botón o enlace claramente visible en el formulario de inicio de sesión o registro que permita a los usuarios regresar y corregir cualquier error o modificar la información ingresada. Además, se debe considerar la posibilidad de proporcionar mensajes de error claros y descriptivos para ayudar a los usuarios a comprender y corregir sus errores de manera efectiva.
+
+
+**PROBLEMA #2:**  Al momento de editar el perfil de usuario, se muestra una notificacion en pantalla a la que no se entiende que hace referencia.
+
+![alt text](<../imgs/Problema 2 Movirent.png>)
+
+**Severidad:** 3
+
+**Heurística violada:** Usability: Libertad y control del usuario
+
+**Problema:**
+
+Existen las opciones como “Edit Profile”, “Sign off” y “Delete Account” que son útiles para el usuario pero aún carecen de funcionalidad.
+
+**Recomendación:**
+
+Se recomienda que estas opciones se encuentren operativas para el usuario y a su vez este pueda poner su perfil en privado o publico si así este lo desea.
+
+
+**PROBLEMA #3:** Opciones de planes sin detalles o con informacion limitada
+
+![alt text](<../imgs/Problema 3 Movirent.png>)
+
+**Severidad:** 3
+
+**Heurística violada:** Usability: Consistencia y estándares
+
+**Problema:**
+
+El problema identificado se relaciona con la falta de algún atractivo visual para cada uno de los servicios que ofrecemos y con una mayor claridad en las opciones.
+
+**Recomendación:**
+
+Se recomienda revisar la aplicación y añadir algún atractivo visual para esta sección ya sea alguna imagen del perito medico o algo llamativo y alguna opción que algunos usuarios podrían llegar a usar.
+
+
+**PROBLEMA #4:** Imágenes muy bruscas, podrían ser más pequeñas o dinámicas.
+
+![alt text](<../imgs/Problema 4 Movirent.png>)
+
+**Severidad:** 2
+
+**Heurística violada:** Inclusive Design: Proporciona experiencias comparables
+
+**Problema:**
+
+El problema identificado en este punto es que en algunas partes las imagenes carecen de "suavidad" hacia el usuario o en su defecto algunas secciones carecen de imagenes. 
+
+**Recomendación:**
+
+Se recomienda que las imágenes deben ser ligeramente más pequeñas y añadir algún otro atractivo visual.
+
+
+**PROBLEMA #5:** Incluye algunas opciones no explicadas por lo que se toma a interpretación, nada de forma literal.
+
+![alt text](<../imgs/Problema 5 Movirent.png>)
+
+**Severidad:** 3
+
+**Heurística violada:** Information Architecture: Is it findable?
+
+**Problema:**
+
+El problema identificado se refiere a la inclusión de opciones en la aplicación que carecen de una explicación clara, lo que lleva a que los usuarios tengan que interpretar su función de forma literal. La falta de explicaciones claras para ciertas opciones puede hacer que los usuarios se sientan perdidos y desorientados al no comprender su utilidad.
+
+**Recomendación:**
+
+Se recomienda proporcionar explicaciones claras y concisas para todas las opciones dentro de la aplicación. Las descripciones deberían ser informativas y ayudar a los usuarios a comprender el propósito y la función de cada opción. En este caso sería: ¿A que se refiere cuando dice que puedo editar la informacion del scooter? ¿Esa informacion es para los dueños del sitio web o para otros usuarios?
+
+
 ## Conclusiones
 **Conclusiones (TB2)**
 **- Conclusiones y recomendaciones**
