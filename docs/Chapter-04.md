@@ -535,7 +535,7 @@ Una vez que el abogado ha iniciado sesión y accede al panel de casos, puede rev
 **Bounded Context Legal Case Diagram**
 
 <p align="center">
-  <img src="img/legal_case.png" alt="tipografia" width="100%">
+  <img src="img/legalcase.png" alt="tipografia" width="100%">
 </p>
 
 **Bounded Context Payment Diagram**
