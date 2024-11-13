@@ -540,12 +540,12 @@ Una vez que el abogado ha iniciado sesión y accede al panel de casos, puede rev
 
 **Bounded Context Payment Diagram**
 <p align="center">
-  <img src="img/.png" alt="tipografia" width="100%">
+  <img src="img/payment.png" alt="tipografia" width="100%">
 </p>
 
 **Bounded Context Communication Diagram**
 <p align="center">
-  <img src="img/.png" alt="tipografia" width="100%">
+  <img src="img/communication.png" alt="tipografia" width="100%">
 </p>
 
 
