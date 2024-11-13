@@ -1148,7 +1148,7 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 </table>
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
-Para esta cuarta entrega, nuestro equipo ha mejorado y pulido tanto la parte de backend como la de frontend del proyecto "MedicDefense". Además, hemos logrado la conexión entre ambas partes, asegurando una integración fluida y funcional. Esto permite a los usuarios interactuar con las funcionalidades de la plataforma de manera eficiente y coherente.
+Para esta cuarta entrega, nuestro equipo ha mejorado y pulido tanto la parte de backend como la de frontend del proyecto "LexMedd". Desafortunadamente no conseguimos una conexion entre ambas partes. Esto permite a los usuarios interactuar con las funcionalidades de la plataforma de manera eficiente y coherente.
 
 Endpoints:
 
@@ -1165,7 +1165,7 @@ Lawyers:
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-Durante este sprint, se ha mejorado el back-end y front-end de una API integral utilizando Java, JPA (Java Persistence API) y siguiendo los principios de Domain-Driven Design (DDD). Además, se ha realizado la conexión entre ambos. Esta API proporciona una amplia gama de funcionalidades, incluyendo la gestión de abogados, recursos educativos, pagos, casos legales, consultas, notificaciones, perfiles, especialidades, roles, usuarios y universidades. La información detallada sobre estos elementos se maneja mediante diversos endpoints que permiten operaciones como listar, crear, actualizar y eliminar registros, utilizando la convención de nomenclatura snake_case para los campos. Estas mejoras aseguran una cobertura completa y eficiente de las necesidades del sistema, facilitando tanto la interacción de los usuarios con la plataforma como la gestión interna de los datos.
+Durante este sprint, se ha mejorado el back-end y front-end de una API integral utilizando Java, JPA (Java Persistence API) y siguiendo los principios de Domain-Driven Design (DDD). Aunque no se haya realizado la conexión entre ambos sabemos que la información detallada sobre estos elementos se maneja mediante diversos endpoints que permiten operaciones como listar, crear, actualizar y eliminar registros, utilizando la convención de nomenclatura snake_case para los campos. Estas mejoras aseguran una cobertura completa y eficiente de las necesidades del sistema, facilitando tanto la interacción de los usuarios con la plataforma como la gestión interna de los datos.
 
 <table>
   <tr>
@@ -1286,7 +1286,6 @@ Commits relacionados:
 Para el desarrollo de la segunda version de Web Services y el Frontend Web Application, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
 
 
-
 ![alt text](<../assets/imgs/Evidence Backend.png>)
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
@@ -1304,13 +1303,20 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 
 ### 5.3.1. Diseño de Entrevistas
 
-Para el diseño de entrevistas hemos recopilado informacion y opiniones acerca de nuestra landing page y frontend.
+Para el diseño de entrevistas hemos recopilado informacion y opiniones acerca de nuestra landing page y frontend, para esto hemos planteado las siguientes preguntas:
+
+- ¿Que opinas acerca de nuestra propuesta?
+- ¿Acudirias a nosotros si pasaras por una situacion similar? ¿Por que si o por que no?
+- ¿Que opinas acerca de la interfaz de nuestra plataforma? 
+- ¿Tienes alguna sugerencia sobre nuestra plataforma en la que crees que debamos mejorar?
+- ¿Que funciones crees que podriamos implementar en el futuro?
+
 
 ### 5.3.2. Registro de Entrevistas
 
 En el proceso de investigación para nuestro proyecto, se llevaron a cabo entrevistas del público objetivo. Cada entrevista se documentó en video y se registraron los siguientes detalles:
 
-Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/ET-wXZaUgZ5Bri_hw1N7cTgBe26622tOUkysmrLFjecIRA?e=5WUtQU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Enlace de la entrevista: 
 
 **Segmento 1: universitarios**
 
@@ -1394,22 +1400,26 @@ Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u2019
 
 **UX Heuristics & Principles Evaluation**
 
-**SITE o APP A EVALUAR:** Movirent 
+**SITE o APP A EVALUAR:** LexMedd
 
 **TAREAS A EVALUAR:**
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. Ver la lista de scooters con información relevante (precios, ubicacion, etc)
-1. Realizar una búsqueda de scooters disponibles.
-1. Ver el historial de  vehiculos rentados.
+1. Ver la lista de abogados con información relevante (precios, años de experiencia, especialización).
+1. Utilizar los filtros para encontrar abogados específicos.
+1. Realizar una búsqueda de abogados.
+1. Ver el resumen de los casos legales y consultas.
 1. Seleccionar y revisar los planes de suscripción.
 1. Realizar el pago de la suscripción.
-1. Acceder y actualizar el perfil de usuario.
+1. Acceder y actualizar el perfil de usuario (médico/estudiante).
 1. Usar el botón para acceder a la página de inicio (landing page).
+
 <br>
-No están incluidas en esta versión de la evaluación las siguientes tareas:
-<br>
+
+**No** están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Acceder a recursos educacionales.
 1. Registrar nuevos usuarios.
 1. Guardar información del usuario.
 1. Implementación de la lógica backend al frontend.
@@ -1431,16 +1441,16 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 | :-: | :-: | :-: | :-: |
 |*1*|*No hay un control que permita regresar a la parte de iniciar sesión o registro si en caso hay algún error en “Username” o “Contraseña” o limitadas opciones en este primer apartado.* |*2*|*Usability: Libertad y control del usuario*|
 |*2*|*Opciones que se ven en el apartado de “Profile” pero que no llevan a nada.*|*3*|*Usability: Libertad y control del usuario*|
-|*3*|*Opciones de scooters* |*3*|*Usability: Consistencia y estándares*|
+|*3*|*Opciones de Legal Services limitadas* |*3*|*Usability: Consistencia y estándares*|
 |*4*|*Imágenes muy bruscas, podrían ser más pequeñas o dinámicas.*|*2*|*Inclusive Design: Proporciona experiencias comparables*|
 |*5*|*Incluye algunas opciones no explicadas por lo que se toma a interpretación, nada de forma literal.* |*3*|*Information Architecture: Is it usable?*|
-|*6*|*Sección de busqueda por distrito*|*3*|*Information Architecture: Is it findable?*|
+|*6*|*Sección de filtros muestra opciones pero no lleva a algún contenido.*|*3*|*Information Architecture: Is it findable?*|
+
 
 ## **DESCRIPCIÓN DE PROBLEMAS:**
 
-**PROBLEMA #1:** No hay un control que permita regresar a la parte de iniciar sesión o registro si en caso hay algún error en “Username” o “Contraseña” o limitadas opciones en este primer apartado.
+**PROBLEMA #1:** No hay un control que permita regresar a la parte de iniciar sesión o registro si en caso hay algún error en “Username” o “Contraseña” o limitadas opciones en este primer apartado.*
 
-![alt text](<../imgs/Problema 1 Movirent.png>)
 
 **Severidad:** 2
 
@@ -1450,14 +1460,15 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 Al momento de ingresar nuestros datos, no podemos regresar al formulario en caso nos hayamos equivocado de credenciales, en caso de que el usuario quiera cambiarlos, no hay un botón que le de esta opción, lo cual nos obliga a efectuar la acción de salir y cerrar la app, realizar el formulario de inicio de sesión otra vez. Esto se traduce en una falta de control y flexibilidad para el usuario, lo cual afecta negativamente la usabilidad de la aplicación.
 
+![alt text](../assets/imgs/Lil1.png)
+
 **Recomendación:**
 
 La más práctica es que al momento en que queramos realizar dicho cuestionario las opciones sean mas variadas, como un ingreso de invitado para conocer un poco la app y su funcionamiento. Se sugiere implementar un botón o enlace claramente visible en el formulario de inicio de sesión o registro que permita a los usuarios regresar y corregir cualquier error o modificar la información ingresada. Además, se debe considerar la posibilidad de proporcionar mensajes de error claros y descriptivos para ayudar a los usuarios a comprender y corregir sus errores de manera efectiva.
 
 
-**PROBLEMA #2:**  Al momento de editar el perfil de usuario, se muestra una notificacion en pantalla a la que no se entiende que hace referencia.
+**PROBLEMA #2:**  Todos tienen el mismo tipo de cuenta al registrarse, podría haber una clasificación desde el momento de creación de cuenta.
 
-![alt text](<../imgs/Problema 2 Movirent.png>)
 
 **Severidad:** 3
 
@@ -1467,14 +1478,14 @@ La más práctica es que al momento en que queramos realizar dicho cuestionario 
 
 Existen las opciones como “Edit Profile”, “Sign off” y “Delete Account” que son útiles para el usuario pero aún carecen de funcionalidad.
 
+![alt text](../assets/imgs/Lil2.png)
+
 **Recomendación:**
 
 Se recomienda que estas opciones se encuentren operativas para el usuario y a su vez este pueda poner su perfil en privado o publico si así este lo desea.
 
 
-**PROBLEMA #3:** Opciones de planes sin detalles o con informacion limitada
-
-![alt text](<../imgs/Problema 3 Movirent.png>)
+**PROBLEMA #3:** Opciones de Legal Services limitadas
 
 **Severidad:** 3
 
@@ -1484,6 +1495,8 @@ Se recomienda que estas opciones se encuentren operativas para el usuario y a su
 
 El problema identificado se relaciona con la falta de algún atractivo visual para cada uno de los servicios que ofrecemos y con una mayor claridad en las opciones.
 
+![alt text](../assets/imgs/Lil3.png)
+
 **Recomendación:**
 
 Se recomienda revisar la aplicación y añadir algún atractivo visual para esta sección ya sea alguna imagen del perito medico o algo llamativo y alguna opción que algunos usuarios podrían llegar a usar.
@@ -1491,15 +1504,15 @@ Se recomienda revisar la aplicación y añadir algún atractivo visual para esta
 
 **PROBLEMA #4:** Imágenes muy bruscas, podrían ser más pequeñas o dinámicas.
 
-![alt text](<../imgs/Problema 4 Movirent.png>)
-
 **Severidad:** 2
 
 **Heurística violada:** Inclusive Design: Proporciona experiencias comparables
 
 **Problema:**
 
-El problema identificado en este punto es que en algunas partes las imagenes carecen de "suavidad" hacia el usuario o en su defecto algunas secciones carecen de imagenes. 
+El problema identificado en este punto es la “suavidad” de las imágenes y el tamaño que tienen estas, siendo muy “toscas” para algunos usuarios y más si es lo primero que se ve al ingresar al sitio web.* 
+
+![alt text](../assets/imgs/Lil4.png)
 
 **Recomendación:**
 
@@ -1507,8 +1520,6 @@ Se recomienda que las imágenes deben ser ligeramente más pequeñas y añadir a
 
 
 **PROBLEMA #5:** Incluye algunas opciones no explicadas por lo que se toma a interpretación, nada de forma literal.
-
-![alt text](<../imgs/Problema 5 Movirent.png>)
 
 **Severidad:** 3
 
@@ -1518,13 +1529,32 @@ Se recomienda que las imágenes deben ser ligeramente más pequeñas y añadir a
 
 El problema identificado se refiere a la inclusión de opciones en la aplicación que carecen de una explicación clara, lo que lleva a que los usuarios tengan que interpretar su función de forma literal. La falta de explicaciones claras para ciertas opciones puede hacer que los usuarios se sientan perdidos y desorientados al no comprender su utilidad.
 
+![alt text](../assets/imgs/Lil5.png)
+
 **Recomendación:**
 
-Se recomienda proporcionar explicaciones claras y concisas para todas las opciones dentro de la aplicación. Las descripciones deberían ser informativas y ayudar a los usuarios a comprender el propósito y la función de cada opción. En este caso sería: ¿A que se refiere cuando dice que puedo editar la informacion del scooter? ¿Esa informacion es para los dueños del sitio web o para otros usuarios?
+Se recomienda proporcionar explicaciones claras y concisas para todas las opciones dentro de la aplicación. Las descripciones deberían ser informativas y ayudar a los usuarios a comprender el propósito y la función de cada opción. En este caso sería: ¿Qué son Legal Services? Y ¿Qué son “Consultation” y cuales son las diferencias entre ambas secciones.
+
+
+**PROBLEMA #6:** Sección de filtros muestra opciones pero no lleva a algún contenido.
+
+**Severidad:** 3
+
+**Heurística violada:** Information Architecture: Is it findable?
+
+**Problema:**
+
+El problema identificado presenta una falta de funcionalidad en la sección de filtros que suele ser una sección muy utilizada por los usuarios cuando quieren ahorrar tiempo en los procesos que estos necesiten hacer.
+
+![alt text](../assets/imgs/Lil6.png)
+
+**Recomendación:**
+
+Se recomienda que esta sección y todas las opciones que ofrece estén operativas al lanzamiento del sitio web.
 
 
 ## Conclusiones
-**Conclusiones (TB2)**
+**Conclusiones (TF)**
 **- Conclusiones y recomendaciones**
 ●	Lean UX resulta ser una herramienta sumamente útil al momento de desarrollar software mediante procesos ágiles, ya que se enfoca en la colaboración conjunta del equipo de desarrollo para identificar las necesidades del usuario al que apuntamos, en este caso, a los abogados y doctores.
 ●	Las entrevistas al segmento objetivo que apuntamos nos permitieron identificar de manera cercana las historias de usuario y las diversas situaciones e inquietudes que pueden existir y cómo podemos resolverlos con el producto que ofrecemos a través del needfinding.
