@@ -556,7 +556,7 @@ Una vez que el abogado ha iniciado sesión y accede al panel de casos, puede rev
 **Link: https://lucid.app/lucidchart/3f15b96b-df71-43f2-b575-117e168297a5/edit?viewport_loc=-1813%2C-1214%2C4992%2C2445%2C0_0&invitationId=inv_a6f59cf7-57c2-4541-9d26-5348144cecf5**
 
 <p align="center">
-  <img src="img/diagram.png" alt="tipografia" width="100%">
+  <img src="img/classdiagrams.png" alt="tipografia" width="100%">
 </p>
 
 ## 4.7.2. Class Dictionary. 
@@ -564,99 +564,44 @@ Una vez que el abogado ha iniciado sesión y accede al panel de casos, puede rev
 A continuación, se presentan las clases principales del diagrama de clases:
 Método para autenticar cuentas con el sistema de Google Firebase
 
-| **FirebaseAuth** | |
-|------------------|---------------------------------------------------|
-| **Descripción**  | Servicio de autenticación de cuentas del sistema de Google Firebase. |
-| **Atributo**     | **Descripción** |
-| **Método**       | **Descripción** |
-| AuthenticateAccount(): void | Método para autenticar cuentas con el sistema de Google Firebase. |
+## Modelo de Datos
 
-
-| **Account** | |
-|------------------|---------------------------------------------------|
-| **Descripción**  | Cuenta para iniciar sesión. Es dependiente de la clase FirebaseAuth para ingresar a la aplicación. |
-| **Atributo**     | **Descripción** |
-|_name: string	| Contiene el nombre del usuario|
-|_surname: string| Contiene el apellido del usuario|
-|gender: char| Contiene el género del usuario|
-|_email: string| Contiene el correo electrónico del usuario|
-|_phone: string| Contiene el número de contacto del usuario|
-|country: string| Contiene el país de origen del usuario|
-|_username: string| Contiene el username del usuario|
-|password: string| Contiene la contraseña del usuario|
-| **Método**     | **Descripción** |
-|Authentication(): void|Método para solicitar autenticación de cuentas con el sistema de Google Firebase|
-
-
-| **Doctor** | |
-|----------------|-----------------------------------------------------------------------------------------------|
-| **Descripción** | Cuenta del doctor que heredó la clase Account. Emplea métodos de la clase padre y tiene métodos propios. |
-| **Atributo**    | **Descripción** |
-| _specialty: string  | Especialidad a la que se dedica el doctor |
-| _licenseNumber: string  | Licencia que acredite al médico |
-| _experience: string     | Experiencia laboral que se haya tenido |
-| _problem: string     | Problema de negligencia medica |
-
-
-
-| **Lawyer**  | |
-|-----------------|---------------------------------------------------------------------------------------------------|
-| **Descripción** | Cuenta del abogado que heredó la clase Account. Emplea métodos de la clase padre y tiene métodos propios. |
-| **Atributo**    | **Descripción** |
-| _virtualAppointments: List<Appointment> | Contiene las reuniones con los medicos programadas |
-| _dudes: List<string>  | Cualquier consulta o duda relevante que tenga el doctor |
-| **Método**      | **Descripción** |
-| ShowAppointments(): void  | Método dedicado a mostrar las reuniones en las que el doctor se registró |
-
-
-| **Payment Facade** | |
-|--------------------|---------------------------------------------------------------------------------------------|
-| **Descripción**    | Facade utilizado para simplificar la interacción entre el sistema y los proveedores de servicio de pago. |
-| **Atributo**       | **Descripción** |
-| _apiKey : string   | Clave API que permita al Facade autenticarse con los proveedores de pago. |
-| _currency: string  | Moneda en la que se realizará el pago |
-| _amount: double    | Cantidad que será cobrada al usuario |
-| _orderID: string   | Identificador de la orden que se está procesando |
-| _status: string    | El estado actual de la transacción |
-| **Método**         | **Descripción** |
-| AddPaymentMethod(): void     | Método que permite a los usuarios agregar métodos de pago para futuras transacciones |
-| RemovePaymentMethod(): void  | Método que permite a los usuarios eliminar métodos de pago agregados con anterioridad |
-| ProcessPayment(): void       | Método que toma los datos necesarios para procesar la transacción |
-
-
-| **AppointmentFee** | |
-|--------------------|-------------------------------------------------------------------------|
-| **Descripción**    | Tarifa que se tendrá que pagar por cada cita realizada |
-| **Atributo**       | **Descripción** |
-| _feeAmount: double | Cantidad de la tarifa |
-| _taxAmount: double | Cantidad de impuestos aplicables a la tarifa |
-| _discountAmount: double | Cualquier descuento aplicable |
-| _paymentDate      | Fecha en la que se generó la tarifa |
-| **Método**         | **Descripción** |
-| GetTotal(): double         | Método encargado de retornar el costo final de la tarifa |
-| ValidateDiscount(): void   | Método encargado de validar si el descuento que algún paciente solicite es válido |
-
-
-| **Appointment** | |
-|-----------------|-----------------------------------------------------------------------------------------------|
-| **Descripción** | Tema dedicado a la cita que el cliente tendrá con el abogado. |
-| **Atributo**    | **Descripción** |
-| _startTime: date | Horario en el que inicia la sesión |
-| _endTime: date   | Horario en el que finaliza la sesión |
-| _status: string  | Estado actual de la reunion (pendiente, confirmada, cancelada o completada) |
-| **Método**      | **Descripción** |
-| Reminder(): void      | Método dedicado a recordatorios para la reunion |
-| ChangeStatus(): void  | Método encargado de actualizar el estado de la reunion |
-
-
-| **ChatSession** | |
-|-----------------|---------------------------------------------------------------------------------------------|
-| **Descripción** | Clase dedicada al chat de la sesión realizada. |
-| **Atributo**    | **Descripción** |
-| _messages: List<string>   | Lista de mensajes enviados durante la sesión |
-| _attachments:  List<file> | Archivos adjuntos enviados durante la sesión |
-| **Método**      | **Descripción** |
-| GetFiles(): file  | Método dedicado a retornar los archivos enviados durante la sesión |
+| Entidad               | Atributo        | Definición                                 | Tipo de dato      |
+|-----------------------|-----------------|--------------------------------------------|-------------------|
+| **users**             | id              | Código identificador del usuario           | int               |
+|                       | password        | Contraseña del usuario                     | string            |
+|                       | email           | Correo electrónico del usuario             | string            |
+|                       | loginStatus     | Estado de inicio de sesión                 | bool              |
+|                       | registerDate    | Fecha de registro                          | date              |
+| **lawyers**           | id              | Código identificador del abogado           | int               |
+|                       | name            | Nombre del abogado                         | string            |
+|                       | specialty       | Especialidad del abogado                   | string            |
+| **doctors**           | id              | Código identificador del doctor            | int               |
+|                       | name            | Nombre del doctor                          | string            |
+|                       | specialty       | Especialidad del doctor                    | string            |
+| **admin**             | id              | Código identificador del administrador     | int               |
+|                       | username        | Nombre de usuario del administrador        | string            |
+| **medical_students**  | id              | Código identificador de los estudiantes    | int               |
+|                       | university      | Universidad de procedencia                 | string            |
+|                       | yearsOfStudy    | Año de la carrera                          | int               |
+| **educational_resources** | id         | Código identificador del recurso educativo | int               |
+|                       | title           | Título del recurso educativo               | string            |
+|                       | type            | Tipo de recurso educativo                  | string            |
+|                       | description     | Descripción del recurso educativo          | string            |
+|                       | author          | Autor del recurso educativo                | string            |
+| **consultations**     | id              | Código identificador de las consultas      | int               |
+|                       | date            | Fecha de la consulta                       | date              |
+|                       | legalIssue      | Problema legal de la consulta              | string            |
+| **legal_cases**       | id              | Código identificador de los casos legales  | int               |
+|                       | description     | Descripción de los casos legales           |date               |
+|                       | status          |Estado de los casos legales                 |string             |
+| **payments**          | id              | Código identificador de las pagos           | float            |
+|                       | amount          | Monto del pago                             | date              |
+|                       | method          | Fecha de pago                              | string            |
+|                       | consultation    | Consulta relacionada al pago               | consultations     |
+| **notifications**     | id              | Código identificador de las notifiaciones  | int               |
+|                       | message         |  	Mensaje de la notifiación                | string            |
+|                       | timeStamp       |   	Hora de la notifiación                 | time              |
 
 
 # 4.8. Database Design. 
