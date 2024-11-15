@@ -610,6 +610,6 @@ Método para autenticar cuentas con el sistema de Google Firebase
 link: https://my.vertabelo.com/doc/Qx6uceSIer5RxAoWAxK2BU7scyccv8nR
 
 <p align="center">
-  <img src="img/base.png" alt="tipografia" width="100%">
+  <img src="img/bases.png" alt="tipografia" width="100%">
 </p>
 
