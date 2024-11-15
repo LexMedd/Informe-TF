@@ -905,7 +905,7 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Mathias Vasquez, Leonardo Dueñas</td>
+    <td colspan="8">Mathias Vasquez, Estrella Ticona</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n – 4 Review Summary</td>
@@ -983,46 +983,6 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
     <td colspan="2">Fabricio</td>
     <td colspan="1">Done</td>
 </tr>
-<tr>
-    <td colspan="1">01</td>
-    <td colspan="2">Gestión de las cuentas de los usuarios</td>
-    <td colspan="1">12</td>
-    <td colspan="2">Gestión de las cuentas de los usuarios</td>
-    <td colspan="3">Como usuario de la plataforma de MedicDefense, quiero tener la capacidad de gestionar mi cuenta personal, para mantener mi información profesional actualizada y asegurar que la experiencia de la plataforma sea lo más relevante y segura posible.</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Carlos</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">31</td>
-    <td colspan="2">Implementación de Categorías de Recursos</td>
-    <td colspan="1">15</td>
-    <td colspan="2">Implementación de Categorías de Recursos</td>
-    <td colspan="3">Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías de los recursos educativos para organizar los recursos de manera eficiente.</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Anatoly</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">32</td>
-    <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
-    <td colspan="1">17</td>
-    <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
-    <td colspan="3">Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
-    <td colspan="1">5</td>
-    <td colspan="2">Anatoly</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">18</td>
-    <td colspan="2">Integración de pagos</td>
-    <td colspan="1">19</td>
-    <td colspan="2">Integración de pagos</td>
-    <td colspan="3">Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
-    <td colspan="1">8</td>
-    <td colspan="2">Mathias</td>
-    <td colspan="1">Done</td>
-</tr>
 </table>
 
 ### 5.2.4.3. Development Evidence for Sprint Review
@@ -1040,44 +1000,36 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
   </thead>
   <tbody>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Carlos Avellaneda</td>
+      <td>LexMedd/LexMedd-Backend</td>
+      <td>Contact</td>
       <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
-      <td>Merge Bounded Context of Consultation</td>
+      <td>Merge Bounded Context of Contact</td>
       <td>-</td>
-      <td>05/06/2024</td>
+      <td>15/11/2024</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Anatoly Noriega</td>
+      <td>LexMedd/LexMedd-Backend</td>
+      <td>Legal cases</td>
       <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
-      <td>Merge Bounded Context of Educational</td>
+      <td>Merge Bounded Context of Legal cases</td>
       <td>-</td>
-      <td>05/06/2024</td>
+      <td>15/11/2024</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Augusto Vasquez</td>
+      <td>LexMedd/LexMedd-Backend</td>
+      <td>IAM</td>
       <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
-      <td>Merge Bounded Context of Payment</td>
+      <td>Merge Bounded Context of Login and Register</td>
       <td>-</td>
-      <td>05/06/2024</td>
+      <td>15/11/2024</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Diego Flores</td>
+      <td>LexMedd/LexMedd-Backend</td>
+      <td>User profile</td>
       <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
-      <td>Merge Bounded Context of Communication</td>
+      <td>Merge Bounded Context of User profile</td>
       <td>-</td>
-      <td>05/06/2024</td>
-    </tr>
-     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Gabriel Garcia and Fabricio Apaza</td>
-      <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
-      <td>Merge Bounded Context of Legal Case</td>
-      <td>-</td>
-      <td>05/06/2024</td>
+      <td>15/11/2024</td>
     </tr>
   </tbody>
 </table>
@@ -1097,7 +1049,7 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
   </thead>
   <tbody>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>LexMedd/LexMedd-Backend</td>
       <td>main</td>
       <td>59e769c513a378a4414d879133e867bef833a636</td>
       <td>add "bounded context paymentv"</td>
@@ -1105,44 +1057,12 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
       <td>2024-06-06</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
+      <td>LexMedd/LexMedd-Backend</td>
       <td>main</td>
       <td>92ae3c6157480b0c09b72a35ae45aeabae1d58d1</td>
       <td>Merge branch 'main' into Augusto_Vasquez</td>
       <td>Merge branch 'main' into Augusto_Vasquez in backend</td>
       <td>2024-06-06</td>
-    </tr>
-    <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>main</td>
-      <td>4d965678671a66d81506d51ae4b1a610fa4b34b5</td>
-      <td>updated application properties adding connection to database from azure</td>
-      <td>Added: updated application properties adding connection to database from azure.</td>
-      <td>2024-06-22</td>
-    </tr>
-    <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>main</td>
-      <td>378b8b5e689a646c8ac8b7c22168967ba509a3b9</td>
-      <td>fixed minor errors</td>
-      <td>fixed minor errors in connsultation on backend</td>
-      <td>2024-06-22</td>
-    </tr>
-    <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>main</td>
-      <td>65bb95a2bc2c22263a0af59a452b72a29b4f320b</td>
-      <td>Merge remote-tracking branch 'origin/main'</td>
-      <td>Merge remote-tracking branch 'origin/main' in backend</td>
-      <td>2024-06-22</td>
-    </tr>
-    <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>main</td>
-      <td>3123427451ba19f869aa6941f2d89524e12bacca</td>
-      <td>fixed minor errors</td>
-      <td>fixed minor errors in consultation on backend</td>
-      <td>2024-06-22</td>
     </tr>
   </tbody>
 </table>
@@ -1175,52 +1095,38 @@ Durante este sprint, se ha mejorado el back-end y front-end de una API integral 
     <th>Sintaxis de Llamada</th>
     <th>Parámetros</th>
     <th>Ejemplo de Llamada</th>
-    <th>Explicación del Response</th>
   </tr>
   <tr>
-    <td>/api/v1/medic/{recordId}/add-one-to-paid-service</td>
-    <td>Añadir servicio pagado</td>
+    <td>/api/v1/contact</td>
+    <td>Añadir solicitud</td>
     <td>PUT</td>
     <td>/api/v1/medic/{recordId}/add-one-to-paid-service</td>
     <td>recordId</td>
     <td>PUT /api/v1/medic/1/add-one-to-paid-service</td>
-    <td>200 OK: Añade un servicio pagado al registro especificado.</td>
   </tr>
   <tr>
-    <td>/api/v1/medic/{recordId}/add-one-to-consultation</td>
-    <td>Añadir consulta</td>
-    <td>PUT</td>
-    <td>/api/v1/medic/{recordId}/add-one-to-consultation</td>
+    <td>/api/v1/contact</td>
+    <td>Añadir todos los contactos</td>
+    <td>GET</td>
+    <td>ResponseEntity List<ContactResource>getAllContacts</td>
     <td>recordId</td>
     <td>PUT /api/v1/medic/1/add-one-to-consultation</td>
-    <td>200 OK: Añade una consulta al registro especificado.</td>
   </tr>
   <tr>
-    <td>/api/v1/medic</td>
+    <td>/api/v1/contact</td>
     <td>Listar</td>
     <td>GET</td>
-    <td>/api/v1/medic</td>
+    <td>/receiver/{receiverId}</td>
     <td>-</td>
     <td>GET /api/v1/medic</td>
-    <td>200 OK: Devuelve una lista de todos los médicos.</td>
   </tr>
   <tr>
-    <td>/api/v1/medic</td>
+    <td>/api/v1/contact</td>
     <td>Crear</td>
     <td>POST</td>
     <td>/api/v1/medic</td>
     <td>-</td>
     <td>POST /api/v1/medic</td>
-    <td>201 Created: Crea un nuevo médico.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/medic/{userId}/user</td>
-    <td>Obtener por usuario</td>
-    <td>GET</td>
-    <td>/api/v1/medic/{userId}/user</td>
-    <td>userId</td>
-    <td>GET /api/v1/medic/1/user</td>
-    <td>200 OK: Devuelve los detalles del médico para el usuario especificado.</td>
   </tr>
 </table>
 
@@ -1229,9 +1135,7 @@ Capturas de interaccion:
 
 Endpoints:
 
-
 Sing-In:
-
 
 Sing-Up:
 
@@ -1251,33 +1155,33 @@ Commits relacionados:
         <th colspan="2">Commit Message</th>
     </tr>
         <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
-        <td colspan="2">Carlos_Avellaneda</td>
-        <td colspan="2">ef480ccd255b89447523f90e8efc7a947a490001</td>
+        <td colspan="2">LexMedd/LexMedd-Backend</td>
+        <td colspan="2">Contact</td>
+        <td colspan="2">11b4a9b6c902f26a1bda306489d7d9bc46635b83</td>
         <td colspan="2">Merge pull request</td>
     </tr>
         <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
-        <td colspan="2">Anatoly_noriega</td>
-        <td colspan="2">b268969f824061e227a7d9c98ed91b53f0b11d66</td>
+        <td colspan="2">LexMedd/LexMedd-Backend</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
         <td colspan="2">Merge pull request</td>
     </tr>
     <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
-        <td colspan="2">Augusto_Vasquez</td>
-        <td colspan="2">6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
+        <td colspan="2">LexMedd/LexMedd-Backend</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
         <td colspan="2">Merge pull request</td>
     </tr>
     <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
-        <td colspan="2">Diego_Flores</td>
-        <td colspan="2">4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
+        <td colspan="2">LexMedd/LexMedd-Backend</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
         <td colspan="2">Merge pull request</td>
     </tr>
     <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
-        <td colspan="2">Gabriel_Garcia-and-Fabricio_Apaza</td>
-        <td colspan="2">df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
+        <td colspan="2">LexMedd/LexMedd-Backend</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
         <td colspan="2">Merge pull request</td>
     </tr>
 </table>    
