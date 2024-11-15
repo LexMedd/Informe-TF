@@ -556,7 +556,7 @@ Una vez que el abogado ha iniciado sesión y accede al panel de casos, puede rev
 **Link: https://lucid.app/lucidchart/3f15b96b-df71-43f2-b575-117e168297a5/edit?viewport_loc=-1813%2C-1214%2C4992%2C2445%2C0_0&invitationId=inv_a6f59cf7-57c2-4541-9d26-5348144cecf5**
 
 <p align="center">
-  <img src="img/classdiagrams.png" alt="tipografia" width="100%">
+  <img src="img/class.png" alt="tipografia" width="100%">
 </p>
 
 ## 4.7.2. Class Dictionary. 
@@ -610,6 +610,6 @@ Método para autenticar cuentas con el sistema de Google Firebase
 link: https://my.vertabelo.com/doc/Qx6uceSIer5RxAoWAxK2BU7scyccv8nR
 
 <p align="center">
-  <img src="img/databasediagram.png" alt="tipografia" width="100%">
+  <img src="img/base.png" alt="tipografia" width="100%">
 </p>
 
