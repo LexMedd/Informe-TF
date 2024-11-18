@@ -1072,14 +1072,8 @@ Para esta cuarta entrega, nuestro equipo ha mejorado y pulido tanto la parte de 
 
 Endpoints:
 
-Sing-In:
-
-
-Sing-Up:
-
-
-
-Lawyers:
+Contact:
+Sing-in
 
 
 
@@ -1136,10 +1130,7 @@ Capturas de interaccion:
 Endpoints:
 
 Sing-In:
-
-Sing-Up:
-
-Lawyers:
+Contact:
 
 
 Url del repositorio Frontend: https://github.com/LexMedd/LexMedd-Frontend
@@ -1190,7 +1181,7 @@ Commits relacionados:
 Para el desarrollo de la segunda version de Web Services y el Frontend Web Application, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
 
 
-![alt text](<../assets/imgs/Evidence Backend.png>)
+![alt text](<../docs/images/GITHUB BACK LEXMEDD.png>)
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
