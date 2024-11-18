@@ -960,7 +960,7 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
     <td colspan="2">Soporte para múltiples navegadores</td>
     <td colspan="3">Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Gabriel</td>
+    <td colspan="2">Mathias</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
@@ -970,7 +970,7 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
     <td colspan="2">Base de datos de usuarios</td>
     <td colspan="3">Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
     <td colspan="1">5</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Estrella</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
@@ -980,7 +980,7 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
     <td colspan="2">Creación y gestión de recursos de consultas</td>
     <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan gestionar las consultas necesarias.</td>
     <td colspan="1">5</td>
-    <td colspan="2">Fabricio</td>
+    <td colspan="2">Mathias</td>
     <td colspan="1">Done</td>
 </tr>
 </table>
@@ -1052,17 +1052,25 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
       <td>LexMedd/LexMedd-Backend</td>
       <td>main</td>
       <td>59e769c513a378a4414d879133e867bef833a636</td>
-      <td>add "bounded context paymentv"</td>
-      <td>created bounded context paymentv to backend</td>
-      <td>2024-06-06</td>
+      <td>Merge branch 'Feature/contact' into develop</td>
+      <td>Merge branch 'Feature/contact' into develop</td>
+      <td>2024-11-17</td>
     </tr>
     <tr>
       <td>LexMedd/LexMedd-Backend</td>
       <td>main</td>
-      <td>92ae3c6157480b0c09b72a35ae45aeabae1d58d1</td>
-      <td>Merge branch 'main' into Augusto_Vasquez</td>
-      <td>Merge branch 'main' into Augusto_Vasquez in backend</td>
-      <td>2024-06-06</td>
+      <td>bbb340c1e1f1341c1186663e2bf5ebde53e17d32</td>
+      <td>Merge branch 'develop'</td>
+      <td>Merge branch 'develop'</td>
+      <td>2024-11-17</td>
+    </tr>
+        <tr>
+      <td>LexMedd/LexMedd-Backend</td>
+      <td>main</td>
+      <td>bbb340c1e1f1341c1186663e2bf5ebde53e17d32</td>
+      <td>Merge branch 'Feature/iam' into develop</td>
+      <td>Merge branch 'Feature/iam' into develop</td>
+      <td>2024-11-17</td>
     </tr>
   </tbody>
 </table>
@@ -1072,10 +1080,9 @@ Para esta cuarta entrega, nuestro equipo ha mejorado y pulido tanto la parte de 
 
 Endpoints:
 
-Contact:
-Sing-in
+Contact and sign-in:
 
-
+![alt text](<../docs/images/Contact and sign in.png>)
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -1124,15 +1131,6 @@ Durante este sprint, se ha mejorado el back-end y front-end de una API integral 
   </tr>
 </table>
 
-
-Capturas de interaccion:
-
-Endpoints:
-
-Sing-In:
-Contact:
-
-
 Url del repositorio Frontend: https://github.com/LexMedd/LexMedd-Frontend
 Url del repositorio Backend: https://github.com/LexMedd/LexMedd-Backend
 
@@ -1153,28 +1151,17 @@ Commits relacionados:
     </tr>
         <tr>
         <td colspan="2">LexMedd/LexMedd-Backend</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">iam</td>
+        <td colspan="2">32584e9cb3a80749898fb2e7d8c05c3eb13083d6</td>
         <td colspan="2">Merge pull request</td>
     </tr>
     <tr>
         <td colspan="2">LexMedd/LexMedd-Backend</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">doctor_filters</td>
+        <td colspan="2">3b65947fb934985f551725f3cdbd03bceeca3b68</td>
         <td colspan="2">Merge pull request</td>
     </tr>
-    <tr>
-        <td colspan="2">LexMedd/LexMedd-Backend</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2">Merge pull request</td>
-    </tr>
-    <tr>
-        <td colspan="2">LexMedd/LexMedd-Backend</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2">Merge pull request</td>
-    </tr>
+
 </table>    
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
@@ -1211,85 +1198,59 @@ Para el diseño de entrevistas hemos recopilado informacion y opiniones acerca d
 
 En el proceso de investigación para nuestro proyecto, se llevaron a cabo entrevistas del público objetivo. Cada entrevista se documentó en video y se registraron los siguientes detalles:
 
-Enlace de la entrevista: 
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EUbWJYz-wvdJla6Of4Hmk14B591XtBnIqfDCm9gAthDjzA?e=5cE8o9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**Segmento 1: universitarios**
+**Segmento 1: Abogados**
 
-**Nombre y Apellido:** Gabriel Garcia
+**Nombre y Apellido:** Fabian Vasquez
 
-**Edad:** 21
+**Edad:** 35
 
-**Distrito:** Carabayllo
-
-**Screenshot de la Entrevista:**
-![alt text](<../imgs/Entrevista Gabo.png>)
-
-**Timelapse:** [Inicio: 00:00, Fin: 06:53]
-
-**Segmento 1: universitarios**
-
-**Nombre y Apellido:** Diego Flores
-
-**Edad:** 20
-
-**Distrito:** Barranco
+**Distrito:** Jesus Maria
 
 **Screenshot de la Entrevista:**
-![alt text](<../imgs/Entrevista Diego.png>)
+![alt text](<../docs/images/Entrevista 1 validation.png>)
 
-**Timelapse:** [Inicio: 06:53, Fin: 10:28]
+**Timelapse:** [Inicio: 00:00, Fin: 04:51]
 
-**Segmento 1: universitarios**
-
-**Nombre y Apellido:** Joseph Ulises Yacchua Peralta
-
-**Edad:** 20
-
-**Distrito:** Rimac
-
-**Screenshot de la Entrevista:**
-![alt text](<../imgs/Entrevista Joseph.png>)
-
-**Timelapse:** [Inicio: 10:28, Fin: 16:46]
-
-**Segmento 2: profesionales urbanos**
-
-**Nombre y Apellido:** Jeremy Morales 
-
-**Edad:** 24
-
-**Distrito:** Surquillo
-
-**Screenshot de la Entrevista:**
-![alt text](<../imgs/Entrevista Jeremy.png>)
-
-**Timelapse:** [Inicio: 16:46, Fin: 24:38]
-
-**Segmento 2: profesionales urbanos**
-
-**Nombre y Apellido:** Mariela Sanchez 
-
-**Edad:** 39
-
-**Distrito:** Callao
-
-**Screenshot de la Entrevista:**
-![alt text](<../imgs/Entrevista Mariela.png>)
-
-**Timelapse:** [Inicio: 24:38, Fin: 29:22]
-
-**Segmento 2: profesionales urbanos**
+**Segmento 1: Abogados**
 
 **Nombre y Apellido:** Miguel Polo
 
-**Edad:** 19
+**Edad:** 26
 
 **Distrito:** Magdalena
 
 **Screenshot de la Entrevista:**
-![alt text](<../imgs/Entrevista Miguel.png>)
+![alt text](<../docs/images/Entrevista 2 validation.png>)
+**Timelapse:** [Inicio: 04:51, Fin: 09:47]
 
-**Timelapse:** [Inicio: 29:22, Fin: 33:41]
+**Segmento 2: Medicos**
+
+**Nombre y Apellido:** Adrian Aramburu
+
+**Edad:** 33
+
+**Distrito:** Rimac
+
+**Screenshot de la Entrevista:**
+![alt text](<../docs/images/Entrevista 3 validation.png>)
+
+**Timelapse:** [Inicio: 09:47, Fin: 14:45]
+
+**Segmento 2: Medicos**
+
+**Nombre y Apellido:** Arwen Vasquez
+
+**Edad:** 29
+
+**Distrito:** Surquillo
+
+**Screenshot de la Entrevista:**
+![alt text](<../docs/images/Entrevista 4 validation.png>)
+
+**Timelapse:** [Inicio: 14:45, Fin: 20:33]
+
 
 ### 5.3.3. Evaluaciones según heurísticas
 
@@ -1433,8 +1394,9 @@ Se recomienda proporcionar explicaciones claras y concisas para todas las opcion
 ●	Github es un software de control de versiones indispensable para trabajar el proyecto en equipo. Además, se integra fácilmente con muchas plataformas de servicios como softwares de deployment. 
 ●	Aún es necesario implementar múltiples vistas y funcionalidades en la aplicación web. Al tratarse de un demo del producto final esperado, recomendamos seguir trabajando en el proyecto mediante nuevas features e historias de usuario.
 
-**- Video About-the-Team:** 
-**- Video About-the-Product:** 
+**- Video About-the-Team:** https://youtu.be/lANhPk01t-0 
+**- Video About-the-Product:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EXhXp8q7NhNOgBjBbMWIuo4Bri45KVGPu58MA9elXl3zEA?e=TfUffL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**- Video de validation Interviews:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EUbWJYz-wvdJla6Of4Hmk14B591XtBnIqfDCm9gAthDjzA?e=5cE8o9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ---
 
