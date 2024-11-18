@@ -1396,7 +1396,7 @@ Se recomienda proporcionar explicaciones claras y concisas para todas las opcion
 **- Video About-the-Team:** https://youtu.be/lANhPk01t-0 
 **- Video About-the-Product:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EXhXp8q7NhNOgBjBbMWIuo4Bri45KVGPu58MA9elXl3zEA?e=TfUffL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 **- Video de validation Interviews:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EUbWJYz-wvdJla6Of4Hmk14B591XtBnIqfDCm9gAthDjzA?e=5cE8o9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
+**- Video Exposicion**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a955_upc_edu_pe/EZqdlbCXw1lJpcdi3CTAoEoBN9LGiwc3fyfiFvu36ezpuw?e=zf3aM9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ---
 
 ## Bibliografía
