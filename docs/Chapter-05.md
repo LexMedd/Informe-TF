@@ -1173,13 +1173,10 @@ Para el desarrollo de la segunda version de Web Services y el Frontend Web Appli
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
-**Commits:**
-
-![alt text](<../assets/imgs/commits sprint 4.png>)
 
 **Analiticas de Colaboración:**
 
-![alt text](<../assets/imgs/netwk sprint 4.png>)
+![alt text](<..//docs/images/network.png>)
 
 ## 5.3 Validation Interviews
 
