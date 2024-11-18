@@ -1170,6 +1170,8 @@ Para el desarrollo de la segunda version de Web Services y el Frontend Web Appli
 
 ![alt text](<../docs/images/GITHUB BACK LEXMEDD.png>)
 
+LINK DEL BACKEND DESPLEGADO: https://lexmed.azurewebsites.net/swagger-ui/index.html#/ 
+
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
